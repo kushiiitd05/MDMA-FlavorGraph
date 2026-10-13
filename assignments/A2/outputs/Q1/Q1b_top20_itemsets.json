@@ -1,0 +1,368 @@
+{
+  "size_1": [
+    {
+      "rank": 1,
+      "itemset": "garlic",
+      "support_count": 3459,
+      "support_fraction": 0.289844
+    },
+    {
+      "rank": 2,
+      "itemset": "butter",
+      "support_count": 3440,
+      "support_fraction": 0.288252
+    },
+    {
+      "rank": 3,
+      "itemset": "olive oil",
+      "support_count": 3155,
+      "support_fraction": 0.264371
+    },
+    {
+      "rank": 4,
+      "itemset": "egg",
+      "support_count": 2793,
+      "support_fraction": 0.234037
+    },
+    {
+      "rank": 5,
+      "itemset": "onion",
+      "support_count": 2039,
+      "support_fraction": 0.170856
+    },
+    {
+      "rank": 6,
+      "itemset": "lemon",
+      "support_count": 2030,
+      "support_fraction": 0.170102
+    },
+    {
+      "rank": 7,
+      "itemset": "plain flour",
+      "support_count": 1802,
+      "support_fraction": 0.150997
+    },
+    {
+      "rank": 8,
+      "itemset": "coriander",
+      "support_count": 1425,
+      "support_fraction": 0.119407
+    },
+    {
+      "rank": 9,
+      "itemset": "caster sugar",
+      "support_count": 1199,
+      "support_fraction": 0.100469
+    },
+    {
+      "rank": 10,
+      "itemset": "tomato",
+      "support_count": 1115,
+      "support_fraction": 0.093431
+    },
+    {
+      "rank": 11,
+      "itemset": "golden caster sugar",
+      "support_count": 1074,
+      "support_fraction": 0.089995
+    },
+    {
+      "rank": 12,
+      "itemset": "double cream",
+      "support_count": 1032,
+      "support_fraction": 0.086476
+    },
+    {
+      "rank": 13,
+      "itemset": "milk",
+      "support_count": 1021,
+      "support_fraction": 0.085554
+    },
+    {
+      "rank": 14,
+      "itemset": "parsley",
+      "support_count": 1017,
+      "support_fraction": 0.085219
+    },
+    {
+      "rank": 15,
+      "itemset": "red onion",
+      "support_count": 961,
+      "support_fraction": 0.080526
+    },
+    {
+      "rank": 16,
+      "itemset": "icing sugar",
+      "support_count": 945,
+      "support_fraction": 0.079186
+    },
+    {
+      "rank": 17,
+      "itemset": "carrot",
+      "support_count": 939,
+      "support_fraction": 0.078683
+    },
+    {
+      "rank": 18,
+      "itemset": "spring onion",
+      "support_count": 928,
+      "support_fraction": 0.077761
+    },
+    {
+      "rank": 19,
+      "itemset": "ginger",
+      "support_count": 927,
+      "support_fraction": 0.077677
+    },
+    {
+      "rank": 20,
+      "itemset": "vegetable oil",
+      "support_count": 888,
+      "support_fraction": 0.074409
+    }
+  ],
+  "size_2": [
+    {
+      "rank": 1,
+      "itemset": "butter | egg",
+      "support_count": 1572,
+      "support_fraction": 0.131724
+    },
+    {
+      "rank": 2,
+      "itemset": "garlic | olive oil",
+      "support_count": 1572,
+      "support_fraction": 0.131724
+    },
+    {
+      "rank": 3,
+      "itemset": "butter | plain flour",
+      "support_count": 1189,
+      "support_fraction": 0.099631
+    },
+    {
+      "rank": 4,
+      "itemset": "garlic | onion",
+      "support_count": 1185,
+      "support_fraction": 0.099296
+    },
+    {
+      "rank": 5,
+      "itemset": "egg | plain flour",
+      "support_count": 1006,
+      "support_fraction": 0.084297
+    },
+    {
+      "rank": 6,
+      "itemset": "olive oil | onion",
+      "support_count": 866,
+      "support_fraction": 0.072566
+    },
+    {
+      "rank": 7,
+      "itemset": "olive oil | lemon",
+      "support_count": 822,
+      "support_fraction": 0.068879
+    },
+    {
+      "rank": 8,
+      "itemset": "garlic | coriander",
+      "support_count": 790,
+      "support_fraction": 0.066197
+    },
+    {
+      "rank": 9,
+      "itemset": "garlic | lemon",
+      "support_count": 778,
+      "support_fraction": 0.065192
+    },
+    {
+      "rank": 10,
+      "itemset": "garlic | tomato",
+      "support_count": 707,
+      "support_fraction": 0.059243
+    },
+    {
+      "rank": 11,
+      "itemset": "butter | milk",
+      "support_count": 684,
+      "support_fraction": 0.057315
+    },
+    {
+      "rank": 12,
+      "itemset": "butter | icing sugar",
+      "support_count": 670,
+      "support_fraction": 0.056142
+    },
+    {
+      "rank": 13,
+      "itemset": "butter | golden caster sugar",
+      "support_count": 649,
+      "support_fraction": 0.054382
+    },
+    {
+      "rank": 14,
+      "itemset": "egg | self-raising flour",
+      "support_count": 630,
+      "support_fraction": 0.05279
+    },
+    {
+      "rank": 15,
+      "itemset": "butter | self-raising flour",
+      "support_count": 606,
+      "support_fraction": 0.050779
+    },
+    {
+      "rank": 16,
+      "itemset": "garlic | butter",
+      "support_count": 591,
+      "support_fraction": 0.049522
+    },
+    {
+      "rank": 17,
+      "itemset": "butter | caster sugar",
+      "support_count": 589,
+      "support_fraction": 0.049355
+    },
+    {
+      "rank": 18,
+      "itemset": "egg | golden caster sugar",
+      "support_count": 586,
+      "support_fraction": 0.049103
+    },
+    {
+      "rank": 19,
+      "itemset": "egg | milk",
+      "support_count": 578,
+      "support_fraction": 0.048433
+    },
+    {
+      "rank": 20,
+      "itemset": "butter | double cream",
+      "support_count": 576,
+      "support_fraction": 0.048265
+    }
+  ],
+  "size_3": [
+    {
+      "rank": 1,
+      "itemset": "butter | egg | plain flour",
+      "support_count": 719,
+      "support_fraction": 0.060248
+    },
+    {
+      "rank": 2,
+      "itemset": "garlic | olive oil | onion",
+      "support_count": 565,
+      "support_fraction": 0.047344
+    },
+    {
+      "rank": 3,
+      "itemset": "butter | egg | self-raising flour",
+      "support_count": 537,
+      "support_fraction": 0.044997
+    },
+    {
+      "rank": 4,
+      "itemset": "butter | egg | golden caster sugar",
+      "support_count": 489,
+      "support_fraction": 0.040975
+    },
+    {
+      "rank": 5,
+      "itemset": "butter | egg | icing sugar",
+      "support_count": 485,
+      "support_fraction": 0.04064
+    },
+    {
+      "rank": 6,
+      "itemset": "garlic | olive oil | lemon",
+      "support_count": 458,
+      "support_fraction": 0.038378
+    },
+    {
+      "rank": 7,
+      "itemset": "butter | egg | milk",
+      "support_count": 436,
+      "support_fraction": 0.036534
+    },
+    {
+      "rank": 8,
+      "itemset": "butter | egg | baking powder",
+      "support_count": 419,
+      "support_fraction": 0.03511
+    },
+    {
+      "rank": 9,
+      "itemset": "butter | egg | vanilla extract",
+      "support_count": 394,
+      "support_fraction": 0.033015
+    },
+    {
+      "rank": 10,
+      "itemset": "garlic | onion | tomato",
+      "support_count": 393,
+      "support_fraction": 0.032931
+    },
+    {
+      "rank": 11,
+      "itemset": "butter | egg | caster sugar",
+      "support_count": 392,
+      "support_fraction": 0.032847
+    },
+    {
+      "rank": 12,
+      "itemset": "garlic | olive oil | tomato",
+      "support_count": 386,
+      "support_fraction": 0.032345
+    },
+    {
+      "rank": 13,
+      "itemset": "garlic | onion | coriander",
+      "support_count": 329,
+      "support_fraction": 0.027568
+    },
+    {
+      "rank": 14,
+      "itemset": "garlic | olive oil | parsley",
+      "support_count": 312,
+      "support_fraction": 0.026144
+    },
+    {
+      "rank": 15,
+      "itemset": "garlic | coriander | ginger",
+      "support_count": 302,
+      "support_fraction": 0.025306
+    },
+    {
+      "rank": 16,
+      "itemset": "butter | plain flour | golden caster sugar",
+      "support_count": 287,
+      "support_fraction": 0.024049
+    },
+    {
+      "rank": 17,
+      "itemset": "butter | plain flour | icing sugar",
+      "support_count": 286,
+      "support_fraction": 0.023965
+    },
+    {
+      "rank": 18,
+      "itemset": "butter | plain flour | milk",
+      "support_count": 282,
+      "support_fraction": 0.02363
+    },
+    {
+      "rank": 19,
+      "itemset": "olive oil | onion | tomato",
+      "support_count": 275,
+      "support_fraction": 0.023043
+    },
+    {
+      "rank": 20,
+      "itemset": "butter | egg | double cream",
+      "support_count": 269,
+      "support_fraction": 0.022541
+    }
+  ]
+}

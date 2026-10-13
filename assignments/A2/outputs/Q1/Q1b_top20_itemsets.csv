@@ -1,0 +1,61 @@
+size,rank,itemset,support_count,support_fraction
+1,1,garlic,3459,0.289844
+1,2,butter,3440,0.288252
+1,3,olive oil,3155,0.264371
+1,4,egg,2793,0.234037
+1,5,onion,2039,0.170856
+1,6,lemon,2030,0.170102
+1,7,plain flour,1802,0.150997
+1,8,coriander,1425,0.119407
+1,9,caster sugar,1199,0.100469
+1,10,tomato,1115,0.093431
+1,11,golden caster sugar,1074,0.089995
+1,12,double cream,1032,0.086476
+1,13,milk,1021,0.085554
+1,14,parsley,1017,0.085219
+1,15,red onion,961,0.080526
+1,16,icing sugar,945,0.079186
+1,17,carrot,939,0.078683
+1,18,spring onion,928,0.077761
+1,19,ginger,927,0.077677
+1,20,vegetable oil,888,0.074409
+2,1,butter | egg,1572,0.131724
+2,2,garlic | olive oil,1572,0.131724
+2,3,butter | plain flour,1189,0.099631
+2,4,garlic | onion,1185,0.099296
+2,5,egg | plain flour,1006,0.084297
+2,6,olive oil | onion,866,0.072566
+2,7,olive oil | lemon,822,0.068879
+2,8,garlic | coriander,790,0.066197
+2,9,garlic | lemon,778,0.065192
+2,10,garlic | tomato,707,0.059243
+2,11,butter | milk,684,0.057315
+2,12,butter | icing sugar,670,0.056142
+2,13,butter | golden caster sugar,649,0.054382
+2,14,egg | self-raising flour,630,0.05279
+2,15,butter | self-raising flour,606,0.050779
+2,16,garlic | butter,591,0.049522
+2,17,butter | caster sugar,589,0.049355
+2,18,egg | golden caster sugar,586,0.049103
+2,19,egg | milk,578,0.048433
+2,20,butter | double cream,576,0.048265
+3,1,butter | egg | plain flour,719,0.060248
+3,2,garlic | olive oil | onion,565,0.047344
+3,3,butter | egg | self-raising flour,537,0.044997
+3,4,butter | egg | golden caster sugar,489,0.040975
+3,5,butter | egg | icing sugar,485,0.04064
+3,6,garlic | olive oil | lemon,458,0.038378
+3,7,butter | egg | milk,436,0.036534
+3,8,butter | egg | baking powder,419,0.03511
+3,9,butter | egg | vanilla extract,394,0.033015
+3,10,garlic | onion | tomato,393,0.032931
+3,11,butter | egg | caster sugar,392,0.032847
+3,12,garlic | olive oil | tomato,386,0.032345
+3,13,garlic | onion | coriander,329,0.027568
+3,14,garlic | olive oil | parsley,312,0.026144
+3,15,garlic | coriander | ginger,302,0.025306
+3,16,butter | plain flour | golden caster sugar,287,0.024049
+3,17,butter | plain flour | icing sugar,286,0.023965
+3,18,butter | plain flour | milk,282,0.02363
+3,19,olive oil | onion | tomato,275,0.023043
+3,20,butter | egg | double cream,269,0.022541

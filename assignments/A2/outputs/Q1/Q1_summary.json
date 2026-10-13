@@ -1,0 +1,119 @@
+{
+  "corpus": {
+    "n_recipes": 11934,
+    "n_memberships": 115197,
+    "n_unique_ingredients": 6346,
+    "mean_recipe_size": 9.652840623428858,
+    "min_recipe_size": 1,
+    "max_recipe_size": 38
+  },
+  "membership_convention": "binary (a recipe is a SET of distinct ingredients)",
+  "algorithm_implemented": "Apriori (level-wise, from scratch - no mining library)",
+  "min_support_fraction": 0.001,
+  "min_support_count": 12,
+  "apriori_levels": [
+    {
+      "k": 1,
+      "candidates": 6346,
+      "frequent": 833,
+      "seconds": 0.01
+    },
+    {
+      "k": 2,
+      "candidates_generated": 346528,
+      "pruned_by_downward_closure": 0,
+      "candidates_counted": 346528,
+      "frequent": 7689,
+      "seconds": 0.28
+    },
+    {
+      "k": 3,
+      "candidates_generated": 629234,
+      "pruned_by_downward_closure": 544495,
+      "candidates_counted": 84739,
+      "frequent": 12807,
+      "seconds": 0.57
+    }
+  ],
+  "apriori_frequent_counts": {
+    "size_1": 833,
+    "size_2": 7689,
+    "size_3": 12807
+  },
+  "complete_itemset_counts_support_ge_1": {
+    "size_1": 6346,
+    "size_2": 170419,
+    "size_3": 1350680
+  },
+  "itemsets_by_threshold": {
+    "support_ge_1": {
+      "size_1": 6346,
+      "size_2": 170419,
+      "size_3": 1350680
+    },
+    "support_ge_2": {
+      "size_1": 2720,
+      "size_2": 54495,
+      "size_3": 239983
+    },
+    "support_ge_5": {
+      "size_1": 1405,
+      "size_2": 19721,
+      "size_3": 51017
+    },
+    "support_ge_10": {
+      "size_1": 926,
+      "size_2": 9367,
+      "size_3": 17102
+    },
+    "support_ge_12": {
+      "size_1": 833,
+      "size_2": 7689,
+      "size_3": 12807
+    },
+    "support_ge_20": {
+      "size_1": 613,
+      "size_2": 4296,
+      "size_3": 5609
+    },
+    "support_ge_50": {
+      "size_1": 351,
+      "size_2": 1346,
+      "size_3": 1103
+    },
+    "support_ge_100": {
+      "size_1": 210,
+      "size_2": 490,
+      "size_3": 275
+    }
+  },
+  "apriori_vs_bruteforce": {
+    "k=1": {
+      "apriori_itemsets": 833,
+      "bruteforce_itemsets": 833,
+      "identical_sets": true,
+      "identical_support_counts": true
+    },
+    "k=2": {
+      "apriori_itemsets": 7689,
+      "bruteforce_itemsets": 7689,
+      "identical_sets": true,
+      "identical_support_counts": true
+    },
+    "k=3": {
+      "apriori_itemsets": 12807,
+      "bruteforce_itemsets": 12807,
+      "identical_sets": true,
+      "identical_support_counts": true
+    }
+  },
+  "top_rule_by_confidence": {
+    "rule": "self-raising flour -> egg",
+    "support_count_XuY": 630,
+    "support_XuY": 0.05279,
+    "support_X": 0.064941,
+    "support_Y": 0.234037,
+    "confidence": 0.8129,
+    "lift": 3.473
+  }
+}

@@ -1,0 +1,834 @@
+item_1,itemset,size,support_count,support_fraction
+garlic,garlic,1,3459,0.28984414
+butter,butter,1,3440,0.28825205
+olive oil,olive oil,1,3155,0.26437071
+egg,egg,1,2793,0.2340372
+onion,onion,1,2039,0.17085638
+lemon,lemon,1,2030,0.17010223
+plain flour,plain flour,1,1802,0.15099715
+coriander,coriander,1,1425,0.11940674
+caster sugar,caster sugar,1,1199,0.10046925
+tomato,tomato,1,1115,0.09343053
+golden caster sugar,golden caster sugar,1,1074,0.08999497
+double cream,double cream,1,1032,0.08647562
+milk,milk,1,1021,0.08555388
+parsley,parsley,1,1017,0.0852187
+red onion,red onion,1,961,0.08052623
+icing sugar,icing sugar,1,945,0.07918552
+carrot,carrot,1,939,0.07868276
+spring onion,spring onion,1,928,0.07776102
+ginger,ginger,1,927,0.07767722
+vegetable oil,vegetable oil,1,888,0.07440925
+lime,lime,1,879,0.0736551
+thyme,thyme,1,869,0.07281716
+cinnamon,cinnamon,1,867,0.07264957
+self-raising flour,self-raising flour,1,775,0.06494051
+wine vinegar,wine vinegar,1,727,0.06091838
+potato,potato,1,724,0.060667
+vanilla extract,vanilla extract,1,701,0.05873974
+mint,mint,1,697,0.05840456
+baking powder,baking powder,1,689,0.0577342
+parmesan,parmesan,1,670,0.05614211
+sunflower oil,sunflower oil,1,656,0.054969
+honey,honey,1,645,0.05404726
+red chilli,red chilli,1,615,0.05153343
+extra virgin olive oil,extra virgin olive oil,1,580,0.04860064
+basil,basil,1,570,0.04776269
+orange,orange,1,553,0.04633819
+rapeseed oil,rapeseed oil,1,537,0.04499749
+red pepper,red pepper,1,537,0.04499749
+chicken stock,chicken stock,1,528,0.04424334
+cumin,cumin,1,520,0.04357298
+tomato purée,tomato purée,1,514,0.04307022
+salt,salt,1,508,0.04256745
+lemon juice,lemon juice,1,502,0.04206469
+sugar,sugar,1,481,0.04030501
+vegetable stock,vegetable stock,1,474,0.03971845
+cherry tomato,cherry tomato,1,459,0.03846154
+spinach,spinach,1,450,0.03770739
+egg yolk,egg yolk,1,443,0.03712083
+crème fraîche,crème fraîche,1,434,0.03636668
+shallot,shallot,1,431,0.0361153
+cheddar,cheddar,1,423,0.03544495
+dark chocolate,dark chocolate,1,422,0.03536115
+soy sauce,soy sauce,1,412,0.03452321
+bay,bay,1,408,0.03418803
+nutmeg,nutmeg,1,408,0.03418803
+chicken breast,chicken breast,1,395,0.03309871
+celery,celery,1,393,0.03293112
+cucumber,cucumber,1,389,0.03259594
+cornflour,cornflour,1,386,0.03234456
+smoked paprika,smoked paprika,1,383,0.03209318
+turmeric,turmeric,1,374,0.03133903
+chilli flake,chilli flake,1,370,0.03100385
+dijon mustard,dijon mustard,1,363,0.0304173
+rosemary,rosemary,1,352,0.02949556
+cumin seed,cumin seed,1,336,0.02815485
+avocado,avocado,1,328,0.0274845
+courgette,courgette,1,325,0.02723312
+leek,leek,1,321,0.02689794
+greek yogurt,greek yogurt,1,319,0.02673035
+peas,peas,1,317,0.02656276
+white wine,white wine,1,316,0.02647897
+oil,oil,1,314,0.02631138
+bicarbonate of soda,bicarbonate of soda,1,308,0.02580861
+oregano,oregano,1,306,0.02564103
+dill,dill,1,302,0.02530585
+mayonnaise,mayonnaise,1,295,0.02471929
+chif,chif,1,293,0.0245517
+chickpea,chickpea,1,283,0.02371376
+almond,almond,1,282,0.02362996
+whole milk,whole milk,1,280,0.02346238
+cocoa powder,cocoa powder,1,272,0.02279202
+egg white,egg white,1,270,0.02262443
+chicken,chicken,1,266,0.02228926
+light muscovado sugar,light muscovado sugar,1,265,0.02220546
+sesame seeds,sesame seeds,1,265,0.02220546
+chilli powder,chilli powder,1,264,0.02212167
+maple syrup,maple syrup,1,260,0.02178649
+light brown soft sugar,light brown soft sugar,1,259,0.0217027
+coconut milk,coconut milk,1,256,0.02145132
+soured cream,soured cream,1,256,0.02145132
+balsamic vinegar,balsamic vinegar,1,250,0.02094855
+sesame oil,sesame oil,1,248,0.02078096
+cider vinegar,cider vinegar,1,244,0.02044579
+rocket,rocket,1,244,0.02044579
+frac,frac,1,240,0.02011061
+natural yogurt,natural yogurt,1,240,0.02011061
+new potato,new potato,1,239,0.02002681
+wholegrain mustard,wholegrain mustard,1,239,0.02002681
+sage,sage,1,233,0.01952405
+chicken thigh,chicken thigh,1,229,0.01918887
+yogurt,yogurt,1,226,0.01893749
+aubergine,aubergine,1,222,0.01860231
+broccoli,broccoli,1,222,0.01860231
+pine nut,pine nut,1,222,0.01860231
+raspberry,raspberry,1,221,0.01851852
+red wine,red wine,1,218,0.01826714
+ice,ice,1,214,0.01793196
+bay leaf,bay leaf,1,213,0.01784816
+cheese,cheese,1,210,0.01759678
+bacon,bacon,1,207,0.0173454
+banana,banana,1,205,0.01717781
+capers,capers,1,202,0.01692643
+flaked almonds,flaked almonds,1,200,0.01675884
+golden syrup,golden syrup,1,198,0.01659125
+mozzarella,mozzarella,1,197,0.01650746
+spice,spice,1,195,0.01633987
+brown sugar,brown sugar,1,191,0.01600469
+water,water,1,191,0.01600469
+breadcrumbs,breadcrumbs,1,189,0.0158371
+beetroot,beetroot,1,188,0.01575331
+fennel seed,fennel seed,1,188,0.01575331
+rice,rice,1,188,0.01575331
+dried yeast,dried yeast,1,187,0.01566952
+hazelnut,hazelnut,1,185,0.01550193
+walnut,walnut,1,185,0.01550193
+bread,bread,1,183,0.01533434
+flour,flour,1,182,0.01525054
+curry powder,curry powder,1,181,0.01516675
+flat-leaf parsley,flat-leaf parsley,1,181,0.01516675
+mascarpone,mascarpone,1,181,0.01516675
+cranberry,cranberry,1,179,0.01499916
+paprika,paprika,1,179,0.01499916
+watercress,watercress,1,179,0.01499916
+pepper,pepper,1,178,0.01491537
+white chocolate,white chocolate,1,178,0.01491537
+butternut squash,butternut squash,1,177,0.01483157
+vegetable,vegetable,1,177,0.01483157
+fish sauce,fish sauce,1,175,0.01466399
+ground almonds,ground almonds,1,175,0.01466399
+basmati rice,basmati rice,1,174,0.01458019
+prawn,prawn,1,174,0.01458019
+strawberry,strawberry,1,174,0.01458019
+salmon fillet,salmon fillet,1,173,0.0144964
+raisin,raisin,1,171,0.01432881
+cayenne pepper,cayenne pepper,1,169,0.01416122
+coriander seed,coriander seed,1,166,0.01390984
+puff pastry,puff pastry,1,162,0.01357466
+cauliflower,cauliflower,1,159,0.01332328
+feta,feta,1,159,0.01332328
+lime juice,lime juice,1,159,0.01332328
+apricot,apricot,1,158,0.01323948
+garam masala,garam masala,1,158,0.01323948
+pistachio,pistachio,1,157,0.01315569
+coconut,coconut,1,155,0.0129881
+green beans,green beans,1,154,0.01290431
+black peppercorn,black peppercorn,1,151,0.01265292
+gem lettuce,gem lettuce,1,147,0.01231775
+salad,salad,1,146,0.01223395
+worcestershire sauce,worcestershire sauce,1,146,0.01223395
+anise,anise,1,145,0.01215016
+radish,radish,1,145,0.01215016
+red chilly,red chilly,1,145,0.01215016
+beef stock,beef stock,1,144,0.01206637
+ricotta,ricotta,1,143,0.01198257
+fennel,fennel,1,142,0.01189878
+tarragon,tarragon,1,142,0.01189878
+apple,apple,1,141,0.01181498
+ice cream,ice cream,1,137,0.01147981
+passata,passata,1,137,0.01147981
+green chilli,green chilli,1,133,0.01114463
+chestnut mushroom,chestnut mushroom,1,132,0.01106083
+chilli sauce,chilli sauce,1,132,0.01106083
+mushroom,mushroom,1,132,0.01106083
+root ginger,root ginger,1,131,0.01097704
+white bread flour,white bread flour,1,130,0.01089325
+red,red,1,129,0.01080945
+parsnip,parsnip,1,128,0.01072566
+mustard powder,mustard powder,1,126,0.01055807
+demerara sugar,demerara sugar,1,124,0.01039048
+black pepper,black pepper,1,121,0.0101391
+buttermilk,buttermilk,1,119,0.00997151
+mango,mango,1,119,0.00997151
+shortcrust pastry,shortcrust pastry,1,119,0.00997151
+ham,ham,1,118,0.00988772
+sweetcorn,sweetcorn,1,118,0.00988772
+lemon zest,lemon zest,1,115,0.00963633
+orange juice,orange juice,1,115,0.00963633
+peanut,peanut,1,114,0.00955254
+goat' cheese,goat' cheese,1,113,0.00946874
+pineapple,pineapple,1,113,0.00946874
+pomegranate seed,pomegranate seed,1,112,0.00938495
+black olives,black olives,1,111,0.00930116
+cherry,cherry,1,111,0.00930116
+feta cheese,feta cheese,1,111,0.00930116
+brandy,brandy,1,109,0.00913357
+full-fat milk,full-fat milk,1,109,0.00913357
+blueberry,blueberry,1,108,0.00904977
+herb,herb,1,108,0.00904977
+vegetable bouillon powder,vegetable bouillon powder,1,108,0.00904977
+pea,pea,1,107,0.00896598
+vanilla bean paste,vanilla bean paste,1,107,0.00896598
+couscous,couscous,1,106,0.00888219
+plum tomato,plum tomato,1,106,0.00888219
+milk chocolate,milk chocolate,1,105,0.00879839
+peanut butter,peanut butter,1,105,0.00879839
+king prawn,king prawn,1,104,0.0087146
+sherry vinegar,sherry vinegar,1,104,0.0087146
+floury potato,floury potato,1,102,0.00854701
+white bread,white bread,1,102,0.00854701
+tahini,tahini,1,101,0.00846321
+mango chutney,mango chutney,1,99,0.00829563
+black beans,black beans,1,98,0.00821183
+fruit,fruit,1,98,0.00821183
+rice vinegar,rice vinegar,1,98,0.00821183
+seed,seed,1,96,0.00804424
+sultanas,sultanas,1,96,0.00804424
+porridge oats,porridge oats,1,95,0.00796045
+light soy sauce,light soy sauce,1,94,0.00787665
+light brown sugar,light brown sugar,1,93,0.00779286
+pesto,pesto,1,93,0.00779286
+beansprout,beansprout,1,92,0.00770907
+pancetta,pancetta,1,91,0.00762527
+spaghetti,spaghetti,1,91,0.00762527
+kale,kale,1,90,0.00754148
+celeriac,celeriac,1,89,0.00745768
+fast-action,fast-action,1,89,0.00745768
+green chilly,green chilly,1,89,0.00745768
+pear,pear,1,89,0.00745768
+pecan,pecan,1,89,0.00745768
+cardamom,cardamom,1,87,0.0072901
+polenta,polenta,1,87,0.0072901
+single cream,single cream,1,87,0.0072901
+english mustard,english mustard,1,86,0.0072063
+gruyère,gruyère,1,86,0.0072063
+semi-skimmed milk,semi-skimmed milk,1,86,0.0072063
+pumpkin seed,pumpkin seed,1,85,0.00712251
+filo pastry,filo pastry,1,84,0.00703871
+tomato ketchup,tomato ketchup,1,84,0.00703871
+chorizo,chorizo,1,83,0.00695492
+cream cheese,cream cheese,1,83,0.00695492
+lemongrass,lemongrass,1,83,0.00695492
+peach,peach,1,82,0.00687112
+sherry,sherry,1,82,0.00687112
+pork sausage,pork sausage,1,81,0.00678733
+vodka,vodka,1,81,0.00678733
+date,date,1,80,0.00670354
+allspice,allspice,1,79,0.00661974
+blackberry,blackberry,1,79,0.00661974
+red cabbage,red cabbage,1,79,0.00661974
+sausage,sausage,1,79,0.00661974
+cannellini bean,cannellini bean,1,78,0.00653595
+chocolate chips,chocolate chips,1,78,0.00653595
+maris piper potato,maris piper potato,1,78,0.00653595
+prosciutto,prosciutto,1,78,0.00653595
+sea salt flake,sea salt flake,1,78,0.00653595
+dark muscovado sugar,dark muscovado sugar,1,77,0.00645215
+green salad,green salad,1,77,0.00645215
+chestnut,chestnut,1,75,0.00628457
+smoked salmon,smoked salmon,1,75,0.00628457
+stem ginger,stem ginger,1,75,0.00628457
+sweet potato,sweet potato,1,75,0.00628457
+white,white,1,75,0.00628457
+beef,beef,1,74,0.00620077
+cocoa,cocoa,1,74,0.00620077
+gelatine,gelatine,1,74,0.00620077
+gin,gin,1,74,0.00620077
+minced beef,minced beef,1,74,0.00620077
+sunflower,sunflower,1,74,0.00620077
+breadcrumb,breadcrumb,1,73,0.00611698
+pasta,pasta,1,73,0.00611698
+wholemeal flour,wholemeal flour,1,73,0.00611698
+apricot jam,apricot jam,1,72,0.00603318
+broad beans,broad beans,1,72,0.00603318
+dark soy sauce,dark soy sauce,1,72,0.00603318
+chipotle paste,chipotle paste,1,71,0.00594939
+green pepper,green pepper,1,71,0.00594939
+quinoa,quinoa,1,71,0.00594939
+vanilla,vanilla,1,71,0.00594939
+white pepper,white pepper,1,71,0.00594939
+orange zest,orange zest,1,70,0.00586559
+yellow pepper,yellow pepper,1,70,0.00586559
+anchovy,anchovy,1,69,0.0057818
+digestive biscuit,digestive biscuit,1,69,0.0057818
+eating apple,eating apple,1,69,0.0057818
+groundnut oil,groundnut oil,1,69,0.0057818
+bramley apple,bramley apple,1,68,0.00569801
+butter bean,butter bean,1,68,0.00569801
+risotto rice,risotto rice,1,68,0.00569801
+tuna,tuna,1,68,0.00569801
+baking potato,baking potato,1,67,0.00561421
+cream,cream,1,67,0.00561421
+brussels sprouts,brussels sprouts,1,66,0.00553042
+harissa,harissa,1,66,0.00553042
+white breadcrumbs,white breadcrumbs,1,65,0.00544662
+coconut oil,coconut oil,1,64,0.00536283
+olive,olive,1,64,0.00536283
+red lentil,red lentil,1,64,0.00536283
+rhubarb,rhubarb,1,64,0.00536283
+clementine,clementine,1,62,0.00519524
+kidney beans,kidney beans,1,62,0.00519524
+lamb,lamb,1,62,0.00519524
+puy lentil,puy lentil,1,62,0.00519524
+bacon lardon,bacon lardon,1,61,0.00511145
+condensed milk,condensed milk,1,61,0.00511145
+garlic granule,garlic granule,1,61,0.00511145
+ketchup,ketchup,1,61,0.00511145
+smoked streaky bacon,smoked streaky bacon,1,61,0.00511145
+apple juice,apple juice,1,60,0.00502765
+custard,custard,1,60,0.00502765
+nut,nut,1,60,0.00502765
+saffron,saffron,1,60,0.00502765
+white cabbage,white cabbage,1,60,0.00502765
+almond extract,almond extract,1,59,0.00494386
+banana shallot,banana shallot,1,59,0.00494386
+green olives,green olives,1,59,0.00494386
+raspberry jam,raspberry jam,1,59,0.00494386
+fig,fig,1,58,0.00486006
+brown rice,brown rice,1,57,0.00477627
+marzipan,marzipan,1,57,0.00477627
+pomegranate molasses,pomegranate molasses,1,57,0.00477627
+light soft brown sugar,light soft brown sugar,1,56,0.00469248
+baguette,baguette,1,55,0.00460868
+lemon curd,lemon curd,1,55,0.00460868
+pork mince,pork mince,1,55,0.00460868
+cashew nut,cashew nut,1,54,0.00452489
+chicken breast fillet,chicken breast fillet,1,54,0.00452489
+chilli,chilli,1,54,0.00452489
+coconut cream,coconut cream,1,54,0.00452489
+curry paste,curry paste,1,54,0.00452489
+cardamom pod,cardamom pod,1,53,0.00444109
+cider,cider,1,53,0.00444109
+coffee,coffee,1,53,0.00444109
+lamb mince,lamb mince,1,53,0.00444109
+plum,plum,1,53,0.00444109
+vanilla pod,vanilla pod,1,53,0.00444109
+berries,berries,1,52,0.0043573
+mace,mace,1,52,0.0043573
+nigella seed,nigella seed,1,52,0.0043573
+panko breadcrumbs,panko breadcrumbs,1,52,0.0043573
+vegetable stock cube,vegetable stock cube,1,52,0.0043573
+asparagus,asparagus,1,51,0.0042735
+chinese five-spice powder,chinese five-spice powder,1,51,0.0042735
+oyster sauce,oyster sauce,1,51,0.0042735
+porcini mushroom,porcini mushroom,1,51,0.0042735
+swede,swede,1,51,0.0042735
+all-butter puff pastry,all-butter puff pastry,1,50,0.00418971
+bean,bean,1,50,0.00418971
+flour tortilla,flour tortilla,1,50,0.00418971
+green bean,green bean,1,50,0.00418971
+vanilla paste,vanilla paste,1,50,0.00418971
+white onion,white onion,1,50,0.00418971
+dark brown soft sugar,dark brown soft sugar,1,49,0.00410592
+horseradish,horseradish,1,49,0.00410592
+savoy cabbage,savoy cabbage,1,49,0.00410592
+turkey,turkey,1,49,0.00410592
+asparagus spear,asparagus spear,1,48,0.00402212
+brown basmati rice,brown basmati rice,1,48,0.00402212
+cranberry sauce,cranberry sauce,1,48,0.00402212
+currant,currant,1,48,0.00402212
+pak choi,pak choi,1,48,0.00402212
+blue cheese,blue cheese,1,47,0.00393833
+button mushroom,button mushroom,1,47,0.00393833
+cashew,cashew,1,47,0.00393833
+curry,curry,1,47,0.00393833
+lettuce,lettuce,1,47,0.00393833
+naan bread,naan bread,1,47,0.00393833
+peppercorn,peppercorn,1,47,0.00393833
+pork,pork,1,47,0.00393833
+rice wine,rice wine,1,47,0.00393833
+sourdough,sourdough,1,47,0.00393833
+tofu,tofu,1,47,0.00393833
+anchovy fillet,anchovy fillet,1,46,0.00385453
+chilly,chilly,1,46,0.00385453
+glacé cherry,glacé cherry,1,46,0.00385453
+hot sauce,hot sauce,1,45,0.00377074
+kalamata olives,kalamata olives,1,45,0.00377074
+lasagne,lasagne,1,45,0.00377074
+mustard seed,mustard seed,1,45,0.00377074
+sprinkle,sprinkle,1,45,0.00377074
+whipping cream,whipping cream,1,45,0.00377074
+white fish fillet,white fish fillet,1,45,0.00377074
+beef stock cube,beef stock cube,1,44,0.00368694
+bio yogurt,bio yogurt,1,44,0.00368694
+caper,caper,1,44,0.00368694
+clotted cream,clotted cream,1,44,0.00368694
+flatbread,flatbread,1,44,0.00368694
+full-fat cream cheese,full-fat cream cheese,1,44,0.00368694
+plain chocolate,plain chocolate,1,44,0.00368694
+rice noodles,rice noodles,1,44,0.00368694
+elderflower cordial,elderflower cordial,1,43,0.00360315
+green,green,1,43,0.00360315
+pumpkin,pumpkin,1,43,0.00360315
+sirloin steak,sirloin steak,1,43,0.00360315
+chocolate,chocolate,1,42,0.00351936
+ghee,ghee,1,42,0.00351936
+olives,olives,1,42,0.00351936
+penne,penne,1,42,0.00351936
+rolled oats,rolled oats,1,42,0.00351936
+bulgur wheat,bulgur wheat,1,41,0.00343556
+clear honey,clear honey,1,41,0.00343556
+dark rum,dark rum,1,41,0.00343556
+passion fruit,passion fruit,1,41,0.00343556
+poppy seeds,poppy seeds,1,41,0.00343556
+rapeseed,rapeseed,1,41,0.00343556
+strong white flour,strong white flour,1,41,0.00343556
+sultana,sultana,1,41,0.00343556
+black mustard seed,black mustard seed,1,40,0.00335177
+coconut yogurt,coconut yogurt,1,40,0.00335177
+egg noodles,egg noodles,1,40,0.00335177
+iceberg lettuce,iceberg lettuce,1,40,0.00335177
+marshmallow,marshmallow,1,40,0.00335177
+rosewater,rosewater,1,40,0.00335177
+sumac,sumac,1,40,0.00335177
+tamarind paste,tamarind paste,1,40,0.00335177
+caraway seed,caraway seed,1,39,0.00326797
+corn,corn,1,39,0.00326797
+garlic powder,garlic powder,1,39,0.00326797
+haddock fillet,haddock fillet,1,39,0.00326797
+halloumi,halloumi,1,39,0.00326797
+harissa paste,harissa paste,1,39,0.00326797
+hoisin sauce,hoisin sauce,1,39,0.00326797
+horseradish sauce,horseradish sauce,1,39,0.00326797
+mincemeat,mincemeat,1,39,0.00326797
+walnut half,walnut half,1,39,0.00326797
+white breadcrumb,white breadcrumb,1,39,0.00326797
+flatleaf parsley,flatleaf parsley,1,38,0.00318418
+hummus,hummus,1,38,0.00318418
+pitta bread,pitta bread,1,38,0.00318418
+sesame seed,sesame seed,1,38,0.00318418
+sourdough bread,sourdough bread,1,38,0.00318418
+sweet paprika,sweet paprika,1,38,0.00318418
+yolk,yolk,1,38,0.00318418
+black,black,1,37,0.00310039
+caramel,caramel,1,37,0.00310039
+haddock,haddock,1,37,0.00310039
+mussel,mussel,1,37,0.00310039
+white crabmeat,white crabmeat,1,37,0.00310039
+almond milk,almond milk,1,36,0.00301659
+amaretti biscuit,amaretti biscuit,1,36,0.00301659
+chicken leg,chicken leg,1,36,0.00301659
+gram flour,gram flour,1,36,0.00301659
+greek-style yogurt,greek-style yogurt,1,36,0.00301659
+rum,rum,1,36,0.00301659
+sugar syrup,sugar syrup,1,36,0.00301659
+green lentil,green lentil,1,35,0.0029328
+juniper berries,juniper berries,1,35,0.0029328
+mackerel fillet,mackerel fillet,1,35,0.0029328
+pearl barley,pearl barley,1,35,0.0029328
+pork shoulder,pork shoulder,1,35,0.0029328
+salmon,salmon,1,35,0.0029328
+lard,lard,1,34,0.002849
+oats,oats,1,34,0.002849
+semolina,semolina,1,34,0.002849
+stock,stock,1,34,0.002849
+black treacle,black treacle,1,33,0.00276521
+dark brown sugar,dark brown sugar,1,33,0.00276521
+jalapeño,jalapeño,1,33,0.00276521
+malt vinegar,malt vinegar,1,33,0.00276521
+runner bean,runner bean,1,33,0.00276521
+syrup,syrup,1,33,0.00276521
+tamari,tamari,1,33,0.00276521
+agave syrup,agave syrup,1,32,0.00268141
+chicken thigh fillet,chicken thigh fillet,1,32,0.00268141
+chicory,chicory,1,32,0.00268141
+macaroni,macaroni,1,32,0.00268141
+marsala,marsala,1,32,0.00268141
+mirin,mirin,1,32,0.00268141
+pasta shape,pasta shape,1,32,0.00268141
+prune,prune,1,32,0.00268141
+runny honey,runny honey,1,32,0.00268141
+sunflower seed,sunflower seed,1,32,0.00268141
+thai red curry paste,thai red curry paste,1,32,0.00268141
+vine tomato,vine tomato,1,32,0.00268141
+custard powder,custard powder,1,31,0.00259762
+prosecco,prosecco,1,31,0.00259762
+redcurrant jelly,redcurrant jelly,1,31,0.00259762
+soda water,soda water,1,31,0.00259762
+spring greens,spring greens,1,31,0.00259762
+sugar snap peas,sugar snap peas,1,31,0.00259762
+waxy potato,waxy potato,1,31,0.00259762
+broad bean,broad bean,1,30,0.00251383
+ciabatta,ciabatta,1,30,0.00251383
+linguine,linguine,1,30,0.00251383
+strawberry jam,strawberry jam,1,30,0.00251383
+chive,chive,1,29,0.00243003
+gherkin,gherkin,1,29,0.00243003
+leaf spinach,leaf spinach,1,29,0.00243003
+light olive oil,light olive oil,1,29,0.00243003
+palm sugar,palm sugar,1,29,0.00243003
+pork belly,pork belly,1,29,0.00243003
+pork fillet,pork fillet,1,29,0.00243003
+spelt flour,spelt flour,1,29,0.00243003
+tortilla chips,tortilla chips,1,29,0.00243003
+vegetable bouillon,vegetable bouillon,1,29,0.00243003
+artichoke heart,artichoke heart,1,28,0.00234624
+baked beans,baked beans,1,28,0.00234624
+cheddar cheese,cheddar cheese,1,28,0.00234624
+cooking chorizo,cooking chorizo,1,28,0.00234624
+corn tortilla,corn tortilla,1,28,0.00234624
+cornichon,cornichon,1,28,0.00234624
+fish stock,fish stock,1,28,0.00234624
+long grain rice,long grain rice,1,28,0.00234624
+margarine,margarine,1,28,0.00234624
+muscovado sugar,muscovado sugar,1,28,0.00234624
+paneer,paneer,1,28,0.00234624
+tabasco sauce,tabasco sauce,1,28,0.00234624
+vanilla essence,vanilla essence,1,28,0.00234624
+watermelon,watermelon,1,28,0.00234624
+chicken wing,chicken wing,1,27,0.00226244
+cod fillet,cod fillet,1,27,0.00226244
+coffee granule,coffee granule,1,27,0.00226244
+espresso,espresso,1,27,0.00226244
+halloumi cheese,halloumi cheese,1,27,0.00226244
+ice cube,ice cube,1,27,0.00226244
+lemon thyme,lemon thyme,1,27,0.00226244
+port,port,1,27,0.00226244
+romaine lettuce,romaine lettuce,1,27,0.00226244
+skimmed milk,skimmed milk,1,27,0.00226244
+smoked bacon,smoked bacon,1,27,0.00226244
+tagliatelle,tagliatelle,1,27,0.00226244
+vermouth,vermouth,1,27,0.00226244
+wholemeal bread,wholemeal bread,1,27,0.00226244
+artichoke,artichoke,1,26,0.00217865
+barbecue sauce,barbecue sauce,1,26,0.00217865
+burger bun,burger bun,1,26,0.00217865
+chicken drumstick,chicken drumstick,1,26,0.00217865
+chilli oil,chilli oil,1,26,0.00217865
+guacamole,guacamole,1,26,0.00217865
+orzo,orzo,1,26,0.00217865
+petit pois,petit pois,1,26,0.00217865
+shop,shop,1,26,0.00217865
+soya milk,soya milk,1,26,0.00217865
+sriracha,sriracha,1,26,0.00217865
+suet,suet,1,26,0.00217865
+vanilla pod seed,vanilla pod seed,1,26,0.00217865
+vinegar,vinegar,1,26,0.00217865
+cooking apple,cooking apple,1,25,0.00209486
+green cardamom pod,green cardamom pod,1,25,0.00209486
+marmite,marmite,1,25,0.00209486
+purple sprouting broccoli,purple sprouting broccoli,1,25,0.00209486
+shiitake mushroom,shiitake mushroom,1,25,0.00209486
+squid,squid,1,25,0.00209486
+tortilla wrap,tortilla wrap,1,25,0.00209486
+vanilla pod split,vanilla pod split,1,25,0.00209486
+white fish,white fish,1,25,0.00209486
+yellow,yellow,1,25,0.00209486
+yellow mustard seed,yellow mustard seed,1,25,0.00209486
+cabbage,cabbage,1,24,0.00201106
+haricot bean,haricot bean,1,24,0.00201106
+ras el hanout,ras el hanout,1,24,0.00201106
+thai basil,thai basil,1,24,0.00201106
+tiger prawn,tiger prawn,1,24,0.00201106
+triple sec,triple sec,1,24,0.00201106
+cavolo nero,cavolo nero,1,23,0.00192727
+duck,duck,1,23,0.00192727
+duck breast,duck breast,1,23,0.00192727
+gnocchi,gnocchi,1,23,0.00192727
+granny smith apple,granny smith apple,1,23,0.00192727
+lamb chop,lamb chop,1,23,0.00192727
+leg of lamb,leg of lamb,1,23,0.00192727
+lime zest,lime zest,1,23,0.00192727
+mangetout,mangetout,1,23,0.00192727
+sichuan peppercorn,sichuan peppercorn,1,23,0.00192727
+truffle oil,truffle oil,1,23,0.00192727
+turkey mince,turkey mince,1,23,0.00192727
+white rum,white rum,1,23,0.00192727
+wild mushroom,wild mushroom,1,23,0.00192727
+celery salt,celery salt,1,22,0.00184347
+chia seeds,chia seeds,1,22,0.00184347
+coconut flake,coconut flake,1,22,0.00184347
+cointreau,cointreau,1,22,0.00184347
+corn cob,corn cob,1,22,0.00184347
+fromage frais,fromage frais,1,22,0.00184347
+gold,gold,1,22,0.00184347
+icing,icing,1,22,0.00184347
+lean beef mince,lean beef mince,1,22,0.00184347
+medjool date,medjool date,1,22,0.00184347
+pea shoot,pea shoot,1,22,0.00184347
+porridge oat,porridge oat,1,22,0.00184347
+stilton,stilton,1,22,0.00184347
+tahini paste,tahini paste,1,22,0.00184347
+amaretto,amaretto,1,21,0.00175968
+brown,brown,1,21,0.00175968
+duck leg,duck leg,1,21,0.00175968
+garlic paste,garlic paste,1,21,0.00175968
+greens,greens,1,21,0.00175968
+groundnut,groundnut,1,21,0.00175968
+jasmine rice,jasmine rice,1,21,0.00175968
+maris piper,maris piper,1,21,0.00175968
+pineapple juice,pineapple juice,1,21,0.00175968
+saffron strand,saffron strand,1,21,0.00175968
+thai green curry paste,thai green curry paste,1,21,0.00175968
+white rice,white rice,1,21,0.00175968
+allspice berries,allspice berries,1,20,0.00167588
+black olive,black olive,1,20,0.00167588
+bouillon powder,bouillon powder,1,20,0.00167588
+candied peel,candied peel,1,20,0.00167588
+ciabatta loaf,ciabatta loaf,1,20,0.00167588
+ham hock,ham hock,1,20,0.00167588
+pecorino,pecorino,1,20,0.00167588
+poppy seed,poppy seed,1,20,0.00167588
+pork tenderloin,pork tenderloin,1,20,0.00167588
+portobello mushroom,portobello mushroom,1,20,0.00167588
+red chilli flake,red chilli flake,1,20,0.00167588
+rump steak,rump steak,1,20,0.00167588
+rye bread,rye bread,1,20,0.00167588
+sour cherry,sour cherry,1,20,0.00167588
+soya bean,soya bean,1,20,0.00167588
+tortilla,tortilla,1,20,0.00167588
+treacle,treacle,1,20,0.00167588
+turnip,turnip,1,20,0.00167588
+walnut oil,walnut oil,1,20,0.00167588
+wild rice,wild rice,1,20,0.00167588
+biscuit,biscuit,1,19,0.00159209
+bourbon,bourbon,1,19,0.00159209
+cocktail,cocktail,1,19,0.00159209
+fenugreek seed,fenugreek seed,1,19,0.00159209
+orange blossom water,orange blossom water,1,19,0.00159209
+pink food colouring,pink food colouring,1,19,0.00159209
+pomegranate juice,pomegranate juice,1,19,0.00159209
+pretzel,pretzel,1,19,0.00159209
+ribbon,ribbon,1,19,0.00159209
+rose petal,rose petal,1,19,0.00159209
+sausagemeat,sausagemeat,1,19,0.00159209
+champagne,champagne,1,18,0.0015083
+chipolata,chipolata,1,18,0.0015083
+cod,cod,1,18,0.0015083
+cranberry juice,cranberry juice,1,18,0.0015083
+flaxseed,flaxseed,1,18,0.0015083
+gochujang,gochujang,1,18,0.0015083
+green apple,green apple,1,18,0.0015083
+jam,jam,1,18,0.0015083
+jam sugar,jam sugar,1,18,0.0015083
+lamb leg steak,lamb leg steak,1,18,0.0015083
+lardon,lardon,1,18,0.0015083
+madeira,madeira,1,18,0.0015083
+marmalade,marmalade,1,18,0.0015083
+meringue nest,meringue nest,1,18,0.0015083
+mustard,mustard,1,18,0.0015083
+nutritional yeast,nutritional yeast,1,18,0.0015083
+onion granule,onion granule,1,18,0.0015083
+sea bass fillet,sea bass fillet,1,18,0.0015083
+shortbread biscuit,shortbread biscuit,1,18,0.0015083
+steak,steak,1,18,0.0015083
+stewing beef,stewing beef,1,18,0.0015083
+stir-fry vegetable,stir-fry vegetable,1,18,0.0015083
+toast,toast,1,18,0.0015083
+wild rocket,wild rocket,1,18,0.0015083
+yeast,yeast,1,18,0.0015083
+yeast extract,yeast extract,1,18,0.0015083
+bread flour,bread flour,1,17,0.0014245
+brown muscovado sugar,brown muscovado sugar,1,17,0.0014245
+cardamom pod seed,cardamom pod seed,1,17,0.0014245
+chicken liver,chicken liver,1,17,0.0014245
+chocolate egg,chocolate egg,1,17,0.0014245
+chutney,chutney,1,17,0.0014245
+coffee liqueur,coffee liqueur,1,17,0.0014245
+cream of tartar,cream of tartar,1,17,0.0014245
+cress,cress,1,17,0.0014245
+fast-action yeast,fast-action yeast,1,17,0.0014245
+fillet steak,fillet steak,1,17,0.0014245
+fish,fish,1,17,0.0014245
+galangal,galangal,1,17,0.0014245
+glucose,glucose,1,17,0.0014245
+gooseberry,gooseberry,1,17,0.0014245
+kidney bean,kidney bean,1,17,0.0014245
+kirsch,kirsch,1,17,0.0014245
+lamb cutlet,lamb cutlet,1,17,0.0014245
+leaf gelatine,leaf gelatine,1,17,0.0014245
+lemon peel,lemon peel,1,17,0.0014245
+miso paste,miso paste,1,17,0.0014245
+oat milk,oat milk,1,17,0.0014245
+paella rice,paella rice,1,17,0.0014245
+pink,pink,1,17,0.0014245
+pomegranate,pomegranate,1,17,0.0014245
+ready-rolled puff pastry,ready-rolled puff pastry,1,17,0.0014245
+red apple,red apple,1,17,0.0014245
+rice flour,rice flour,1,17,0.0014245
+salsa,salsa,1,17,0.0014245
+sardine,sardine,1,17,0.0014245
+squash,squash,1,17,0.0014245
+tomato sauce,tomato sauce,1,17,0.0014245
+trout fillet,trout fillet,1,17,0.0014245
+american mustard,american mustard,1,16,0.00134071
+bok choi,bok choi,1,16,0.00134071
+bouquet garni,bouquet garni,1,16,0.00134071
+braising steak,braising steak,1,16,0.00134071
+ciabatta roll,ciabatta roll,1,16,0.00134071
+egg noodle,egg noodle,1,16,0.00134071
+fenugreek,fenugreek,1,16,0.00134071
+ginger paste,ginger paste,1,16,0.00134071
+goose fat,goose fat,1,16,0.00134071
+granary bread,granary bread,1,16,0.00134071
+green food colouring,green food colouring,1,16,0.00134071
+maraschino cherry,maraschino cherry,1,16,0.00134071
+nectarine,nectarine,1,16,0.00134071
+onion powder,onion powder,1,16,0.00134071
+pecan nut,pecan nut,1,16,0.00134071
+pink grapefruit,pink grapefruit,1,16,0.00134071
+pink peppercorn,pink peppercorn,1,16,0.00134071
+red food colouring,red food colouring,1,16,0.00134071
+rice noodle,rice noodle,1,16,0.00134071
+rigatoni,rigatoni,1,16,0.00134071
+sugar snap pea,sugar snap pea,1,16,0.00134071
+thumb-sized,thumb-sized,1,16,0.00134071
+tomato with garlic,tomato with garlic,1,16,0.00134071
+tuna steak,tuna steak,1,16,0.00134071
+whisky,whisky,1,16,0.00134071
+wholemeal pitta bread,wholemeal pitta bread,1,16,0.00134071
+wholemeal spaghetti,wholemeal spaghetti,1,16,0.00134071
+wooden skewer,wooden skewer,1,16,0.00134071
+bread mix,bread mix,1,15,0.00125691
+brie,brie,1,15,0.00125691
+caramel sauce,caramel sauce,1,15,0.00125691
+chapatis,chapatis,1,15,0.00125691
+cocoa solid,cocoa solid,1,15,0.00125691
+cod loin,cod loin,1,15,0.00125691
+cornmeal,cornmeal,1,15,0.00125691
+crusty bread,crusty bread,1,15,0.00125691
+dark,dark,1,15,0.00125691
+dessert apple,dessert apple,1,15,0.00125691
+evaporated milk,evaporated milk,1,15,0.00125691
+flat leaf parsley,flat leaf parsley,1,15,0.00125691
+ginger beer,ginger beer,1,15,0.00125691
+grainy mustard,grainy mustard,1,15,0.00125691
+grand marnier,grand marnier,1,15,0.00125691
+green vegetable,green vegetable,1,15,0.00125691
+lamb shoulder,lamb shoulder,1,15,0.00125691
+lamb stock,lamb stock,1,15,0.00125691
+lamb' lettuce,lamb' lettuce,1,15,0.00125691
+lentil,lentil,1,15,0.00125691
+mackerel,mackerel,1,15,0.00125691
+nut butter,nut butter,1,15,0.00125691
+orange liqueur,orange liqueur,1,15,0.00125691
+pudding rice,pudding rice,1,15,0.00125691
+red leicester,red leicester,1,15,0.00125691
+redcurrant,redcurrant,1,15,0.00125691
+rose harissa,rose harissa,1,15,0.00125691
+sea bass,sea bass,1,15,0.00125691
+silver,silver,1,15,0.00125691
+smoked back bacon,smoked back bacon,1,15,0.00125691
+sushi rice,sushi rice,1,15,0.00125691
+white fondant icing,white fondant icing,1,15,0.00125691
+white miso paste,white miso paste,1,15,0.00125691
+white sugar,white sugar,1,15,0.00125691
+almond butter,almond butter,1,14,0.00117312
+blood orange,blood orange,1,14,0.00117312
+chinese cabbage,chinese cabbage,1,14,0.00117312
+cottage cheese,cottage cheese,1,14,0.00117312
+edamame bean,edamame bean,1,14,0.00117312
+green part,green part,1,14,0.00117312
+grenadine,grenadine,1,14,0.00117312
+macadamia nut,macadamia nut,1,14,0.00117312
+madeira cake,madeira cake,1,14,0.00117312
+mayo,mayo,1,14,0.00117312
+meat,meat,1,14,0.00117312
+parma ham,parma ham,1,14,0.00117312
+pork chop,pork chop,1,14,0.00117312
+pork rib,pork rib,1,14,0.00117312
+salami,salami,1,14,0.00117312
+scallop,scallop,1,14,0.00117312
+silken tofu,silken tofu,1,14,0.00117312
+tabasco,tabasco,1,14,0.00117312
+teriyaki sauce,teriyaki sauce,1,14,0.00117312
+white miso,white miso,1,14,0.00117312
+xanthan gum,xanthan gum,1,14,0.00117312
+basil pesto,basil pesto,1,13,0.00108932
+black bean,black bean,1,13,0.00108932
+black coffee,black coffee,1,13,0.00108932
+borlotti bean,borlotti bean,1,13,0.00108932
+brioche,brioche,1,13,0.00108932
+brown crabmeat,brown crabmeat,1,13,0.00108932
+buffalo mozzarella,buffalo mozzarella,1,13,0.00108932
+butter room temperature,butter room temperature,1,13,0.00108932
+campari,campari,1,13,0.00108932
+cayenne,cayenne,1,13,0.00108932
+chervil,chervil,1,13,0.00108932
+chicken thigh skin,chicken thigh skin,1,13,0.00108932
+dulce de leche,dulce de leche,1,13,0.00108932
+espresso powder,espresso powder,1,13,0.00108932
+jersey royal potato,jersey royal potato,1,13,0.00108932
+korma curry paste,korma curry paste,1,13,0.00108932
+lemonade,lemonade,1,13,0.00108932
+malteser,malteser,1,13,0.00108932
+meringue,meringue,1,13,0.00108932
+naan,naan,1,13,0.00108932
+pecan half,pecan half,1,13,0.00108932
+red thai curry paste,red thai curry paste,1,13,0.00108932
+roast chicken,roast chicken,1,13,0.00108932
+spanish onion,spanish onion,1,13,0.00108932
+spread,spread,1,13,0.00108932
+white marshmallow,white marshmallow,1,13,0.00108932
+white part,white part,1,13,0.00108932
+wholemeal penne,wholemeal penne,1,13,0.00108932
+za'atar,za'atar,1,13,0.00108932
+asparagus tip,asparagus tip,1,12,0.00100553
+banana chips,banana chips,1,12,0.00100553
+black kalamata olive,black kalamata olive,1,12,0.00100553
+cajun seasoning,cajun seasoning,1,12,0.00100553
+celery seed,celery seed,1,12,0.00100553
+cocktail sausage,cocktail sausage,1,12,0.00100553
+cognac,cognac,1,12,0.00100553
+cumberland sausage,cumberland sausage,1,12,0.00100553
+flavourless oil,flavourless oil,1,12,0.00100553
+food colouring,food colouring,1,12,0.00100553
+french bean,french bean,1,12,0.00100553
+ginger biscuit,ginger biscuit,1,12,0.00100553
+gooseberries,gooseberries,1,12,0.00100553
+gorgonzola,gorgonzola,1,12,0.00100553
+green pesto,green pesto,1,12,0.00100553
+green veg,green veg,1,12,0.00100553
+jacket potato,jacket potato,1,12,0.00100553
+jerk seasoning,jerk seasoning,1,12,0.00100553
+king edward potato,king edward potato,1,12,0.00100553
+korma paste,korma paste,1,12,0.00100553
+lobster,lobster,1,12,0.00100553
+marjoram,marjoram,1,12,0.00100553
+nori,nori,1,12,0.00100553
+orange peel,orange peel,1,12,0.00100553
+parmesan shaving,parmesan shaving,1,12,0.00100553
+pinto bean,pinto bean,1,12,0.00100553
+preserving sugar,preserving sugar,1,12,0.00100553
+red chicory,red chicory,1,12,0.00100553
+red food colouring gel,red food colouring gel,1,12,0.00100553
+red grape,red grape,1,12,0.00100553
+rocket salad,rocket salad,1,12,0.00100553
+sirloin,sirloin,1,12,0.00100553
+star anise,star anise,1,12,0.00100553
+string,string,1,12,0.00100553
+tomato pasta sauce,tomato pasta sauce,1,12,0.00100553
+tomato salsa,tomato salsa,1,12,0.00100553
+whole almonds,whole almonds,1,12,0.00100553
+wholegrain rice,wholegrain rice,1,12,0.00100553

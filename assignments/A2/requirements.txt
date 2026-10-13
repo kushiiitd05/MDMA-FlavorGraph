@@ -1,0 +1,7 @@
+# Assignment 2 — Computational Gastronomy (BIO544)
+numpy>=2.0
+matplotlib>=3.9
+# No mining library is used: the FISM algorithm (Apriori) is implemented from
+# scratch in src/fism.py, as the question requires ("implement any of the FISM
+# algorithms"). Its output is cross-checked against an independent exhaustive
+# count in the same module.

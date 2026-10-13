@@ -1,0 +1,117 @@
+{
+  "summary": {
+    "PASS": 22
+  },
+  "checks": [
+    {
+      "status": "PASS",
+      "check": "C1  Assignment-1 source table present",
+      "detail": "../A1/outputs/Q1/Q1c_recipe_ingredient.csv"
+    },
+    {
+      "status": "PASS",
+      "check": "C2  corpus has >= 10,000 recipes",
+      "detail": "11,934 recipes"
+    },
+    {
+      "status": "PASS",
+      "check": "C3  membership is binary (no repeated ingredient in a recipe)",
+      "detail": "115,197 memberships"
+    },
+    {
+      "status": "PASS",
+      "check": "C4  ingredient vocabulary non-trivial",
+      "detail": "6,346 unique ingredients"
+    },
+    {
+      "status": "PASS",
+      "check": "C5  Apriori output == independent brute-force enumeration",
+      "detail": "k=1: 833, k=2: 7,689, k=3: 12,807"
+    },
+    {
+      "status": "PASS",
+      "check": "C6  complete size-1 list == vocabulary size",
+      "detail": "6,346"
+    },
+    {
+      "status": "PASS",
+      "check": "C7  size-1 supports reproducible from the A1 table",
+      "detail": "6,346 rows checked"
+    },
+    {
+      "status": "PASS",
+      "check": "C8  support_fraction == support_count / N",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C9  downward closure holds: support(pair) <= support(each item)",
+      "detail": "170,419 pairs, first 20k checked"
+    },
+    {
+      "status": "PASS",
+      "check": "C10 top-20 lists present for sizes 1, 2 and 3",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C11 top-20 sorted by descending support",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C12 every confidence lies in (0, 1]",
+      "detail": "80 rules"
+    },
+    {
+      "status": "PASS",
+      "check": "C13 confidence == support(X u Y) / support(X)",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C14 Q2(a) all 10 random cuisines reproduce the size distribution exactly",
+      "detail": "10 sets, size-controlled by replica"
+    },
+    {
+      "status": "PASS",
+      "check": "C15 Q3 all 10 random cuisines reproduce the size distribution exactly",
+      "detail": "10 sets"
+    },
+    {
+      "status": "PASS",
+      "check": "C16 Q2(b) generated 10x the original recipe count",
+      "detail": "119,340 vs 119,340"
+    },
+    {
+      "status": "PASS",
+      "check": "C17 Q2(b) mean recipe size matches the original (within 0.05)",
+      "detail": "9.6528 -> 9.6375 (|diff| = 0.0153)"
+    },
+    {
+      "status": "PASS",
+      "check": "C18 Q2(b) size distribution close to original (total variation < 0.01)",
+      "detail": "total variation distance = 0.00469"
+    },
+    {
+      "status": "PASS",
+      "check": "C19 Q3(b) frequency-controlled control reproduces the rank curve (<10% error)",
+      "detail": "mean relative error over top 200 ranks = 2.924%"
+    },
+    {
+      "status": "PASS",
+      "check": "C20 Q3(b) size-only control does NOT reproduce it (the contrast)",
+      "detail": "size-only error 87.7% vs frequency-controlled 2.9%"
+    },
+    {
+      "status": "PASS",
+      "check": "C21 every required question-numbered file exists",
+      "detail": "11 files"
+    },
+    {
+      "status": "PASS",
+      "check": "C22 backup exists",
+      "detail": "8 items"
+    }
+  ]
+}
