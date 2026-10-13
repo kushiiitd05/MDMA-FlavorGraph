@@ -1,0 +1,24 @@
+{
+  "state_observations": 79326,
+  "mentions_with_at_least_one_state": 57709,
+  "fraction_of_mentions_with_state": 0.4669,
+  "observations_by_category": {
+    "PREPARATION": 44174,
+    "QUALITY": 10942,
+    "SIZE": 8805,
+    "UNCLASSIFIED": 7738,
+    "NOT_A_STATE": 3880,
+    "COOKING": 3787
+  },
+  "distinct_state_strings": 3055,
+  "distinct_states_kept_for_analysis": 1972,
+  "ingredients_with_at_least_one_state": 2707,
+  "categories_used_for_analysis": [
+    "PREPARATION",
+    "COOKING",
+    "QUALITY",
+    "SIZE"
+  ],
+  "invariant_recipe_count_le_recipe_freq": true,
+  "note": "NOT_A_STATE and UNCLASSIFIED observations are written to ingredient_process_states.csv but excluded from the frequency tables. Nothing is silently discarded."
+}

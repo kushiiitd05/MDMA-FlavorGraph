@@ -1,0 +1,316 @@
+cuisine_raw,N_c,rank,ingredient,recipe_frequency,fraction_of_cuisine_recipes
+British,3030,1,butter,1176,0.3881
+British,3030,2,egg,874,0.2884
+British,3030,3,olive oil,768,0.2535
+British,3030,4,lemon,519,0.1713
+British,3030,5,plain flour,512,0.169
+British,3030,6,garlic,487,0.1607
+British,3030,7,golden caster sugar,415,0.137
+British,3030,8,onion,402,0.1327
+British,3030,9,milk,348,0.1149
+British,3030,10,icing sugar,327,0.1079
+British,3030,11,caster sugar,325,0.1073
+British,3030,12,self-raising flour,318,0.105
+British,3030,13,double cream,312,0.103
+British,3030,14,thyme,271,0.0894
+British,3030,15,parsley,227,0.0749
+Italian,717,1,olive oil,383,0.5342
+Italian,717,2,garlic,302,0.4212
+Italian,717,3,parmesan,219,0.3054
+Italian,717,4,basil,167,0.2329
+Italian,717,5,onion,151,0.2106
+Italian,717,6,tomato,138,0.1925
+Italian,717,7,lemon,123,0.1715
+Italian,717,8,butter,122,0.1702
+Italian,717,9,egg,94,0.1311
+Italian,717,10,parsley,78,0.1088
+Italian,717,11,mozzarella,78,0.1088
+Italian,717,12,extra virgin olive oil,76,0.106
+Italian,717,13,cherry tomato,59,0.0823
+Italian,717,14,plain flour,59,0.0823
+Italian,717,15,rocket,55,0.0767
+French,449,1,butter,205,0.4566
+French,449,2,egg,140,0.3118
+French,449,3,olive oil,132,0.294
+French,449,4,plain flour,124,0.2762
+French,449,5,garlic,118,0.2628
+French,449,6,double cream,117,0.2606
+French,449,7,onion,75,0.167
+French,449,8,caster sugar,72,0.1604
+French,449,9,thyme,72,0.1604
+French,449,10,icing sugar,67,0.1492
+French,449,11,egg yolk,63,0.1403
+French,449,12,lemon,61,0.1359
+French,449,13,milk,56,0.1247
+French,449,14,parsley,49,0.1091
+French,449,15,golden caster sugar,44,0.098
+Indian,391,1,coriander,233,0.5959
+Indian,391,2,garlic,187,0.4783
+Indian,391,3,onion,185,0.4731
+Indian,391,4,turmeric,144,0.3683
+Indian,391,5,ginger,132,0.3376
+Indian,391,6,vegetable oil,101,0.2583
+Indian,391,7,tomato,98,0.2506
+Indian,391,8,cumin seed,92,0.2353
+Indian,391,9,garam masala,82,0.2097
+Indian,391,10,chilli powder,78,0.1995
+Indian,391,11,cumin,70,0.179
+Indian,391,12,red onion,63,0.1611
+Indian,391,13,sunflower oil,62,0.1586
+Indian,391,14,potato,54,0.1381
+Indian,391,15,basmati rice,54,0.1381
+American,263,1,butter,120,0.4563
+American,263,2,egg,107,0.4068
+American,263,3,plain flour,72,0.2738
+American,263,4,golden caster sugar,52,0.1977
+American,263,5,garlic,41,0.1559
+American,263,6,olive oil,40,0.1521
+American,263,7,onion,39,0.1483
+American,263,8,milk,36,0.1369
+American,263,9,icing sugar,32,0.1217
+American,263,10,self-raising flour,31,0.1179
+American,263,11,baking powder,31,0.1179
+American,263,12,vanilla extract,30,0.1141
+American,263,13,caster sugar,27,0.1027
+American,263,14,bicarbonate of soda,27,0.1027
+American,263,15,double cream,26,0.0989
+Mediterranean,212,1,olive oil,130,0.6132
+Mediterranean,212,2,garlic,84,0.3962
+Mediterranean,212,3,lemon,53,0.25
+Mediterranean,212,4,tomato,46,0.217
+Mediterranean,212,5,red pepper,42,0.1981
+Mediterranean,212,6,red onion,41,0.1934
+Mediterranean,212,7,basil,36,0.1698
+Mediterranean,212,8,courgette,33,0.1557
+Mediterranean,212,9,onion,30,0.1415
+Mediterranean,212,10,extra virgin olive oil,29,0.1368
+Mediterranean,212,11,parsley,28,0.1321
+Mediterranean,212,12,egg,26,0.1226
+Mediterranean,212,13,mint,25,0.1179
+Mediterranean,212,14,cherry tomato,22,0.1038
+Mediterranean,212,15,feta cheese,21,0.0991
+Asian,201,1,garlic,91,0.4527
+Asian,201,2,coriander,75,0.3731
+Asian,201,3,spring onion,74,0.3682
+Asian,201,4,lime,68,0.3383
+Asian,201,5,soy sauce,67,0.3333
+Asian,201,6,ginger,62,0.3085
+Asian,201,7,red chilli,52,0.2587
+Asian,201,8,sesame oil,50,0.2488
+Asian,201,9,vegetable oil,44,0.2189
+Asian,201,10,carrot,30,0.1493
+Asian,201,11,fish sauce,28,0.1393
+Asian,201,12,cucumber,27,0.1343
+Asian,201,13,sesame seeds,25,0.1244
+Asian,201,14,prawn,25,0.1244
+Asian,201,15,onion,25,0.1244
+Mexican,191,1,coriander,117,0.6126
+Mexican,191,2,lime,89,0.466
+Mexican,191,3,garlic,84,0.4398
+Mexican,191,4,tomato,67,0.3508
+Mexican,191,5,avocado,64,0.3351
+Mexican,191,6,olive oil,63,0.3298
+Mexican,191,7,onion,58,0.3037
+Mexican,191,8,red onion,58,0.3037
+Mexican,191,9,cumin,58,0.3037
+Mexican,191,10,soured cream,39,0.2042
+Mexican,191,11,red pepper,30,0.1571
+Mexican,191,12,cheddar,29,0.1518
+Mexican,191,13,chipotle paste,29,0.1518
+Mexican,191,14,chilli powder,28,0.1466
+Mexican,191,15,black beans,26,0.1361
+Chinese,189,1,garlic,98,0.5185
+Chinese,189,2,spring onion,97,0.5132
+Chinese,189,3,soy sauce,64,0.3386
+Chinese,189,4,ginger,62,0.328
+Chinese,189,5,sesame oil,47,0.2487
+Chinese,189,6,sunflower oil,42,0.2222
+Chinese,189,7,cornflour,41,0.2169
+Chinese,189,8,light soy sauce,39,0.2063
+Chinese,189,9,dark soy sauce,36,0.1905
+Chinese,189,10,red chilli,36,0.1905
+Chinese,189,11,vegetable oil,34,0.1799
+Chinese,189,12,coriander,31,0.164
+Chinese,189,13,honey,27,0.1429
+Chinese,189,14,rice wine,27,0.1429
+Chinese,189,15,oyster sauce,25,0.1323
+Spanish,158,1,olive oil,87,0.5506
+Spanish,158,2,garlic,84,0.5316
+Spanish,158,3,onion,61,0.3861
+Spanish,158,4,egg,43,0.2722
+Spanish,158,5,parsley,42,0.2658
+Spanish,158,6,tomato,37,0.2342
+Spanish,158,7,lemon,31,0.1962
+Spanish,158,8,smoked paprika,30,0.1899
+Spanish,158,9,red pepper,28,0.1772
+Spanish,158,10,chorizo,23,0.1456
+Spanish,158,11,chicken stock,21,0.1329
+Spanish,158,12,butter,20,0.1266
+Spanish,158,13,potato,20,0.1266
+Spanish,158,14,extra virgin olive oil,18,0.1139
+Spanish,158,15,thyme,15,0.0949
+Middle Eastern,156,1,olive oil,89,0.5705
+Middle Eastern,156,2,lemon,70,0.4487
+Middle Eastern,156,3,garlic,69,0.4423
+Middle Eastern,156,4,mint,56,0.359
+Middle Eastern,156,5,coriander,35,0.2244
+Middle Eastern,156,6,parsley,35,0.2244
+Middle Eastern,156,7,onion,32,0.2051
+Middle Eastern,156,8,cumin,32,0.2051
+Middle Eastern,156,9,red onion,28,0.1795
+Middle Eastern,156,10,greek yogurt,22,0.141
+Middle Eastern,156,11,tomato,22,0.141
+Middle Eastern,156,12,chickpea,20,0.1282
+Middle Eastern,156,13,cinnamon,20,0.1282
+Middle Eastern,156,14,couscous,19,0.1218
+Middle Eastern,156,15,pomegranate seed,19,0.1218
+Thai,155,1,coriander,93,0.6
+Thai,155,2,lime,93,0.6
+Thai,155,3,fish sauce,78,0.5032
+Thai,155,4,garlic,65,0.4194
+Thai,155,5,coconut milk,55,0.3548
+Thai,155,6,spring onion,47,0.3032
+Thai,155,7,red chilli,41,0.2645
+Thai,155,8,vegetable oil,39,0.2516
+Thai,155,9,lemongrass,34,0.2194
+Thai,155,10,ginger,34,0.2194
+Thai,155,11,lime juice,27,0.1742
+Thai,155,12,sunflower oil,25,0.1613
+Thai,155,13,peanut,24,0.1548
+Thai,155,14,beansprout,24,0.1548
+Thai,155,15,shallot,23,0.1484
+Moroccan,116,1,olive oil,78,0.6724
+Moroccan,116,2,garlic,53,0.4569
+Moroccan,116,3,coriander,52,0.4483
+Moroccan,116,4,lemon,48,0.4138
+Moroccan,116,5,onion,43,0.3707
+Moroccan,116,6,chickpea,39,0.3362
+Moroccan,116,7,couscous,35,0.3017
+Moroccan,116,8,cumin,34,0.2931
+Moroccan,116,9,cinnamon,33,0.2845
+Moroccan,116,10,red onion,31,0.2672
+Moroccan,116,11,mint,29,0.25
+Moroccan,116,12,tomato,22,0.1897
+Moroccan,116,13,honey,22,0.1897
+Moroccan,116,14,vegetable stock,22,0.1897
+Moroccan,116,15,apricot,21,0.181
+English,110,1,butter,53,0.4818
+English,110,2,egg,41,0.3727
+English,110,3,plain flour,23,0.2091
+English,110,4,caster sugar,23,0.2091
+English,110,5,milk,18,0.1636
+English,110,6,olive oil,17,0.1545
+English,110,7,self-raising flour,15,0.1364
+English,110,8,garlic,14,0.1273
+English,110,9,icing sugar,14,0.1273
+English,110,10,lemon,13,0.1182
+English,110,11,vanilla extract,12,0.1091
+English,110,12,double cream,12,0.1091
+English,110,13,onion,11,0.1
+English,110,14,potato,9,0.0818
+English,110,15,parsley,9,0.0818
+Greek,88,1,olive oil,49,0.5568
+Greek,88,2,garlic,43,0.4886
+Greek,88,3,lemon,34,0.3864
+Greek,88,4,mint,27,0.3068
+Greek,88,5,oregano,26,0.2955
+Greek,88,6,feta cheese,19,0.2159
+Greek,88,7,tomato,18,0.2045
+Greek,88,8,red onion,18,0.2045
+Greek,88,9,feta,17,0.1932
+Greek,88,10,greek yogurt,16,0.1818
+Greek,88,11,cucumber,16,0.1818
+Greek,88,12,wine vinegar,15,0.1705
+Greek,88,13,onion,14,0.1591
+Greek,88,14,cinnamon,13,0.1477
+Greek,88,15,extra virgin olive oil,13,0.1477
+Japanese,61,1,soy sauce,26,0.4262
+Japanese,61,2,spring onion,24,0.3934
+Japanese,61,3,vegetable oil,16,0.2623
+Japanese,61,4,garlic,16,0.2623
+Japanese,61,5,ginger,15,0.2459
+Japanese,61,6,mirin,15,0.2459
+Japanese,61,7,egg,13,0.2131
+Japanese,61,8,caster sugar,13,0.2131
+Japanese,61,9,sesame oil,12,0.1967
+Japanese,61,10,cucumber,10,0.1639
+Japanese,61,11,sesame seeds,10,0.1639
+Japanese,61,12,rice vinegar,9,0.1475
+Japanese,61,13,plain flour,8,0.1311
+Japanese,61,14,carrot,8,0.1311
+Japanese,61,15,onion,7,0.1148
+Caribbean,39,1,lime,21,0.5385
+Caribbean,39,2,thyme,15,0.3846
+Caribbean,39,3,garlic,12,0.3077
+Caribbean,39,4,coriander,10,0.2564
+Caribbean,39,5,ginger,9,0.2308
+Caribbean,39,6,olive oil,8,0.2051
+Caribbean,39,7,spring onion,7,0.1795
+Caribbean,39,8,pineapple,7,0.1795
+Caribbean,39,9,onion,6,0.1538
+Caribbean,39,10,vegetable oil,6,0.1538
+Caribbean,39,11,nutmeg,6,0.1538
+Caribbean,39,12,jerk seasoning,6,0.1538
+Caribbean,39,13,coconut milk,5,0.1282
+Caribbean,39,14,allspice,5,0.1282
+Caribbean,39,15,tomato,5,0.1282
+German,37,1,butter,26,0.7027
+German,37,2,plain flour,20,0.5405
+German,37,3,egg,20,0.5405
+German,37,4,icing sugar,18,0.4865
+German,37,5,cinnamon,10,0.2703
+German,37,6,milk,9,0.2432
+German,37,7,caster sugar,9,0.2432
+German,37,8,golden caster sugar,9,0.2432
+German,37,9,lemon,8,0.2162
+German,37,10,vanilla extract,8,0.2162
+German,37,11,nutmeg,8,0.2162
+German,37,12,marzipan,7,0.1892
+German,37,13,baking powder,6,0.1622
+German,37,14,bicarbonate of soda,5,0.1351
+German,37,15,double cream,5,0.1351
+Australian,31,1,butter,9,0.2903
+Australian,31,2,olive oil,9,0.2903
+Australian,31,3,caster sugar,8,0.2581
+Australian,31,4,icing sugar,8,0.2581
+Australian,31,5,egg white,8,0.2581
+Australian,31,6,garlic,7,0.2258
+Australian,31,7,vanilla extract,7,0.2258
+Australian,31,8,cornflour,5,0.1613
+Australian,31,9,double cream,5,0.1613
+Australian,31,10,egg,5,0.1613
+Australian,31,11,plain flour,4,0.129
+Australian,31,12,beetroot,4,0.129
+Australian,31,13,wine vinegar,4,0.129
+Australian,31,14,extra virgin olive oil,4,0.129
+Australian,31,15,lemon,4,0.129
+Scottish,30,1,butter,17,0.5667
+Scottish,30,2,plain flour,9,0.3
+Scottish,30,3,egg,7,0.2333
+Scottish,30,4,olive oil,6,0.2
+Scottish,30,5,parsley,6,0.2
+Scottish,30,6,milk,5,0.1667
+Scottish,30,7,swede,5,0.1667
+Scottish,30,8,bacon,4,0.1333
+Scottish,30,9,salt,4,0.1333
+Scottish,30,10,carrot,4,0.1333
+Scottish,30,11,potato,4,0.1333
+Scottish,30,12,onion,4,0.1333
+Scottish,30,13,haggis,3,0.1
+Scottish,30,14,thyme,3,0.1
+Scottish,30,15,whisky,3,0.1
+Irish,30,1,butter,18,0.6
+Irish,30,2,double cream,11,0.3667
+Irish,30,3,plain flour,10,0.3333
+Irish,30,4,egg,10,0.3333
+Irish,30,5,potato,10,0.3333
+Irish,30,6,spring onion,7,0.2333
+Irish,30,7,bicarbonate of soda,7,0.2333
+Irish,30,8,carrot,6,0.2
+Irish,30,9,onion,5,0.1667
+Irish,30,10,bacon,5,0.1667
+Irish,30,11,milk,5,0.1667
+Irish,30,12,cabbage,4,0.1333
+Irish,30,13,buttermilk,4,0.1333
+Irish,30,14,floury potato,4,0.1333
+Irish,30,15,honey,4,0.1333

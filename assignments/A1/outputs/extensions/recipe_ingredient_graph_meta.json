@@ -1,0 +1,23 @@
+{
+  "recipe_ids_order": [
+    "R000001",
+    "R000002",
+    "R000003",
+    "R000004",
+    "R000005",
+    "..."
+  ],
+  "n_recipes": 11934,
+  "n_ingredients": 6346,
+  "sanity_checks": {
+    "shape_recipes_x_ingredients": [
+      11934,
+      6346
+    ],
+    "all_entries_binary": true,
+    "row_sum_equals_recipe_size": true,
+    "col_sum_equals_ingredient_frequency": true,
+    "density": 0.0015210905489172484,
+    "nnz_edges": 115197
+  }
+}

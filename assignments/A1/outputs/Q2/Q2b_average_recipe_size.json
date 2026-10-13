@@ -1,0 +1,16 @@
+{
+  "n_recipes": 11934,
+  "definition_recipe_size": "number of unique canonical ingredients in the recipe",
+  "mean_recipe_size": 9.6528,
+  "std_dev": 3.9512,
+  "median": 9.0,
+  "min": 1,
+  "max": 38,
+  "q1": 7.0,
+  "q3": 12.0,
+  "p05": 4.0,
+  "p95": 17.0,
+  "skewness": 0.7607,
+  "excess_kurtosis": 1.1858,
+  "note": "Distribution is right-skewed, NOT assumed Gaussian; skewness/kurtosis reported so the reader can judge."
+}

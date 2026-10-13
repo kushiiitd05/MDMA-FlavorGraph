@@ -1,0 +1,2067 @@
+cuisine,n_cuisine_recipes,ingredient,recipes_with_ingredient,p_ingredient_given_cuisine,p_ingredient_overall,lift
+American,263,dog bun,6,0.0228,0.0009,24.751
+American,263,barbecue sauce,9,0.0342,0.0022,15.707
+American,263,american mustard,5,0.019,0.0013,14.18
+American,263,celery salt,6,0.0228,0.0018,12.375
+American,263,skimmed milk,6,0.0228,0.0023,10.084
+American,263,gherkin,5,0.019,0.0024,7.824
+American,263,buttermilk,20,0.076,0.01,7.626
+American,263,macaroni,5,0.019,0.0027,7.09
+American,263,blueberry,14,0.0532,0.009,5.882
+American,263,iceberg lettuce,5,0.019,0.0034,5.672
+American,263,digestive biscuit,8,0.0304,0.0058,5.261
+American,263,full-fat cream cheese,5,0.019,0.0037,5.156
+American,263,sweetcorn,12,0.0456,0.0099,4.615
+American,263,white cabbage,6,0.0228,0.005,4.538
+American,263,light soft brown sugar,5,0.019,0.0047,4.051
+American,263,worcestershire sauce,13,0.0494,0.0122,4.04
+American,263,bicarbonate of soda,27,0.1027,0.0258,3.978
+American,263,tomato ketchup,7,0.0266,0.007,3.781
+American,263,semi-skimmed milk,7,0.0266,0.0072,3.693
+American,263,cocoa,6,0.0228,0.0062,3.679
+American,263,cayenne pepper,13,0.0494,0.0142,3.49
+American,263,peanut butter,8,0.0304,0.0088,3.457
+American,263,maple syrup,19,0.0722,0.0218,3.316
+American,263,ice cream,10,0.038,0.0115,3.312
+American,263,mustard powder,9,0.0342,0.0106,3.241
+American,263,green pepper,5,0.019,0.0059,3.196
+American,263,minced beef,5,0.019,0.0062,3.066
+American,263,milk chocolate,7,0.0266,0.0088,3.025
+American,263,light muscovado sugar,17,0.0646,0.0222,2.911
+American,263,banana,13,0.0494,0.0172,2.878
+American,263,cherry,7,0.0266,0.0093,2.862
+American,263,cocoa powder,17,0.0646,0.0228,2.836
+American,263,white chocolate,11,0.0418,0.0149,2.804
+American,263,dark chocolate,26,0.0989,0.0354,2.796
+American,263,soured cream,15,0.057,0.0215,2.659
+American,263,single cream,5,0.019,0.0073,2.608
+American,263,cheese,12,0.0456,0.0176,2.593
+American,263,pecan,5,0.019,0.0075,2.549
+American,263,golden syrup,11,0.0418,0.0166,2.521
+American,263,mayonnaise,16,0.0608,0.0247,2.461
+American,263,bacon,11,0.0418,0.0173,2.411
+American,263,orange juice,6,0.0228,0.0096,2.367
+American,263,chif,15,0.057,0.0246,2.323
+American,263,golden caster sugar,52,0.1977,0.09,2.197
+American,263,red,6,0.0228,0.0108,2.111
+American,263,baking powder,31,0.1179,0.0577,2.042
+American,263,bread,8,0.0304,0.0153,1.984
+American,263,vanilla extract,30,0.1141,0.0587,1.942
+American,263,shortcrust pastry,5,0.019,0.01,1.907
+American,263,brown sugar,8,0.0304,0.016,1.901
+American,263,cider vinegar,10,0.038,0.0204,1.86
+American,263,gem lettuce,6,0.0228,0.0123,1.852
+American,263,self-raising flour,31,0.1179,0.0649,1.815
+American,263,plain flour,72,0.2738,0.151,1.813
+American,263,paprika,7,0.0266,0.015,1.774
+American,263,egg,107,0.4068,0.234,1.738
+American,263,chilli sauce,5,0.019,0.0111,1.719
+American,263,walnut,7,0.0266,0.0155,1.717
+American,263,sunflower oil,24,0.0913,0.055,1.66
+American,263,avocado,12,0.0456,0.0275,1.66
+American,263,raspberry,8,0.0304,0.0185,1.643
+American,263,cheddar,15,0.057,0.0354,1.609
+American,263,milk,36,0.1369,0.0856,1.6
+American,263,butter,120,0.4563,0.2883,1.583
+American,263,strawberry,6,0.0228,0.0146,1.565
+American,263,icing sugar,32,0.1217,0.0792,1.537
+American,263,cranberry,6,0.0228,0.015,1.521
+American,263,celery,13,0.0494,0.0329,1.501
+American,263,flour,6,0.0228,0.0153,1.496
+American,263,mozzarella,6,0.0228,0.0165,1.382
+American,263,chicken,8,0.0304,0.0223,1.365
+American,263,cinnamon,26,0.0989,0.0726,1.361
+American,263,water,5,0.019,0.016,1.188
+American,263,lemon juice,13,0.0494,0.0421,1.175
+American,263,salt,13,0.0494,0.0426,1.161
+American,263,orange,14,0.0532,0.0463,1.149
+American,263,double cream,26,0.0989,0.0865,1.143
+American,263,wholegrain mustard,6,0.0228,0.02,1.139
+American,263,sugar,12,0.0456,0.0403,1.132
+American,263,egg yolk,11,0.0418,0.0371,1.127
+American,263,dijon mustard,9,0.0342,0.0304,1.125
+American,263,smoked paprika,9,0.0342,0.0321,1.066
+American,263,wine vinegar,17,0.0646,0.0609,1.061
+American,263,cornflour,9,0.0342,0.0323,1.058
+American,263,honey,15,0.057,0.054,1.055
+American,263,caster sugar,27,0.1027,0.1005,1.022
+American,263,potato,16,0.0608,0.0607,1.003
+American,263,natural yogurt,5,0.019,0.0201,0.945
+American,263,vegetable oil,18,0.0684,0.0744,0.92
+American,263,light brown soft sugar,5,0.019,0.0217,0.876
+American,263,onion,39,0.1483,0.1709,0.868
+American,263,oil,6,0.0228,0.0263,0.867
+American,263,whole milk,5,0.019,0.0235,0.81
+American,263,chicken breast,7,0.0266,0.0331,0.804
+American,263,oregano,5,0.019,0.0256,0.741
+American,263,spring onion,15,0.057,0.0778,0.733
+American,263,crème fraîche,7,0.0266,0.0364,0.732
+American,263,red onion,15,0.057,0.0805,0.708
+American,263,tomato,17,0.0646,0.0934,0.692
+American,263,parmesan,10,0.038,0.0561,0.677
+American,263,nutmeg,6,0.0228,0.0342,0.667
+American,263,thyme,12,0.0456,0.0728,0.627
+American,263,tomato purée,7,0.0266,0.0431,0.618
+American,263,cumin,7,0.0266,0.0436,0.611
+American,263,red chilli,8,0.0304,0.0515,0.59
+American,263,cucumber,5,0.019,0.0326,0.583
+American,263,parsley,13,0.0494,0.0852,0.58
+American,263,olive oil,40,0.1521,0.2644,0.575
+American,263,lemon,25,0.0951,0.1701,0.559
+American,263,bay,5,0.019,0.0342,0.556
+American,263,soy sauce,5,0.019,0.0345,0.551
+American,263,garlic,41,0.1559,0.2898,0.538
+American,263,carrot,11,0.0418,0.0787,0.532
+American,263,shallot,5,0.019,0.0361,0.526
+American,263,lime,10,0.038,0.0737,0.516
+American,263,basil,6,0.0228,0.0478,0.478
+American,263,rapeseed oil,5,0.019,0.045,0.422
+American,263,ginger,8,0.0304,0.0777,0.392
+American,263,extra virgin olive oil,5,0.019,0.0486,0.391
+American,263,mint,6,0.0228,0.0584,0.391
+American,263,coriander,10,0.038,0.1194,0.318
+Asian,201,bok choi,6,0.0299,0.0013,22.265
+Asian,201,egg noodle,6,0.0299,0.0013,22.265
+Asian,201,beansprout,24,0.1194,0.0077,15.489
+Asian,201,egg noodles,10,0.0498,0.0034,14.843
+Asian,201,tamari,7,0.0348,0.0028,12.594
+Asian,201,sesame seed,8,0.0398,0.0032,12.5
+Asian,201,pak choi,10,0.0498,0.004,12.369
+Asian,201,rice noodles,9,0.0448,0.0037,12.145
+Asian,201,sesame oil,50,0.2488,0.0208,11.97
+Asian,201,shiitake mushroom,5,0.0249,0.0021,11.875
+Asian,201,mirin,6,0.0299,0.0027,11.132
+Asian,201,oyster sauce,9,0.0448,0.0043,10.478
+Asian,201,soy sauce,67,0.3333,0.0345,9.655
+Asian,201,fish sauce,28,0.1393,0.0147,9.5
+Asian,201,lemongrass,13,0.0647,0.007,9.299
+Asian,201,tamarind paste,6,0.0299,0.0034,8.906
+Asian,201,tofu,7,0.0348,0.0039,8.843
+Asian,201,rice wine,7,0.0348,0.0039,8.843
+Asian,201,prawn,25,0.1244,0.0146,8.531
+Asian,201,chinese five-spice powder,7,0.0348,0.0043,8.149
+Asian,201,chilli sauce,18,0.0896,0.0111,8.096
+Asian,201,hoisin sauce,5,0.0249,0.0033,7.612
+Asian,201,mango,15,0.0746,0.01,7.484
+Asian,201,red chilly,14,0.0697,0.0122,5.733
+Asian,201,peanut,11,0.0547,0.0096,5.729
+Asian,201,sesame seeds,25,0.1244,0.0222,5.601
+Asian,201,chilli,5,0.0249,0.0045,5.498
+Asian,201,root ginger,12,0.0597,0.011,5.439
+Asian,201,pineapple,10,0.0498,0.0095,5.254
+Asian,201,king prawn,9,0.0448,0.0087,5.138
+Asian,201,red chilli,52,0.2587,0.0515,5.02
+Asian,201,coconut milk,21,0.1045,0.0215,4.87
+Asian,201,spring onion,74,0.3682,0.0778,4.734
+Asian,201,lime,68,0.3383,0.0737,4.593
+Asian,201,rice,14,0.0697,0.0158,4.421
+Asian,201,rice vinegar,7,0.0348,0.0082,4.241
+Asian,201,dark soy sauce,5,0.0249,0.006,4.123
+Asian,201,cucumber,27,0.1343,0.0326,4.121
+Asian,201,ginger,62,0.3085,0.0777,3.971
+Asian,201,light soy sauce,6,0.0299,0.0079,3.79
+Asian,201,brown sugar,12,0.0597,0.016,3.73
+Asian,201,frac,15,0.0746,0.0201,3.711
+Asian,201,sherry,5,0.0249,0.0069,3.62
+Asian,201,peanut butter,6,0.0299,0.0088,3.393
+Asian,201,anise,8,0.0398,0.0122,3.276
+Asian,201,coriander,75,0.3731,0.1194,3.125
+Asian,201,green chilli,7,0.0348,0.0111,3.125
+Asian,201,green beans,8,0.0398,0.0129,3.084
+Asian,201,coconut,8,0.0398,0.013,3.064
+Asian,201,lime juice,8,0.0398,0.0133,2.987
+Asian,201,curry powder,9,0.0448,0.0152,2.952
+Asian,201,vegetable oil,44,0.2189,0.0744,2.942
+Asian,201,broccoli,10,0.0498,0.0186,2.674
+Asian,201,chicken,11,0.0547,0.0223,2.455
+Asian,201,salmon fillet,7,0.0348,0.0145,2.402
+Asian,201,basmati rice,7,0.0348,0.0146,2.389
+Asian,201,sunflower oil,24,0.1194,0.055,2.172
+Asian,201,turmeric,13,0.0647,0.0313,2.064
+Asian,201,gem lettuce,5,0.0249,0.0123,2.019
+Asian,201,red pepper,18,0.0896,0.045,1.99
+Asian,201,wine vinegar,24,0.1194,0.0609,1.96
+Asian,201,carrot,30,0.1493,0.0787,1.897
+Asian,201,chicken breast,12,0.0597,0.0331,1.804
+Asian,201,mint,20,0.0995,0.0584,1.704
+Asian,201,shallot,12,0.0597,0.0361,1.653
+Asian,201,aubergine,6,0.0299,0.0186,1.605
+Asian,201,spinach,12,0.0597,0.0377,1.583
+Asian,201,chilli powder,7,0.0348,0.0221,1.574
+Asian,201,honey,17,0.0846,0.054,1.565
+Asian,201,garlic,91,0.4527,0.2898,1.562
+Asian,201,sugar,12,0.0597,0.0403,1.481
+Asian,201,chicken thigh,5,0.0249,0.0192,1.296
+Asian,201,chicken stock,11,0.0547,0.0442,1.237
+Asian,201,cumin seed,7,0.0348,0.0282,1.237
+Asian,201,mayonnaise,6,0.0299,0.0247,1.208
+Asian,201,cornflour,7,0.0348,0.0323,1.077
+Asian,201,red onion,16,0.0796,0.0805,0.989
+Asian,201,oil,5,0.0249,0.0263,0.945
+Asian,201,peas,5,0.0249,0.0266,0.936
+Asian,201,leek,5,0.0249,0.0269,0.925
+Asian,201,caster sugar,17,0.0846,0.1005,0.842
+Asian,201,golden caster sugar,15,0.0746,0.09,0.829
+Asian,201,chilli flake,5,0.0249,0.031,0.802
+Asian,201,potato,9,0.0448,0.0607,0.738
+Asian,201,onion,25,0.1244,0.1709,0.728
+Asian,201,rapeseed oil,6,0.0299,0.045,0.663
+Asian,201,vegetable stock,5,0.0249,0.0397,0.626
+Asian,201,egg,19,0.0945,0.234,0.404
+Asian,201,lemon,12,0.0597,0.1701,0.351
+Asian,201,olive oil,17,0.0846,0.2644,0.32
+Asian,201,plain flour,7,0.0348,0.151,0.231
+Asian,201,butter,5,0.0249,0.2883,0.086
+Australian,31,egg white,8,0.2581,0.0226,11.406
+Australian,31,cornflour,5,0.1613,0.0323,4.987
+Australian,31,vanilla extract,7,0.2258,0.0587,3.844
+Australian,31,icing sugar,8,0.2581,0.0792,3.259
+Australian,31,caster sugar,8,0.2581,0.1005,2.569
+Australian,31,double cream,5,0.1613,0.0865,1.865
+Australian,31,olive oil,9,0.2903,0.2644,1.098
+Australian,31,butter,9,0.2903,0.2883,1.007
+Australian,31,garlic,7,0.2258,0.2898,0.779
+Australian,31,egg,5,0.1613,0.234,0.689
+British,3030,granary,5,0.0017,0.0004,3.939
+British,3030,total weight,5,0.0017,0.0004,3.939
+British,3030,horseradish cream,5,0.0017,0.0004,3.939
+British,3030,punnet raspberry,5,0.0017,0.0004,3.939
+British,3030,lemon grated zest,10,0.0033,0.0009,3.581
+British,3030,jam sugar,16,0.0053,0.0015,3.501
+British,3030,grain mustard,6,0.002,0.0006,3.376
+British,3030,black pudding,6,0.002,0.0006,3.376
+British,3030,white marzipan,6,0.002,0.0006,3.376
+British,3030,onion chutney,6,0.002,0.0006,3.376
+British,3030,granny smith,5,0.0017,0.0005,3.282
+British,3030,easy-blend yeast,5,0.0017,0.0005,3.282
+British,3030,mustard cress,5,0.0017,0.0005,3.282
+British,3030,strawberry hulled,5,0.0017,0.0005,3.282
+British,3030,grainy mustard,12,0.004,0.0013,3.151
+British,3030,ribbon,15,0.005,0.0016,3.109
+British,3030,toffee,6,0.002,0.0007,2.954
+British,3030,cake,6,0.002,0.0007,2.954
+British,3030,berry,6,0.002,0.0007,2.954
+British,3030,pimm,8,0.0026,0.0009,2.864
+British,3030,vanilla custard,7,0.0023,0.0008,2.757
+British,3030,poppy seed,14,0.0046,0.0017,2.757
+British,3030,suet,18,0.0059,0.0022,2.727
+British,3030,sultana,28,0.0092,0.0034,2.69
+British,3030,ready-to-roll,6,0.002,0.0008,2.626
+British,3030,cumberland sausage,8,0.0026,0.001,2.626
+British,3030,orange marmalade,6,0.002,0.0008,2.626
+British,3030,bramley apple,45,0.0149,0.0057,2.606
+British,3030,chipolata sausage,7,0.0023,0.0009,2.506
+British,3030,plain chocolate,28,0.0092,0.0037,2.506
+British,3030,fromage frais,14,0.0046,0.0018,2.506
+British,3030,all-butter shortcrust pastry,7,0.0023,0.0009,2.506
+British,3030,yellow food colouring,7,0.0023,0.0009,2.506
+British,3030,goose fat,10,0.0033,0.0013,2.462
+British,3030,piping,5,0.0017,0.0007,2.462
+British,3030,granary bread,10,0.0033,0.0013,2.462
+British,3030,smoked salmon trimming,5,0.0017,0.0007,2.462
+British,3030,cake board,5,0.0017,0.0007,2.462
+British,3030,butter room temperature,8,0.0026,0.0011,2.424
+British,3030,white breadcrumb,24,0.0079,0.0033,2.424
+British,3030,redcurrant jelly,19,0.0063,0.0026,2.414
+British,3030,green peppercorn,6,0.002,0.0008,2.363
+British,3030,redcurrant,9,0.003,0.0013,2.363
+British,3030,horseradish sauce,23,0.0076,0.0033,2.323
+British,3030,gooseberry,10,0.0033,0.0014,2.317
+British,3030,chive,17,0.0056,0.0024,2.309
+British,3030,asparagus tip,7,0.0023,0.001,2.298
+British,3030,celery seed,7,0.0023,0.001,2.298
+British,3030,sausagemeat,11,0.0036,0.0016,2.28
+British,3030,rhubarb,37,0.0122,0.0054,2.277
+British,3030,dark muscovado sugar,44,0.0145,0.0065,2.251
+British,3030,glacé cherry,26,0.0086,0.0039,2.226
+British,3030,pecan nut,9,0.003,0.0013,2.215
+British,3030,green food colouring,9,0.003,0.0013,2.215
+British,3030,jam,10,0.0033,0.0015,2.188
+British,3030,disaronno,5,0.0017,0.0008,2.188
+British,3030,shortbread biscuit,10,0.0033,0.0015,2.188
+British,3030,pork steak,5,0.0017,0.0008,2.188
+British,3030,salad potato,5,0.0017,0.0008,2.188
+British,3030,fat-free,5,0.0017,0.0008,2.188
+British,3030,rosé wine,5,0.0017,0.0008,2.188
+British,3030,horseradish,27,0.0089,0.0041,2.17
+British,3030,icing,12,0.004,0.0018,2.148
+British,3030,porridge oat,12,0.004,0.0018,2.148
+British,3030,pork loin steak,6,0.002,0.0009,2.148
+British,3030,half juice,6,0.002,0.0009,2.148
+British,3030,blackberry,43,0.0142,0.0066,2.144
+British,3030,apricot jam,39,0.0129,0.006,2.133
+British,3030,haddock,20,0.0066,0.0031,2.129
+British,3030,jersey royal potato,7,0.0023,0.0011,2.121
+British,3030,tabasco sauce,15,0.005,0.0023,2.11
+British,3030,lemon curd,29,0.0096,0.0046,2.077
+British,3030,cocktail,10,0.0033,0.0016,2.073
+British,3030,cooking apple,13,0.0043,0.0021,2.048
+British,3030,black treacle,17,0.0056,0.0028,2.029
+British,3030,full-fat milk,56,0.0185,0.0091,2.024
+British,3030,light muscovado sugar,136,0.0449,0.0222,2.021
+British,3030,clear honey,21,0.0069,0.0034,2.017
+British,3030,plum,27,0.0089,0.0044,2.006
+British,3030,baking potato,34,0.0112,0.0056,1.999
+British,3030,eating apple,35,0.0116,0.0058,1.998
+British,3030,wholegrain mustard,120,0.0396,0.02,1.978
+British,3030,clotted cream,22,0.0073,0.0037,1.969
+British,3030,preserving sugar,6,0.002,0.001,1.969
+British,3030,chocolate button,5,0.0017,0.0008,1.969
+British,3030,orange zest,35,0.0116,0.0059,1.969
+British,3030,light soft brown sugar,28,0.0092,0.0047,1.969
+British,3030,pollock fillet,5,0.0017,0.0008,1.969
+British,3030,cointreau,11,0.0036,0.0018,1.969
+British,3030,chicory,16,0.0053,0.0027,1.969
+British,3030,ginger syrup,5,0.0017,0.0008,1.969
+British,3030,gooseberries,6,0.002,0.001,1.969
+British,3030,pear,44,0.0145,0.0075,1.947
+British,3030,vanilla pod,26,0.0086,0.0044,1.932
+British,3030,vanilla pod split,12,0.004,0.0021,1.891
+British,3030,currant,23,0.0076,0.004,1.887
+British,3030,brandy,52,0.0172,0.0091,1.879
+British,3030,raspberry jam,28,0.0092,0.0049,1.869
+British,3030,lard,16,0.0053,0.0028,1.853
+British,3030,glucose,8,0.0026,0.0014,1.853
+British,3030,cress,8,0.0026,0.0014,1.853
+British,3030,pudding rice,7,0.0023,0.0013,1.838
+British,3030,custard,28,0.0092,0.005,1.838
+British,3030,stem ginger,35,0.0116,0.0063,1.838
+British,3030,brie,7,0.0023,0.0013,1.838
+British,3030,red leicester,7,0.0023,0.0013,1.838
+British,3030,breadcrumb,34,0.0112,0.0061,1.834
+British,3030,shortcrust pastry,55,0.0182,0.01,1.82
+British,3030,meringue,6,0.002,0.0011,1.818
+British,3030,white breadcrumbs,30,0.0099,0.0054,1.818
+British,3030,mace,24,0.0079,0.0044,1.818
+British,3030,lemonade,6,0.002,0.0011,1.818
+British,3030,vanilla pod seed,12,0.004,0.0022,1.818
+British,3030,haddock fillet,18,0.0059,0.0033,1.818
+British,3030,mackerel fillet,16,0.0053,0.0029,1.801
+British,3030,pea shoot,10,0.0033,0.0018,1.79
+British,3030,crème de cassis,5,0.0017,0.0009,1.79
+British,3030,syrup,15,0.005,0.0028,1.79
+British,3030,beef stock cube,20,0.0066,0.0037,1.79
+British,3030,stout,5,0.0017,0.0009,1.79
+British,3030,quark,5,0.0017,0.0009,1.79
+British,3030,xylitol,5,0.0017,0.0009,1.79
+British,3030,tonic water,5,0.0017,0.0009,1.79
+British,3030,blue,5,0.0017,0.0009,1.79
+British,3030,fruit,44,0.0145,0.0082,1.768
+British,3030,gelatine,33,0.0109,0.0062,1.756
+British,3030,port,12,0.004,0.0023,1.75
+British,3030,chipolata,8,0.0026,0.0015,1.75
+British,3030,demerara sugar,55,0.0182,0.0104,1.747
+British,3030,goat' cheese,50,0.0165,0.0095,1.743
+British,3030,elderflower cordial,19,0.0063,0.0036,1.74
+British,3030,watercress,79,0.0261,0.015,1.738
+British,3030,white bread,45,0.0149,0.0085,1.738
+British,3030,spice,86,0.0284,0.0163,1.737
+British,3030,almond extract,26,0.0086,0.0049,1.736
+British,3030,marmite,11,0.0036,0.0021,1.733
+British,3030,flour,80,0.0264,0.0153,1.731
+British,3030,pea,47,0.0155,0.009,1.73
+British,3030,poppy seeds,18,0.0059,0.0034,1.729
+British,3030,marzipan,25,0.0083,0.0048,1.727
+British,3030,braising steak,7,0.0023,0.0013,1.723
+British,3030,red food colouring,7,0.0023,0.0013,1.723
+British,3030,mincemeat,17,0.0056,0.0033,1.717
+British,3030,cranberry,78,0.0257,0.015,1.716
+British,3030,wild mushroom,10,0.0033,0.0019,1.712
+British,3030,ciabatta,13,0.0043,0.0025,1.707
+British,3030,ham,51,0.0168,0.0099,1.702
+British,3030,parsnip,55,0.0182,0.0107,1.692
+British,3030,savoy cabbage,21,0.0069,0.0041,1.688
+British,3030,madeira cake,6,0.002,0.0012,1.688
+British,3030,cottage cheese,6,0.002,0.0012,1.688
+British,3030,new potato,102,0.0337,0.02,1.681
+British,3030,pink food colouring,8,0.0026,0.0016,1.658
+British,3030,cocoa,31,0.0102,0.0062,1.65
+British,3030,orange peel,5,0.0017,0.001,1.641
+British,3030,king edward potato,5,0.0017,0.001,1.641
+British,3030,red chicory,5,0.0017,0.001,1.641
+British,3030,almond,117,0.0386,0.0236,1.634
+British,3030,raspberry,91,0.03,0.0185,1.622
+British,3030,leaf gelatine,7,0.0023,0.0014,1.622
+British,3030,chocolate egg,7,0.0023,0.0014,1.622
+British,3030,self-raising flour,318,0.105,0.0649,1.616
+British,3030,orange juice,47,0.0155,0.0096,1.61
+British,3030,english mustard,35,0.0116,0.0072,1.603
+British,3030,prune,13,0.0043,0.0027,1.6
+British,3030,agave syrup,13,0.0043,0.0027,1.6
+British,3030,chocolate,17,0.0056,0.0035,1.594
+British,3030,pecan,36,0.0119,0.0075,1.593
+British,3030,puff pastry,65,0.0215,0.0136,1.58
+British,3030,dessert apple,6,0.002,0.0013,1.575
+British,3030,chestnut,30,0.0099,0.0063,1.575
+British,3030,lamb' lettuce,6,0.002,0.0013,1.575
+British,3030,smoked back bacon,6,0.002,0.0013,1.575
+British,3030,green vegetable,6,0.002,0.0013,1.575
+British,3030,silver,6,0.002,0.0013,1.575
+British,3030,cocoa solid,6,0.002,0.0013,1.575
+British,3030,orange liqueur,6,0.002,0.0013,1.575
+British,3030,soya bean,8,0.0026,0.0017,1.575
+British,3030,apricot,63,0.0208,0.0132,1.57
+British,3030,cider,21,0.0069,0.0044,1.561
+British,3030,frac,95,0.0314,0.0201,1.559
+British,3030,asparagus spear,19,0.0063,0.004,1.559
+British,3030,golden syrup,78,0.0257,0.0166,1.552
+British,3030,salad,57,0.0188,0.0122,1.538
+British,3030,cod,7,0.0023,0.0015,1.532
+British,3030,madeira,7,0.0023,0.0015,1.532
+British,3030,meringue nest,7,0.0023,0.0015,1.532
+British,3030,tarragon,55,0.0182,0.0119,1.526
+British,3030,golden caster sugar,415,0.137,0.09,1.522
+British,3030,strawberry,67,0.0221,0.0146,1.517
+British,3030,korma curry paste,5,0.0017,0.0011,1.515
+British,3030,dulce de leche,5,0.0017,0.0011,1.515
+British,3030,petit pois,10,0.0033,0.0022,1.515
+British,3030,white marshmallow,5,0.0017,0.0011,1.515
+British,3030,floury potato,39,0.0129,0.0085,1.506
+British,3030,vanilla,27,0.0089,0.0059,1.498
+British,3030,crème fraîche,165,0.0545,0.0364,1.497
+British,3030,all-butter puff pastry,19,0.0063,0.0042,1.497
+British,3030,single cream,33,0.0109,0.0073,1.494
+British,3030,white fish fillet,17,0.0056,0.0038,1.488
+British,3030,whisky,6,0.002,0.0013,1.477
+British,3030,pink grapefruit,6,0.002,0.0013,1.477
+British,3030,wooden skewer,6,0.002,0.0013,1.477
+British,3030,orange,207,0.0683,0.0463,1.474
+British,3030,smoked salmon,28,0.0092,0.0063,1.47
+British,3030,lamb,23,0.0076,0.0052,1.461
+British,3030,celeriac,33,0.0109,0.0075,1.46
+British,3030,lemon thyme,10,0.0033,0.0023,1.459
+British,3030,worcestershire sauce,54,0.0178,0.0122,1.457
+British,3030,apple,52,0.0172,0.0118,1.453
+British,3030,flatleaf parsley,14,0.0046,0.0032,1.451
+British,3030,bacon,76,0.0251,0.0173,1.446
+British,3030,strong white flour,15,0.005,0.0034,1.441
+British,3030,stilton,8,0.0026,0.0018,1.432
+British,3030,malt vinegar,12,0.004,0.0028,1.432
+British,3030,peppercorn,17,0.0056,0.0039,1.425
+British,3030,semi-skimmed milk,31,0.0102,0.0072,1.42
+British,3030,yellow mustard seed,9,0.003,0.0021,1.418
+British,3030,white fish,9,0.003,0.0021,1.418
+British,3030,coffee,19,0.0063,0.0044,1.412
+British,3030,pork sausage,29,0.0096,0.0068,1.41
+British,3030,rolled oats,15,0.005,0.0035,1.407
+British,3030,baked beans,10,0.0033,0.0023,1.407
+British,3030,macadamia nut,5,0.0017,0.0012,1.407
+British,3030,tomato sauce,6,0.002,0.0014,1.39
+British,3030,chicken liver,6,0.002,0.0014,1.39
+British,3030,pink,6,0.002,0.0014,1.39
+British,3030,trout fillet,6,0.002,0.0014,1.39
+British,3030,allspice berries,7,0.0023,0.0017,1.379
+British,3030,treacle,7,0.0023,0.0017,1.379
+British,3030,ham hock,7,0.0023,0.0017,1.379
+British,3030,truffle oil,8,0.0026,0.0019,1.37
+British,3030,duck,8,0.0026,0.0019,1.37
+British,3030,icing sugar,327,0.1079,0.0792,1.363
+British,3030,chif,101,0.0333,0.0246,1.358
+British,3030,fig,20,0.0066,0.0049,1.358
+British,3030,bacon lardon,21,0.0069,0.0051,1.356
+British,3030,cream,23,0.0076,0.0056,1.352
+British,3030,salmon,12,0.004,0.0029,1.35
+British,3030,blueberry,37,0.0122,0.009,1.349
+British,3030,wholemeal flour,25,0.0083,0.0061,1.349
+British,3030,butter,1176,0.3881,0.2883,1.346
+British,3030,milk,348,0.1149,0.0856,1.342
+British,3030,blue cheese,16,0.0053,0.0039,1.341
+British,3030,leek,109,0.036,0.0269,1.337
+British,3030,walnut,62,0.0205,0.0155,1.32
+British,3030,tomato ketchup,28,0.0092,0.007,1.313
+British,3030,marmalade,6,0.002,0.0015,1.313
+British,3030,sprinkle,15,0.005,0.0038,1.313
+British,3030,swede,17,0.0056,0.0043,1.313
+British,3030,dark,5,0.0017,0.0013,1.313
+British,3030,runner bean,11,0.0036,0.0028,1.313
+British,3030,white sugar,5,0.0017,0.0013,1.313
+British,3030,lamb leg steak,6,0.002,0.0015,1.313
+British,3030,sage,77,0.0254,0.0195,1.302
+British,3030,bay,134,0.0442,0.0342,1.294
+British,3030,buttermilk,39,0.0129,0.01,1.291
+British,3030,raisin,56,0.0185,0.0143,1.29
+British,3030,sirloin steak,14,0.0046,0.0036,1.282
+British,3030,date,26,0.0086,0.0067,1.28
+British,3030,beetroot,61,0.0201,0.0158,1.278
+British,3030,milk chocolate,34,0.0112,0.0088,1.275
+British,3030,custard powder,10,0.0033,0.0026,1.271
+British,3030,artichoke heart,9,0.003,0.0023,1.266
+British,3030,red wine,70,0.0231,0.0183,1.265
+British,3030,green bean,16,0.0053,0.0042,1.26
+British,3030,full-fat cream cheese,14,0.0046,0.0037,1.253
+British,3030,biscuit,6,0.002,0.0016,1.244
+British,3030,pomegranate juice,6,0.002,0.0016,1.244
+British,3030,mascarpone,57,0.0188,0.0152,1.24
+British,3030,cheese,66,0.0218,0.0176,1.238
+British,3030,egg,874,0.2884,0.234,1.232
+British,3030,cranberry sauce,15,0.005,0.004,1.231
+British,3030,marsala,10,0.0033,0.0027,1.231
+British,3030,tuna steak,5,0.0017,0.0013,1.231
+British,3030,thyme,271,0.0894,0.0728,1.228
+British,3030,smoked streaky bacon,19,0.0063,0.0051,1.227
+British,3030,whipping cream,14,0.0046,0.0038,1.225
+British,3030,light olive oil,9,0.003,0.0024,1.222
+British,3030,mustard powder,39,0.0129,0.0106,1.219
+British,3030,baguette,17,0.0056,0.0046,1.217
+British,3030,white,23,0.0076,0.0063,1.208
+British,3030,rosemary,108,0.0356,0.0295,1.208
+British,3030,ice cream,42,0.0139,0.0115,1.207
+British,3030,clementine,19,0.0063,0.0052,1.207
+British,3030,turkey,15,0.005,0.0041,1.206
+British,3030,dijon mustard,111,0.0366,0.0304,1.204
+British,3030,amaretti biscuit,11,0.0036,0.003,1.203
+British,3030,baking powder,210,0.0693,0.0577,1.2
+British,3030,egg yolk,135,0.0446,0.0371,1.2
+British,3030,double cream,312,0.103,0.0865,1.191
+British,3030,salmon fillet,52,0.0172,0.0145,1.184
+British,3030,nut,18,0.0059,0.005,1.182
+British,3030,egg white,81,0.0267,0.0226,1.182
+British,3030,candied peel,6,0.002,0.0017,1.182
+British,3030,ciabatta loaf,6,0.002,0.0017,1.182
+British,3030,strawberry jam,9,0.003,0.0025,1.182
+British,3030,lemon juice,150,0.0495,0.0421,1.177
+British,3030,white crabmeat,11,0.0036,0.0031,1.171
+British,3030,skimmed milk,8,0.0026,0.0023,1.167
+British,3030,breadcrumbs,56,0.0185,0.0158,1.167
+British,3030,ice cube,8,0.0026,0.0023,1.167
+British,3030,wholemeal bread,8,0.0026,0.0023,1.167
+British,3030,caper,13,0.0043,0.0037,1.164
+British,3030,condensed milk,18,0.0059,0.0051,1.162
+British,3030,stock,10,0.0033,0.0028,1.158
+British,3030,brown muscovado sugar,5,0.0017,0.0014,1.158
+British,3030,asparagus,15,0.005,0.0043,1.158
+British,3030,pomegranate,5,0.0017,0.0014,1.158
+British,3030,squash,5,0.0017,0.0014,1.158
+British,3030,fast-action yeast,5,0.0017,0.0014,1.158
+British,3030,lemon peel,5,0.0017,0.0014,1.158
+British,3030,hazelnut,54,0.0178,0.0155,1.15
+British,3030,haricot bean,7,0.0023,0.002,1.149
+British,3030,sausage,23,0.0076,0.0066,1.147
+British,3030,chicken,77,0.0254,0.0223,1.14
+British,3030,nutmeg,118,0.0389,0.0342,1.139
+British,3030,vanilla extract,202,0.0667,0.0587,1.135
+British,3030,shallot,124,0.0409,0.0361,1.133
+British,3030,polenta,25,0.0083,0.0073,1.132
+British,3030,white chocolate,51,0.0168,0.0149,1.128
+British,3030,cheddar cheese,8,0.0026,0.0023,1.125
+British,3030,ground almonds,50,0.0165,0.0147,1.125
+British,3030,brown,6,0.002,0.0018,1.125
+British,3030,potato,206,0.068,0.0607,1.121
+British,3030,beef stock,41,0.0135,0.0121,1.121
+British,3030,plain flour,512,0.169,0.151,1.119
+British,3030,apple juice,17,0.0056,0.005,1.116
+British,3030,radish,41,0.0135,0.0122,1.114
+British,3030,walnut half,11,0.0036,0.0033,1.111
+British,3030,seed,27,0.0089,0.008,1.108
+British,3030,sherry,23,0.0076,0.0069,1.105
+British,3030,lemon zest,32,0.0106,0.0096,1.096
+British,3030,chicken breast fillet,15,0.005,0.0045,1.094
+British,3030,lardon,5,0.0017,0.0015,1.094
+British,3030,button mushroom,13,0.0043,0.0039,1.089
+British,3030,pork,13,0.0043,0.0039,1.089
+British,3030,balsamic vinegar,69,0.0228,0.0209,1.087
+British,3030,leaf spinach,8,0.0026,0.0024,1.087
+British,3030,cheddar,116,0.0383,0.0354,1.08
+British,3030,puy lentil,17,0.0056,0.0052,1.08
+British,3030,brussels sprouts,18,0.0059,0.0055,1.074
+British,3030,mushroom,36,0.0119,0.0111,1.074
+British,3030,dark brown sugar,9,0.003,0.0028,1.074
+British,3030,gold,6,0.002,0.0018,1.074
+British,3030,caster sugar,325,0.1073,0.1005,1.068
+British,3030,sultanas,26,0.0086,0.008,1.067
+British,3030,sunflower,20,0.0066,0.0062,1.064
+British,3030,cherry,30,0.0099,0.0093,1.064
+British,3030,chicken drumstick,7,0.0023,0.0022,1.06
+British,3030,peach,22,0.0073,0.0069,1.057
+British,3030,bay leaf,57,0.0188,0.0178,1.054
+British,3030,gem lettuce,39,0.0129,0.0123,1.045
+British,3030,black peppercorn,40,0.0132,0.0127,1.043
+British,3030,oats,9,0.003,0.0028,1.043
+British,3030,mayonnaise,78,0.0257,0.0247,1.041
+British,3030,broad beans,19,0.0063,0.006,1.039
+British,3030,bicarbonate of soda,81,0.0267,0.0258,1.036
+British,3030,orange blossom water,5,0.0017,0.0016,1.036
+British,3030,yolk,10,0.0033,0.0032,1.036
+British,3030,white wine,83,0.0274,0.0265,1.035
+British,3030,leg of lamb,6,0.002,0.0019,1.027
+British,3030,duck breast,6,0.002,0.0019,1.027
+British,3030,coffee granule,7,0.0023,0.0023,1.021
+British,3030,banana,53,0.0175,0.0172,1.018
+British,3030,light brown sugar,24,0.0079,0.0078,1.016
+British,3030,coconut,40,0.0132,0.013,1.016
+British,3030,waxy potato,8,0.0026,0.0026,1.016
+British,3030,spring greens,8,0.0026,0.0026,1.016
+British,3030,juniper berries,9,0.003,0.0029,1.013
+British,3030,water,49,0.0162,0.016,1.01
+British,3030,lemon,519,0.1713,0.1701,1.007
+British,3030,cinnamon,220,0.0726,0.0726,0.999
+British,3030,fennel,36,0.0119,0.0119,0.999
+British,3030,pancetta,23,0.0076,0.0076,0.995
+British,3030,sunflower seed,8,0.0026,0.0027,0.985
+British,3030,soured cream,64,0.0211,0.0215,0.985
+British,3030,walnut oil,5,0.0017,0.0017,0.985
+British,3030,chestnut mushroom,33,0.0109,0.0111,0.985
+British,3030,turnip,5,0.0017,0.0017,0.985
+British,3030,black olive,5,0.0017,0.0017,0.985
+British,3030,pork tenderloin,5,0.0017,0.0017,0.985
+British,3030,tiger prawn,6,0.002,0.002,0.985
+British,3030,fast-action,22,0.0073,0.0075,0.974
+British,3030,sunflower oil,161,0.0531,0.055,0.967
+British,3030,passion fruit,10,0.0033,0.0034,0.961
+British,3030,dark rum,10,0.0033,0.0034,0.961
+British,3030,olive oil,768,0.2535,0.2644,0.959
+British,3030,prosciutto,19,0.0063,0.0065,0.959
+British,3030,cannellini bean,19,0.0063,0.0065,0.959
+British,3030,broccoli,54,0.0178,0.0186,0.958
+British,3030,wine vinegar,176,0.0581,0.0609,0.954
+British,3030,pork fillet,7,0.0023,0.0024,0.951
+British,3030,pork belly,7,0.0023,0.0024,0.951
+British,3030,cream cheese,20,0.0066,0.007,0.949
+British,3030,yellow,6,0.002,0.0021,0.945
+British,3030,carrot,224,0.0739,0.0787,0.94
+British,3030,amaretto,5,0.0017,0.0018,0.938
+British,3030,filo pastry,20,0.0066,0.007,0.938
+British,3030,maris piper,5,0.0017,0.0018,0.938
+British,3030,banana shallot,14,0.0046,0.0049,0.935
+British,3030,honey,153,0.0505,0.054,0.934
+British,3030,flaked almonds,47,0.0155,0.0168,0.926
+British,3030,salt,119,0.0393,0.0426,0.923
+British,3030,broad bean,7,0.0023,0.0025,0.919
+British,3030,pumpkin,10,0.0033,0.0036,0.916
+British,3030,chicken stock,122,0.0403,0.0442,0.91
+British,3030,maris piper potato,18,0.0059,0.0065,0.909
+British,3030,soya milk,6,0.002,0.0022,0.909
+British,3030,vegetable stock cube,12,0.004,0.0044,0.909
+British,3030,red cabbage,18,0.0059,0.0066,0.897
+British,3030,rosewater,9,0.003,0.0034,0.886
+British,3030,cayenne pepper,38,0.0125,0.0142,0.886
+British,3030,marshmallow,9,0.003,0.0034,0.886
+British,3030,dried yeast,42,0.0139,0.0157,0.885
+British,3030,celery,88,0.029,0.0329,0.882
+British,3030,bread,41,0.0135,0.0153,0.882
+British,3030,vegetable stock,106,0.035,0.0397,0.881
+British,3030,parsley,227,0.0749,0.0852,0.879
+British,3030,mustard seed,10,0.0033,0.0038,0.875
+British,3030,romaine lettuce,6,0.002,0.0023,0.875
+British,3030,dark chocolate,93,0.0307,0.0354,0.868
+British,3030,runny honey,7,0.0023,0.0027,0.862
+British,3030,vine tomato,7,0.0023,0.0027,0.862
+British,3030,granny smith apple,5,0.0017,0.0019,0.856
+British,3030,anchovy fillet,10,0.0033,0.0039,0.856
+British,3030,turkey mince,5,0.0017,0.0019,0.856
+British,3030,penne,9,0.003,0.0035,0.844
+British,3030,vanilla essence,6,0.002,0.0023,0.844
+British,3030,fish stock,6,0.002,0.0023,0.844
+British,3030,cocoa powder,58,0.0191,0.0228,0.84
+British,3030,herb,23,0.0076,0.009,0.839
+British,3030,lettuce,10,0.0033,0.0039,0.838
+British,3030,dill,64,0.0211,0.0253,0.835
+British,3030,sugar,102,0.0337,0.0403,0.835
+British,3030,sesame seed,8,0.0026,0.0032,0.829
+British,3030,hummus,8,0.0026,0.0032,0.829
+British,3030,sourdough bread,8,0.0026,0.0032,0.829
+British,3030,flat-leaf parsley,38,0.0125,0.0152,0.827
+British,3030,gruyère,18,0.0059,0.0072,0.824
+British,3030,rocket,51,0.0168,0.0204,0.823
+British,3030,butter bean,14,0.0046,0.0057,0.811
+British,3030,caraway seed,8,0.0026,0.0033,0.808
+British,3030,brown sugar,39,0.0129,0.016,0.804
+British,3030,olive,13,0.0043,0.0054,0.8
+British,3030,digestive biscuit,14,0.0046,0.0058,0.799
+British,3030,beef,15,0.005,0.0062,0.798
+British,3030,sherry vinegar,21,0.0069,0.0087,0.795
+British,3030,green beans,31,0.0102,0.0129,0.793
+British,3030,oil,63,0.0208,0.0263,0.79
+British,3030,cherry tomato,92,0.0304,0.0385,0.789
+British,3030,porridge oats,19,0.0063,0.008,0.788
+British,3030,anise,29,0.0096,0.0122,0.788
+British,3030,vanilla paste,10,0.0033,0.0042,0.788
+British,3030,white cabbage,12,0.004,0.005,0.788
+British,3030,green lentil,7,0.0023,0.0029,0.788
+British,3030,capers,40,0.0132,0.0169,0.78
+British,3030,onion,402,0.1327,0.1709,0.777
+British,3030,cornflour,76,0.0251,0.0323,0.775
+British,3030,porcini mushroom,10,0.0033,0.0043,0.772
+British,3030,pineapple,22,0.0073,0.0095,0.767
+British,3030,prosecco,6,0.002,0.0026,0.762
+British,3030,shop,5,0.0017,0.0022,0.757
+British,3030,white bread flour,25,0.0083,0.0109,0.757
+British,3030,vinegar,5,0.0017,0.0022,0.757
+British,3030,peas,60,0.0198,0.0266,0.745
+British,3030,pine nut,42,0.0139,0.0186,0.745
+British,3030,caramel,7,0.0023,0.0031,0.745
+British,3030,cider vinegar,46,0.0152,0.0204,0.743
+British,3030,anchovy,13,0.0043,0.0058,0.742
+British,3030,greek yogurt,60,0.0198,0.0267,0.741
+British,3030,pumpkin seed,16,0.0053,0.0071,0.741
+British,3030,red,24,0.0079,0.0108,0.733
+British,3030,smoked bacon,5,0.0017,0.0023,0.729
+British,3030,halloumi cheese,5,0.0017,0.0023,0.729
+British,3030,natural yogurt,44,0.0145,0.0201,0.722
+British,3030,black pepper,22,0.0073,0.0101,0.716
+British,3030,mango,21,0.0069,0.01,0.695
+British,3030,tuna,12,0.004,0.0057,0.695
+British,3030,root ginger,23,0.0076,0.011,0.692
+British,3030,courgette,57,0.0188,0.0272,0.691
+British,3030,fennel seed,33,0.0109,0.0158,0.691
+British,3030,whole milk,49,0.0162,0.0235,0.689
+British,3030,sweet potato,13,0.0043,0.0063,0.683
+British,3030,berries,9,0.003,0.0044,0.682
+British,3030,vodka,14,0.0046,0.0068,0.681
+British,3030,yogurt,39,0.0129,0.0189,0.68
+British,3030,chicken breast,68,0.0224,0.0331,0.678
+British,3030,pearl barley,6,0.002,0.0029,0.675
+British,3030,pork shoulder,6,0.002,0.0029,0.675
+British,3030,spinach,77,0.0254,0.0377,0.674
+British,3030,rapeseed,7,0.0023,0.0034,0.672
+British,3030,extra virgin olive oil,98,0.0323,0.0486,0.665
+British,3030,paprika,30,0.0099,0.015,0.66
+British,3030,kale,15,0.005,0.0075,0.656
+British,3030,butternut squash,29,0.0096,0.0148,0.645
+British,3030,pork mince,9,0.003,0.0046,0.645
+British,3030,cauliflower,26,0.0086,0.0133,0.644
+British,3030,mint,113,0.0373,0.0584,0.639
+British,3030,spring onion,150,0.0495,0.0778,0.637
+British,3030,avocado,53,0.0175,0.0275,0.636
+British,3030,sugar snap peas,5,0.0017,0.0026,0.635
+British,3030,bean,8,0.0026,0.0042,0.63
+British,3030,macaroni,5,0.0017,0.0027,0.615
+British,3030,green salad,12,0.004,0.0065,0.614
+British,3030,maple syrup,40,0.0132,0.0218,0.606
+British,3030,corn,6,0.002,0.0033,0.606
+British,3030,sea salt flake,12,0.004,0.0065,0.606
+British,3030,allspice,12,0.004,0.0066,0.598
+British,3030,cardamom pod,8,0.0026,0.0044,0.595
+British,3030,prawn,26,0.0086,0.0146,0.589
+British,3030,parmesan,100,0.033,0.0561,0.588
+British,3030,basil,85,0.0281,0.0478,0.587
+British,3030,gin,11,0.0036,0.0062,0.585
+British,3030,chilli,8,0.0026,0.0045,0.583
+British,3030,cucumber,57,0.0188,0.0326,0.577
+British,3030,black olives,16,0.0053,0.0093,0.568
+British,3030,dark brown soft sugar,7,0.0023,0.0041,0.563
+British,3030,garlic,487,0.1607,0.2898,0.555
+British,3030,chocolate chips,11,0.0036,0.0065,0.555
+British,3030,pistachio,22,0.0073,0.0132,0.552
+British,3030,pesto,13,0.0043,0.0078,0.551
+British,3030,red onion,134,0.0442,0.0805,0.549
+British,3030,rum,5,0.0017,0.003,0.547
+British,3030,cardamom,12,0.004,0.0073,0.543
+British,3030,tomato purée,70,0.0231,0.0431,0.536
+British,3030,sweetcorn,16,0.0053,0.0099,0.534
+British,3030,black,5,0.0017,0.0031,0.532
+British,3030,rapeseed oil,72,0.0238,0.045,0.528
+British,3030,pitta bread,5,0.0017,0.0032,0.518
+British,3030,ketchup,8,0.0026,0.0051,0.517
+British,3030,passata,18,0.0059,0.0115,0.517
+British,3030,groundnut oil,9,0.003,0.0058,0.514
+British,3030,white pepper,9,0.003,0.0059,0.499
+British,3030,coriander seed,21,0.0069,0.0139,0.498
+British,3030,feta cheese,14,0.0046,0.0093,0.497
+British,3030,red lentil,8,0.0026,0.0054,0.492
+British,3030,coconut yogurt,5,0.0017,0.0034,0.492
+British,3030,iceberg lettuce,5,0.0017,0.0034,0.492
+British,3030,ginger,115,0.038,0.0777,0.489
+British,3030,vanilla bean paste,13,0.0043,0.009,0.479
+British,3030,lime juice,19,0.0063,0.0133,0.471
+British,3030,tomato,133,0.0439,0.0934,0.47
+British,3030,olives,5,0.0017,0.0035,0.469
+British,3030,green,5,0.0017,0.0036,0.458
+British,3030,curry powder,21,0.0069,0.0152,0.457
+British,3030,red pepper,62,0.0205,0.045,0.455
+British,3030,vegetable oil,101,0.0333,0.0744,0.448
+British,3030,vegetable,20,0.0066,0.0148,0.445
+British,3030,quinoa,8,0.0026,0.0059,0.444
+British,3030,ricotta,16,0.0053,0.012,0.441
+British,3030,pasta,8,0.0026,0.0061,0.432
+British,3030,chorizo,9,0.003,0.007,0.427
+British,3030,pepper,19,0.0063,0.0149,0.42
+British,3030,cashew,5,0.0017,0.0039,0.419
+British,3030,rice,20,0.0066,0.0158,0.419
+British,3030,pomegranate molasses,6,0.002,0.0048,0.415
+British,3030,couscous,11,0.0036,0.0089,0.409
+British,3030,green olives,6,0.002,0.0049,0.401
+British,3030,yellow pepper,7,0.0023,0.0059,0.394
+British,3030,red chilly,14,0.0046,0.0122,0.38
+British,3030,red chilli,57,0.0188,0.0515,0.365
+British,3030,coconut cream,5,0.0017,0.0045,0.365
+British,3030,chicken thigh,21,0.0069,0.0192,0.361
+British,3030,chilli flake,33,0.0109,0.031,0.351
+British,3030,risotto rice,6,0.002,0.0057,0.348
+British,3030,peanut butter,9,0.003,0.0088,0.338
+British,3030,plum tomato,9,0.003,0.0089,0.334
+British,3030,cumin,42,0.0139,0.0436,0.318
+British,3030,oregano,24,0.0079,0.0256,0.309
+British,3030,aubergine,17,0.0056,0.0186,0.302
+British,3030,basmati rice,13,0.0043,0.0146,0.294
+British,3030,coriander,102,0.0337,0.1194,0.282
+British,3030,lime,63,0.0208,0.0737,0.282
+British,3030,mango chutney,7,0.0023,0.0083,0.278
+British,3030,green pepper,5,0.0017,0.0059,0.277
+British,3030,ice,15,0.005,0.0179,0.276
+British,3030,chilli sauce,9,0.003,0.0111,0.269
+British,3030,smoked paprika,26,0.0086,0.0321,0.267
+British,3030,minced beef,5,0.0017,0.0062,0.266
+British,3030,mozzarella,13,0.0043,0.0165,0.26
+British,3030,soy sauce,27,0.0089,0.0345,0.258
+British,3030,chilli powder,17,0.0056,0.0221,0.254
+British,3030,turmeric,24,0.0079,0.0313,0.253
+British,3030,chickpea,18,0.0059,0.0237,0.251
+British,3030,green chilli,8,0.0026,0.0111,0.237
+British,3030,cumin seed,20,0.0066,0.0282,0.234
+British,3030,tahini,6,0.002,0.0085,0.234
+British,3030,spaghetti,5,0.0017,0.0076,0.216
+British,3030,sesame seeds,14,0.0046,0.0222,0.208
+British,3030,feta,8,0.0026,0.0133,0.198
+British,3030,coconut milk,12,0.004,0.0215,0.185
+British,3030,pomegranate seed,5,0.0017,0.0094,0.176
+British,3030,peanut,5,0.0017,0.0096,0.173
+British,3030,garam masala,6,0.002,0.0132,0.15
+British,3030,light brown soft sugar,7,0.0023,0.0217,0.106
+British,3030,sesame oil,5,0.0017,0.0208,0.079
+Caribbean,39,jerk seasoning,6,0.1538,0.001,153.0
+Caribbean,39,allspice,5,0.1282,0.0066,19.367
+Caribbean,39,pineapple,7,0.1795,0.0095,18.956
+Caribbean,39,mango,5,0.1282,0.01,12.857
+Caribbean,39,lime,21,0.5385,0.0737,7.311
+Caribbean,39,coconut milk,5,0.1282,0.0215,5.977
+Caribbean,39,thyme,15,0.3846,0.0728,5.282
+Caribbean,39,nutmeg,6,0.1538,0.0342,4.5
+Caribbean,39,ginger,9,0.2308,0.0777,2.971
+Caribbean,39,spring onion,7,0.1795,0.0778,2.308
+Caribbean,39,coriander,10,0.2564,0.1194,2.147
+Caribbean,39,vegetable oil,6,0.1538,0.0744,2.068
+Caribbean,39,tomato,5,0.1282,0.0934,1.372
+Caribbean,39,garlic,12,0.3077,0.2898,1.062
+Caribbean,39,onion,6,0.1538,0.1709,0.9
+Caribbean,39,olive oil,8,0.2051,0.2644,0.776
+Chinese,189,chinese pancake,6,0.0317,0.0005,63.143
+Chinese,189,chinese black vinegar,5,0.0265,0.0005,52.619
+Chinese,189,five-spice powder,5,0.0265,0.0006,45.102
+Chinese,189,chilli bean sauce,5,0.0265,0.0006,45.102
+Chinese,189,hoisin sauce,23,0.1217,0.0033,37.238
+Chinese,189,rice wine,27,0.1429,0.0039,36.274
+Chinese,189,dark soy sauce,36,0.1905,0.006,31.571
+Chinese,189,egg noodle,8,0.0423,0.0013,31.571
+Chinese,189,water chestnut,5,0.0265,0.0008,31.571
+Chinese,189,spice powder,5,0.0265,0.0008,31.571
+Chinese,189,oyster sauce,25,0.1323,0.0043,30.952
+Chinese,189,bok choi,7,0.037,0.0013,27.625
+Chinese,189,sichuan peppercorn,10,0.0529,0.0019,27.453
+Chinese,189,chinese five-spice powder,22,0.1164,0.0043,27.238
+Chinese,189,light soy sauce,39,0.2063,0.0079,26.198
+Chinese,189,chinese cabbage,5,0.0265,0.0012,22.551
+Chinese,189,stir-fry vegetable,6,0.0317,0.0015,21.048
+Chinese,189,groundnut oil,21,0.1111,0.0058,19.217
+Chinese,189,rice vinegar,24,0.127,0.0082,15.464
+Chinese,189,shiitake mushroom,6,0.0317,0.0021,15.154
+Chinese,189,pak choi,11,0.0582,0.004,14.47
+Chinese,189,egg noodles,9,0.0476,0.0034,14.207
+Chinese,189,mangetout,5,0.0265,0.0019,13.727
+Chinese,189,sesame oil,47,0.2487,0.0208,11.967
+Chinese,189,root ginger,24,0.127,0.011,11.568
+Chinese,189,white pepper,12,0.0635,0.0059,10.672
+Chinese,189,soy sauce,64,0.3386,0.0345,9.809
+Chinese,189,beansprout,13,0.0688,0.0077,8.922
+Chinese,189,pork mince,7,0.037,0.0046,8.036
+Chinese,189,sirloin steak,5,0.0265,0.0036,7.342
+Chinese,189,rice noodles,5,0.0265,0.0037,7.175
+Chinese,189,cashew nut,6,0.0317,0.0045,7.016
+Chinese,189,sunflower,8,0.0423,0.0062,6.826
+Chinese,189,rice,20,0.1058,0.0158,6.717
+Chinese,189,tofu,5,0.0265,0.0039,6.717
+Chinese,189,cornflour,41,0.2169,0.0323,6.707
+Chinese,189,chilli sauce,14,0.0741,0.0111,6.697
+Chinese,189,spring onion,97,0.5132,0.0778,6.6
+Chinese,189,peanut,11,0.0582,0.0096,6.093
+Chinese,189,tomato ketchup,8,0.0423,0.007,6.014
+Chinese,189,prawn,14,0.0741,0.0146,5.08
+Chinese,189,broccoli,16,0.0847,0.0186,4.551
+Chinese,189,sesame seeds,19,0.1005,0.0222,4.527
+Chinese,189,anise,10,0.0529,0.0122,4.355
+Chinese,189,ginger,62,0.328,0.0777,4.223
+Chinese,189,sunflower oil,42,0.2222,0.055,4.043
+Chinese,189,sherry,5,0.0265,0.0069,3.85
+Chinese,189,red chilli,36,0.1905,0.0515,3.696
+Chinese,189,red chilly,8,0.0423,0.0122,3.484
+Chinese,189,brown sugar,10,0.0529,0.016,3.306
+Chinese,189,chicken breast,20,0.1058,0.0331,3.197
+Chinese,189,chicken thigh,10,0.0529,0.0192,2.757
+Chinese,189,red pepper,23,0.1217,0.045,2.704
+Chinese,189,honey,27,0.1429,0.054,2.643
+Chinese,189,basmati rice,7,0.037,0.0146,2.54
+Chinese,189,fish sauce,7,0.037,0.0147,2.526
+Chinese,189,vegetable oil,34,0.1799,0.0744,2.418
+Chinese,189,chestnut mushroom,5,0.0265,0.0111,2.392
+Chinese,189,sugar,18,0.0952,0.0403,2.363
+Chinese,189,radish,5,0.0265,0.0122,2.177
+Chinese,189,vegetable,6,0.0317,0.0148,2.14
+Chinese,189,frac,8,0.0423,0.0201,2.105
+Chinese,189,wine vinegar,22,0.1164,0.0609,1.911
+Chinese,189,egg white,8,0.0423,0.0226,1.871
+Chinese,189,garlic,98,0.5185,0.2898,1.789
+Chinese,189,cucumber,11,0.0582,0.0326,1.786
+Chinese,189,aubergine,6,0.0317,0.0186,1.707
+Chinese,189,chicken stock,14,0.0741,0.0442,1.674
+Chinese,189,chicken,7,0.037,0.0223,1.662
+Chinese,189,water,5,0.0265,0.016,1.653
+Chinese,189,carrot,22,0.1164,0.0787,1.479
+Chinese,189,vegetable stock,11,0.0582,0.0397,1.465
+Chinese,189,coriander,31,0.164,0.1194,1.374
+Chinese,189,chilli flake,8,0.0423,0.031,1.365
+Chinese,189,rapeseed oil,11,0.0582,0.045,1.293
+Chinese,189,tomato purée,10,0.0529,0.0431,1.228
+Chinese,189,oil,6,0.0317,0.0263,1.207
+Chinese,189,salt,8,0.0423,0.0426,0.994
+Chinese,189,lime,13,0.0688,0.0737,0.934
+Chinese,189,shallot,6,0.0317,0.0361,0.879
+Chinese,189,caster sugar,15,0.0794,0.1005,0.79
+Chinese,189,golden caster sugar,13,0.0688,0.09,0.764
+Chinese,189,orange,5,0.0265,0.0463,0.571
+Chinese,189,egg,25,0.1323,0.234,0.565
+Chinese,189,baking powder,6,0.0317,0.0577,0.55
+Chinese,189,onion,15,0.0794,0.1709,0.465
+Chinese,189,red onion,7,0.037,0.0805,0.46
+Chinese,189,mint,5,0.0265,0.0584,0.453
+Chinese,189,cinnamon,6,0.0317,0.0726,0.437
+Chinese,189,plain flour,10,0.0529,0.151,0.35
+Chinese,189,olive oil,11,0.0582,0.2644,0.22
+Chinese,189,butter,5,0.0265,0.2883,0.092
+English,110,almond,9,0.0818,0.0236,3.462
+English,110,golden syrup,6,0.0545,0.0166,3.288
+English,110,light muscovado sugar,8,0.0727,0.0222,3.275
+English,110,spice,5,0.0455,0.0163,2.782
+English,110,new potato,6,0.0545,0.02,2.724
+English,110,chif,6,0.0545,0.0246,2.222
+English,110,bicarbonate of soda,6,0.0545,0.0258,2.113
+English,110,self-raising flour,15,0.1364,0.0649,2.1
+English,110,caster sugar,23,0.2091,0.1005,2.081
+English,110,milk,18,0.1636,0.0856,1.913
+English,110,vanilla extract,12,0.1091,0.0587,1.857
+English,110,white wine,5,0.0455,0.0265,1.717
+English,110,peas,5,0.0455,0.0266,1.711
+English,110,butter,53,0.4818,0.2883,1.672
+English,110,icing sugar,14,0.1273,0.0792,1.607
+English,110,egg,41,0.3727,0.234,1.593
+English,110,lemon juice,7,0.0636,0.0421,1.513
+English,110,egg yolk,6,0.0545,0.0371,1.469
+English,110,baking powder,9,0.0818,0.0577,1.417
+English,110,plain flour,23,0.2091,0.151,1.385
+English,110,potato,9,0.0818,0.0607,1.349
+English,110,double cream,12,0.1091,0.0865,1.262
+English,110,wine vinegar,7,0.0636,0.0609,1.045
+English,110,sunflower oil,6,0.0545,0.055,0.992
+English,110,orange,5,0.0455,0.0463,0.981
+English,110,parsley,9,0.0818,0.0852,0.96
+English,110,thyme,7,0.0636,0.0728,0.874
+English,110,golden caster sugar,8,0.0727,0.09,0.808
+English,110,ginger,6,0.0545,0.0777,0.702
+English,110,lemon,13,0.1182,0.1701,0.695
+English,110,cinnamon,5,0.0455,0.0726,0.626
+English,110,olive oil,17,0.1545,0.2644,0.585
+English,110,onion,11,0.1,0.1709,0.585
+English,110,tomato,5,0.0455,0.0934,0.487
+English,110,garlic,14,0.1273,0.2898,0.439
+French,449,bouquet garni,8,0.0178,0.0013,13.29
+French,449,cognac,5,0.0111,0.001,11.075
+French,449,walnut oil,7,0.0156,0.0017,9.303
+French,449,lardon,6,0.0134,0.0015,8.86
+French,449,goose fat,5,0.0111,0.0013,8.306
+French,449,kirsch,5,0.0111,0.0014,7.817
+French,449,chicken liver,5,0.0111,0.0014,7.817
+French,449,duck leg,6,0.0134,0.0018,7.594
+French,449,gruyère,22,0.049,0.0072,6.799
+French,449,button mushroom,12,0.0267,0.0039,6.786
+French,449,haricot bean,6,0.0134,0.002,6.645
+French,449,port,6,0.0134,0.0023,5.906
+French,449,fish stock,6,0.0134,0.0023,5.696
+French,449,chive,6,0.0134,0.0024,5.499
+French,449,bacon lardon,12,0.0267,0.0051,5.229
+French,449,waxy potato,6,0.0134,0.0026,5.144
+French,449,baguette,10,0.0223,0.0046,4.833
+French,449,all-butter puff pastry,9,0.02,0.0042,4.784
+French,449,passion fruit,7,0.0156,0.0034,4.538
+French,449,chicken leg,6,0.0134,0.003,4.43
+French,449,mussel,6,0.0134,0.0031,4.31
+French,449,single cream,14,0.0312,0.0073,4.277
+French,449,whipping cream,7,0.0156,0.0038,4.135
+French,449,vanilla,11,0.0245,0.0059,4.118
+French,449,egg white,40,0.0891,0.0226,3.938
+French,449,egg yolk,63,0.1403,0.0371,3.78
+French,449,smoked streaky bacon,8,0.0178,0.0051,3.486
+French,449,anchovy fillet,6,0.0134,0.0039,3.467
+French,449,brandy,14,0.0312,0.0091,3.414
+French,449,puff pastry,20,0.0445,0.0136,3.281
+French,449,strong white flour,5,0.0111,0.0034,3.241
+French,449,green bean,6,0.0134,0.0042,3.189
+French,449,bacon,24,0.0535,0.0173,3.082
+French,449,double cream,117,0.2606,0.0865,3.013
+French,449,cider,6,0.0134,0.0044,3.009
+French,449,smoked salmon,8,0.0178,0.0063,2.835
+French,449,white wine,33,0.0735,0.0265,2.776
+French,449,asparagus spear,5,0.0111,0.004,2.769
+French,449,shallot,44,0.098,0.0361,2.713
+French,449,horseradish,5,0.0111,0.0041,2.712
+French,449,balsamic vinegar,25,0.0557,0.0209,2.658
+French,449,crème fraîche,43,0.0958,0.0364,2.633
+French,449,plum tomato,10,0.0223,0.0089,2.507
+French,449,red wine,20,0.0445,0.0183,2.438
+French,449,full-fat milk,10,0.0223,0.0091,2.438
+French,449,prosciutto,7,0.0156,0.0065,2.385
+French,449,anise,13,0.029,0.0122,2.383
+French,449,anchovy,6,0.0134,0.0058,2.311
+French,449,fig,5,0.0111,0.0049,2.291
+French,449,shortcrust pastry,10,0.0223,0.01,2.234
+French,449,thyme,72,0.1604,0.0728,2.202
+French,449,lemon juice,41,0.0913,0.0421,2.171
+French,449,chestnut,6,0.0134,0.0063,2.126
+French,449,goat' cheese,9,0.02,0.0095,2.117
+French,449,white chocolate,14,0.0312,0.0149,2.09
+French,449,white bread,8,0.0178,0.0085,2.085
+French,449,tarragon,11,0.0245,0.0119,2.059
+French,449,raspberry,17,0.0379,0.0185,2.045
+French,449,chestnut mushroom,10,0.0223,0.0111,2.014
+French,449,salad,11,0.0245,0.0122,2.003
+French,449,new potato,18,0.0401,0.02,2.002
+French,449,bay leaf,16,0.0356,0.0178,1.997
+French,449,tuna,5,0.0111,0.0057,1.954
+French,449,peach,6,0.0134,0.0069,1.945
+French,449,icing sugar,67,0.1492,0.0792,1.884
+French,449,semi-skimmed milk,6,0.0134,0.0072,1.854
+French,449,lemon zest,8,0.0178,0.0096,1.849
+French,449,apricot jam,5,0.0111,0.006,1.846
+French,449,plain flour,124,0.2762,0.151,1.829
+French,449,pear,6,0.0134,0.0075,1.792
+French,449,pancetta,6,0.0134,0.0076,1.752
+French,449,walnut,12,0.0267,0.0155,1.724
+French,449,sea salt flake,5,0.0111,0.0065,1.704
+French,449,dark chocolate,27,0.0601,0.0354,1.701
+French,449,fennel,9,0.02,0.0119,1.685
+French,449,dijon mustard,22,0.049,0.0304,1.611
+French,449,bread,11,0.0245,0.0153,1.598
+French,449,caster sugar,72,0.1604,0.1005,1.596
+French,449,butter,205,0.4566,0.2883,1.584
+French,449,black peppercorn,9,0.02,0.0127,1.584
+French,449,wholegrain mustard,14,0.0312,0.02,1.557
+French,449,green beans,9,0.02,0.0129,1.553
+French,449,sherry vinegar,6,0.0134,0.0087,1.533
+French,449,strawberry,10,0.0223,0.0146,1.528
+French,449,cardamom,5,0.0111,0.0073,1.528
+French,449,cornflour,22,0.049,0.0323,1.515
+French,449,apricot,9,0.02,0.0132,1.514
+French,449,bay,23,0.0512,0.0342,1.498
+French,449,celeriac,5,0.0111,0.0075,1.493
+French,449,cocoa powder,15,0.0334,0.0228,1.466
+French,449,wine vinegar,40,0.0891,0.0609,1.462
+French,449,milk,56,0.1247,0.0856,1.458
+French,449,black olives,6,0.0134,0.0093,1.437
+French,449,hazelnut,10,0.0223,0.0155,1.437
+French,449,almond,15,0.0334,0.0236,1.414
+French,449,nutmeg,21,0.0468,0.0342,1.368
+French,449,ice cream,7,0.0156,0.0115,1.358
+French,449,pistachio,8,0.0178,0.0132,1.354
+French,449,oil,16,0.0356,0.0263,1.354
+French,449,celery,20,0.0445,0.0329,1.353
+French,449,ham,6,0.0134,0.0099,1.351
+French,449,egg,140,0.3118,0.234,1.332
+French,449,whole milk,14,0.0312,0.0235,1.329
+French,449,flour,9,0.02,0.0153,1.314
+French,449,floury potato,5,0.0111,0.0085,1.303
+French,449,beef stock,7,0.0156,0.0121,1.292
+French,449,parsley,49,0.1091,0.0852,1.281
+French,449,mustard powder,6,0.0134,0.0106,1.266
+French,449,gem lettuce,7,0.0156,0.0123,1.266
+French,449,chicken stock,25,0.0557,0.0442,1.258
+French,449,water,9,0.02,0.016,1.252
+French,449,blueberry,5,0.0111,0.009,1.231
+French,449,courgette,15,0.0334,0.0272,1.227
+French,449,ground almonds,8,0.0178,0.0147,1.215
+French,449,basil,25,0.0557,0.0478,1.166
+French,449,orange juice,5,0.0111,0.0096,1.156
+French,449,salt,22,0.049,0.0426,1.151
+French,449,potato,31,0.069,0.0607,1.138
+French,449,coriander seed,7,0.0156,0.0139,1.121
+French,449,olive oil,132,0.294,0.2644,1.112
+French,449,cayenne pepper,7,0.0156,0.0142,1.101
+French,449,extra virgin olive oil,24,0.0535,0.0486,1.1
+French,449,golden caster sugar,44,0.098,0.09,1.089
+French,449,chif,12,0.0267,0.0246,1.089
+French,449,leek,13,0.029,0.0269,1.076
+French,449,salmon fillet,7,0.0156,0.0145,1.075
+French,449,demerara sugar,5,0.0111,0.0104,1.072
+French,449,parmesan,27,0.0601,0.0561,1.071
+French,449,capers,8,0.0178,0.0169,1.053
+French,449,watercress,7,0.0156,0.015,1.039
+French,449,frac,9,0.02,0.0201,0.997
+French,449,rosemary,13,0.029,0.0295,0.982
+French,449,onion,75,0.167,0.1709,0.978
+French,449,dill,11,0.0245,0.0253,0.968
+French,449,vanilla extract,25,0.0557,0.0587,0.948
+French,449,cheddar,15,0.0334,0.0354,0.943
+French,449,banana,7,0.0156,0.0172,0.908
+French,449,garlic,118,0.2628,0.2898,0.907
+French,449,carrot,32,0.0713,0.0787,0.906
+French,449,cheese,7,0.0156,0.0176,0.886
+French,449,flat-leaf parsley,6,0.0134,0.0152,0.881
+French,449,beetroot,6,0.0134,0.0158,0.848
+French,449,aubergine,7,0.0156,0.0186,0.838
+French,449,sugar,15,0.0334,0.0403,0.829
+French,449,tomato purée,16,0.0356,0.0431,0.827
+French,449,honey,20,0.0445,0.054,0.824
+French,449,sunflower oil,20,0.0445,0.055,0.81
+French,449,light muscovado sugar,8,0.0178,0.0222,0.802
+French,449,lemon,61,0.1359,0.1701,0.799
+French,449,flaked almonds,6,0.0134,0.0168,0.797
+French,449,rocket,7,0.0156,0.0204,0.763
+French,449,cherry tomato,13,0.029,0.0385,0.753
+French,449,pepper,5,0.0111,0.0149,0.747
+French,449,mascarpone,5,0.0111,0.0152,0.734
+French,449,mayonnaise,8,0.0178,0.0247,0.721
+French,449,dried yeast,5,0.0111,0.0157,0.711
+French,449,spinach,12,0.0267,0.0377,0.709
+French,449,vegetable stock,12,0.0267,0.0397,0.673
+French,449,chicken,6,0.0134,0.0223,0.6
+French,449,orange,12,0.0267,0.0463,0.577
+French,449,mint,15,0.0334,0.0584,0.572
+French,449,sage,5,0.0111,0.0195,0.57
+French,449,cider vinegar,5,0.0111,0.0204,0.545
+French,449,maple syrup,5,0.0111,0.0218,0.511
+French,449,peas,6,0.0134,0.0266,0.503
+French,449,tomato,21,0.0468,0.0934,0.501
+French,449,rapeseed oil,10,0.0223,0.045,0.495
+French,449,chicken breast,7,0.0156,0.0331,0.471
+French,449,spring onion,15,0.0334,0.0778,0.43
+French,449,red chilli,9,0.02,0.0515,0.389
+French,449,red onion,13,0.029,0.0805,0.36
+French,449,cinnamon,11,0.0245,0.0726,0.337
+French,449,vegetable oil,10,0.0223,0.0744,0.299
+French,449,red pepper,6,0.0134,0.045,0.297
+French,449,baking powder,7,0.0156,0.0577,0.27
+French,449,lime,7,0.0156,0.0737,0.212
+French,449,self-raising flour,6,0.0134,0.0649,0.206
+French,449,coriander,8,0.0178,0.1194,0.149
+German,37,marzipan,7,0.1892,0.0048,39.61
+German,37,cherry,5,0.1351,0.0093,14.529
+German,37,nutmeg,8,0.2162,0.0342,6.324
+German,37,icing sugar,18,0.4865,0.0792,6.144
+German,37,egg white,5,0.1351,0.0226,5.973
+German,37,almond,5,0.1351,0.0236,5.719
+German,37,bicarbonate of soda,5,0.1351,0.0258,5.236
+German,37,dark chocolate,5,0.1351,0.0354,3.822
+German,37,cinnamon,10,0.2703,0.0726,3.72
+German,37,vanilla extract,8,0.2162,0.0587,3.681
+German,37,plain flour,20,0.5405,0.151,3.58
+German,37,milk,9,0.2432,0.0856,2.843
+German,37,baking powder,6,0.1622,0.0577,2.809
+German,37,golden caster sugar,9,0.2432,0.09,2.703
+German,37,butter,26,0.7027,0.2883,2.438
+German,37,caster sugar,9,0.2432,0.1005,2.421
+German,37,egg,20,0.5405,0.234,2.31
+German,37,double cream,5,0.1351,0.0865,1.563
+German,37,lemon,8,0.2162,0.1701,1.271
+Greek,88,greek extra virgin,5,0.0568,0.0004,135.614
+Greek,88,halloumi cheese,5,0.0568,0.0023,25.114
+Greek,88,pitta bread,7,0.0795,0.0032,24.981
+Greek,88,feta cheese,19,0.2159,0.0093,23.213
+Greek,88,lamb mince,9,0.1023,0.0044,23.029
+Greek,88,kalamata olives,6,0.0682,0.0038,18.082
+Greek,88,feta,17,0.1932,0.0133,14.5
+Greek,88,lamb,6,0.0682,0.0052,13.124
+Greek,88,oregano,26,0.2955,0.0256,11.523
+Greek,88,filo pastry,5,0.0568,0.007,8.072
+Greek,88,greek yogurt,16,0.1818,0.0267,6.802
+Greek,88,aubergine,10,0.1136,0.0186,6.109
+Greek,88,cucumber,16,0.1818,0.0326,5.578
+Greek,88,dill,12,0.1364,0.0253,5.389
+Greek,88,mint,27,0.3068,0.0584,5.253
+Greek,88,beetroot,5,0.0568,0.0158,3.607
+Greek,88,extra virgin olive oil,13,0.1477,0.0486,3.04
+Greek,88,courgette,7,0.0795,0.0272,2.921
+Greek,88,tomato purée,11,0.125,0.0431,2.902
+Greek,88,wine vinegar,15,0.1705,0.0609,2.798
+Greek,88,cherry tomato,9,0.1023,0.0385,2.659
+Greek,88,sesame seeds,5,0.0568,0.0222,2.559
+Greek,88,red onion,18,0.2045,0.0805,2.54
+Greek,88,bay,7,0.0795,0.0342,2.327
+Greek,88,rosemary,6,0.0682,0.0295,2.312
+Greek,88,lemon,34,0.3864,0.1701,2.271
+Greek,88,tomato,18,0.2045,0.0934,2.189
+Greek,88,olive oil,49,0.5568,0.2644,2.106
+Greek,88,cinnamon,13,0.1477,0.0726,2.033
+Greek,88,dijon mustard,5,0.0568,0.0304,1.868
+Greek,88,chilli flake,5,0.0568,0.031,1.833
+Greek,88,spinach,6,0.0682,0.0377,1.808
+Greek,88,garlic,43,0.4886,0.2898,1.686
+Greek,88,lemon juice,6,0.0682,0.0421,1.621
+Greek,88,parsley,12,0.1364,0.0852,1.6
+Greek,88,cumin,6,0.0682,0.0436,1.565
+Greek,88,honey,7,0.0795,0.054,1.472
+Greek,88,parmesan,6,0.0682,0.0561,1.214
+Greek,88,onion,14,0.1591,0.1709,0.931
+Greek,88,coriander,8,0.0909,0.1194,0.761
+Greek,88,egg,13,0.1477,0.234,0.631
+Greek,88,butter,11,0.125,0.2883,0.434
+Greek,88,plain flour,5,0.0568,0.151,0.376
+Indian,391,balti curry paste,5,0.0128,0.0004,30.522
+Indian,391,asafoetida,6,0.0153,0.0005,30.522
+Indian,391,chaat masala,9,0.023,0.0009,24.972
+Indian,391,ghee,32,0.0818,0.0035,23.255
+Indian,391,chapatis,11,0.0281,0.0013,22.383
+Indian,391,poppadum,5,0.0128,0.0006,21.801
+Indian,391,fenugreek seed,12,0.0307,0.0016,19.277
+Indian,391,curry paste,34,0.087,0.0045,19.217
+Indian,391,fenugreek,10,0.0256,0.0013,19.076
+Indian,391,madra curry paste,6,0.0153,0.0008,18.313
+Indian,391,green cardamom pod,15,0.0384,0.0021,18.313
+Indian,391,curry,28,0.0716,0.0039,18.183
+Indian,391,korma paste,7,0.0179,0.001,17.804
+Indian,391,naan bread,27,0.0691,0.0039,17.534
+Indian,391,paneer,16,0.0409,0.0023,17.441
+Indian,391,black mustard seed,22,0.0563,0.0034,16.787
+Indian,391,naan,7,0.0179,0.0011,16.435
+Indian,391,garam masala,82,0.2097,0.0132,15.84
+Indian,391,green chilly,46,0.1176,0.0075,15.775
+Indian,391,gram flour,15,0.0384,0.003,12.717
+Indian,391,cardamom pod seed,7,0.0179,0.0014,12.568
+Indian,391,mango chutney,39,0.0997,0.0083,12.024
+Indian,391,turmeric,144,0.3683,0.0313,11.752
+Indian,391,garlic paste,8,0.0205,0.0018,11.627
+Indian,391,mustard seed,17,0.0435,0.0038,11.53
+Indian,391,ginger paste,6,0.0153,0.0013,11.446
+Indian,391,chutney,6,0.0153,0.0014,10.772
+Indian,391,red lentil,22,0.0563,0.0054,10.492
+Indian,391,basmati rice,54,0.1381,0.0146,9.472
+Indian,391,chilli powder,78,0.1995,0.0221,9.018
+Indian,391,green chilli,39,0.0997,0.0111,8.95
+Indian,391,saffron strand,6,0.0153,0.0018,8.72
+Indian,391,cumin seed,92,0.2353,0.0282,8.357
+Indian,391,curry powder,48,0.1228,0.0152,8.094
+Indian,391,cardamom,23,0.0588,0.0073,8.069
+Indian,391,cashew nut,14,0.0358,0.0045,7.913
+Indian,391,root ginger,33,0.0844,0.011,7.689
+Indian,391,tamarind paste,10,0.0256,0.0034,7.63
+Indian,391,malt vinegar,7,0.0179,0.0028,6.474
+Indian,391,nigella seed,11,0.0281,0.0044,6.457
+Indian,391,yellow mustard seed,5,0.0128,0.0021,6.104
+Indian,391,cashew,9,0.023,0.0039,5.845
+Indian,391,coconut milk,49,0.1253,0.0215,5.842
+Indian,391,rosewater,7,0.0179,0.0034,5.341
+Indian,391,chilly,8,0.0205,0.0039,5.308
+Indian,391,cardamom pod,9,0.023,0.0044,5.183
+Indian,391,greek-style yogurt,6,0.0153,0.003,5.087
+Indian,391,coriander,233,0.5959,0.1194,4.991
+Indian,391,yogurt,36,0.0921,0.0189,4.862
+Indian,391,chicken thigh fillet,5,0.0128,0.0027,4.769
+Indian,391,pea,16,0.0409,0.009,4.564
+Indian,391,stock,5,0.0128,0.0028,4.488
+Indian,391,brown basmati rice,7,0.0179,0.004,4.451
+Indian,391,ginger,132,0.3376,0.0777,4.346
+Indian,391,vegetable,25,0.0639,0.0148,4.311
+Indian,391,cauliflower,22,0.0563,0.0133,4.223
+Indian,391,natural yogurt,33,0.0844,0.0201,4.197
+Indian,391,cumin,70,0.179,0.0436,4.109
+Indian,391,black peppercorn,20,0.0512,0.0127,4.043
+Indian,391,coconut yogurt,5,0.0128,0.0034,3.815
+Indian,391,chickpea,35,0.0895,0.0237,3.775
+Indian,391,vegetable oil,101,0.2583,0.0744,3.472
+Indian,391,greek yogurt,36,0.0921,0.0267,3.444
+Indian,391,rice,21,0.0537,0.0158,3.409
+Indian,391,coconut,17,0.0435,0.013,3.348
+Indian,391,green pepper,7,0.0179,0.0059,3.009
+Indian,391,lamb,6,0.0153,0.0052,2.954
+Indian,391,coriander seed,16,0.0409,0.0139,2.942
+Indian,391,vegetable stock cube,5,0.0128,0.0044,2.935
+Indian,391,filo pastry,8,0.0205,0.007,2.907
+Indian,391,sunflower oil,62,0.1586,0.055,2.885
+Indian,391,lime juice,15,0.0384,0.0133,2.879
+Indian,391,lamb mince,5,0.0128,0.0044,2.879
+Indian,391,mango,11,0.0281,0.01,2.821
+Indian,391,peas,29,0.0742,0.0266,2.792
+Indian,391,onion,185,0.4731,0.1709,2.769
+Indian,391,paprika,16,0.0409,0.015,2.728
+Indian,391,tomato,98,0.2506,0.0934,2.683
+Indian,391,fennel seed,16,0.0409,0.0158,2.598
+Indian,391,saffron,5,0.0128,0.005,2.543
+Indian,391,chicken thigh,19,0.0486,0.0192,2.532
+Indian,391,sunflower,6,0.0153,0.0062,2.475
+Indian,391,sweet potato,6,0.0153,0.0063,2.442
+Indian,391,red,10,0.0256,0.0108,2.366
+Indian,391,red chilly,11,0.0281,0.0122,2.315
+Indian,391,frac,18,0.046,0.0201,2.289
+Indian,391,potato,54,0.1381,0.0607,2.276
+Indian,391,black pepper,9,0.023,0.0101,2.27
+Indian,391,tomato purée,37,0.0946,0.0431,2.197
+Indian,391,pistachio,11,0.0281,0.0132,2.138
+Indian,391,vegetable stock,32,0.0818,0.0397,2.061
+Indian,391,king prawn,7,0.0179,0.0087,2.054
+Indian,391,red chilli,41,0.1049,0.0515,2.035
+Indian,391,chicken breast,26,0.0665,0.0331,2.009
+Indian,391,red onion,63,0.1611,0.0805,2.001
+Indian,391,raisin,11,0.0281,0.0143,1.963
+Indian,391,mint,44,0.1125,0.0584,1.927
+Indian,391,seed,6,0.0153,0.008,1.908
+Indian,391,cinnamon,52,0.133,0.0726,1.831
+Indian,391,spinach,25,0.0639,0.0377,1.696
+Indian,391,garlic,187,0.4783,0.2898,1.65
+Indian,391,aubergine,12,0.0307,0.0186,1.65
+Indian,391,cucumber,21,0.0537,0.0326,1.648
+Indian,391,sultanas,5,0.0128,0.008,1.59
+Indian,391,butternut squash,9,0.023,0.0148,1.552
+Indian,391,lime,44,0.1125,0.0737,1.528
+Indian,391,flaked almonds,10,0.0256,0.0168,1.526
+Indian,391,almond,14,0.0358,0.0236,1.515
+Indian,391,floury potato,5,0.0128,0.0085,1.496
+Indian,391,chilli flake,18,0.046,0.031,1.485
+Indian,391,rapeseed oil,26,0.0665,0.045,1.478
+Indian,391,anise,7,0.0179,0.0122,1.473
+Indian,391,sugar,23,0.0588,0.0403,1.459
+Indian,391,lemon juice,24,0.0614,0.0421,1.459
+Indian,391,oil,15,0.0384,0.0263,1.458
+Indian,391,water,9,0.023,0.016,1.438
+Indian,391,prawn,8,0.0205,0.0146,1.403
+Indian,391,peanut,5,0.0128,0.0096,1.339
+Indian,391,chicken stock,22,0.0563,0.0442,1.272
+Indian,391,bay,17,0.0435,0.0342,1.272
+Indian,391,ground almonds,7,0.0179,0.0147,1.221
+Indian,391,bay leaf,8,0.0205,0.0178,1.146
+Indian,391,passata,5,0.0128,0.0115,1.114
+Indian,391,cayenne pepper,6,0.0153,0.0142,1.084
+Indian,391,red pepper,18,0.046,0.045,1.023
+Indian,391,whole milk,9,0.023,0.0235,0.981
+Indian,391,salt,16,0.0409,0.0426,0.961
+Indian,391,chicken,8,0.0205,0.0223,0.918
+Indian,391,salmon fillet,5,0.0128,0.0145,0.882
+Indian,391,pepper,5,0.0128,0.0149,0.857
+Indian,391,carrot,24,0.0614,0.0787,0.78
+Indian,391,new potato,6,0.0153,0.02,0.766
+Indian,391,spring onion,23,0.0588,0.0778,0.756
+Indian,391,cherry tomato,11,0.0281,0.0385,0.731
+Indian,391,lemon,48,0.1228,0.1701,0.722
+Indian,391,courgette,7,0.0179,0.0272,0.657
+Indian,391,caster sugar,23,0.0588,0.1005,0.585
+Indian,391,double cream,16,0.0409,0.0865,0.473
+Indian,391,plain flour,27,0.0691,0.151,0.457
+Indian,391,nutmeg,6,0.0153,0.0342,0.449
+Indian,391,olive oil,44,0.1125,0.2644,0.426
+Indian,391,butter,43,0.11,0.2883,0.382
+Indian,391,shallot,5,0.0128,0.0361,0.354
+Indian,391,baking powder,7,0.0179,0.0577,0.31
+Indian,391,honey,6,0.0153,0.054,0.284
+Indian,391,self-raising flour,7,0.0179,0.0649,0.276
+Indian,391,milk,9,0.023,0.0856,0.269
+Indian,391,egg,24,0.0614,0.234,0.262
+Indian,391,wine vinegar,6,0.0153,0.0609,0.252
+Indian,391,golden caster sugar,8,0.0205,0.09,0.227
+Irish,30,bacon,5,0.1667,0.0173,9.609
+Irish,30,bicarbonate of soda,7,0.2333,0.0258,9.041
+Irish,30,potato,10,0.3333,0.0607,5.494
+Irish,30,double cream,11,0.3667,0.0865,4.24
+Irish,30,spring onion,7,0.2333,0.0778,3.001
+Irish,30,carrot,6,0.2,0.0787,2.542
+Irish,30,plain flour,10,0.3333,0.151,2.208
+Irish,30,butter,18,0.6,0.2883,2.082
+Irish,30,milk,5,0.1667,0.0856,1.948
+Irish,30,egg,10,0.3333,0.234,1.424
+Irish,30,onion,5,0.1667,0.1709,0.975
+Italian,717,pizza base,5,0.007,0.0005,13.87
+Italian,717,ciabatta bread mix,6,0.0084,0.0007,12.483
+Italian,717,penne pasta,8,0.0112,0.0009,12.105
+Italian,717,sponge finger,7,0.0098,0.0009,10.592
+Italian,717,tagliatelle,17,0.0237,0.0023,10.48
+Italian,717,linguine,18,0.0251,0.0025,9.987
+Italian,717,lasagne,27,0.0377,0.0038,9.987
+Italian,717,green pesto,7,0.0098,0.001,9.709
+Italian,717,parmesan shaving,7,0.0098,0.001,9.709
+Italian,717,pasta shape,18,0.0251,0.0027,9.362
+Italian,717,spaghetti,51,0.0711,0.0076,9.328
+Italian,717,cubetti di pancetta,5,0.007,0.0008,9.247
+Italian,717,pizza base mix,5,0.007,0.0008,9.247
+Italian,717,basil pesto,7,0.0098,0.0011,8.962
+Italian,717,risotto rice,36,0.0502,0.0057,8.812
+Italian,717,marsala,15,0.0209,0.0027,7.802
+Italian,717,buffalo mozzarella,6,0.0084,0.0011,7.682
+Italian,717,gorgonzola,5,0.007,0.001,6.935
+Italian,717,tomato pasta sauce,5,0.007,0.001,6.935
+Italian,717,penne,17,0.0237,0.0035,6.737
+Italian,717,bread mix,6,0.0084,0.0013,6.658
+Italian,717,pecorino,8,0.0112,0.0017,6.658
+Italian,717,mozzarella,78,0.1088,0.0165,6.59
+Italian,717,pesto,36,0.0502,0.0078,6.443
+Italian,717,rigatoni,6,0.0084,0.0013,6.242
+Italian,717,caper,16,0.0223,0.0037,6.052
+Italian,717,prosciutto,28,0.0391,0.0065,5.975
+Italian,717,broad bean,10,0.0139,0.0025,5.548
+Italian,717,pasta,24,0.0335,0.0061,5.472
+Italian,717,parmesan,219,0.3054,0.0561,5.44
+Italian,717,flatleaf parsley,12,0.0167,0.0032,5.256
+Italian,717,ricotta,44,0.0614,0.012,5.121
+Italian,717,gnocchi,7,0.0098,0.0019,5.066
+Italian,717,tomato sauce,5,0.007,0.0014,4.895
+Italian,717,basil,167,0.2329,0.0478,4.877
+Italian,717,sea bass fillet,5,0.007,0.0015,4.623
+Italian,717,plum tomato,28,0.0391,0.0089,4.397
+Italian,717,artichoke heart,7,0.0098,0.0023,4.161
+Italian,717,candied peel,5,0.007,0.0017,4.161
+Italian,717,ciabatta loaf,5,0.007,0.0017,4.161
+Italian,717,tuna,16,0.0223,0.0057,3.916
+Italian,717,pine nut,51,0.0711,0.0186,3.824
+Italian,717,lean beef mince,5,0.007,0.0018,3.783
+Italian,717,mascarpone,41,0.0572,0.0152,3.77
+Italian,717,rocket,55,0.0767,0.0204,3.752
+Italian,717,amaretti biscuit,8,0.0112,0.003,3.699
+Italian,717,macaroni,7,0.0098,0.0027,3.641
+Italian,717,pancetta,19,0.0265,0.0076,3.475
+Italian,717,semolina,7,0.0098,0.0028,3.427
+Italian,717,ciabatta,6,0.0084,0.0025,3.329
+Italian,717,petit pois,5,0.007,0.0022,3.201
+Italian,717,pea,20,0.0279,0.009,3.111
+Italian,717,passata,25,0.0349,0.0115,3.037
+Italian,717,breadcrumb,13,0.0181,0.0061,2.964
+Italian,717,porcini mushroom,9,0.0126,0.0043,2.937
+Italian,717,green olives,10,0.0139,0.0049,2.821
+Italian,717,white wine,53,0.0739,0.0265,2.792
+Italian,717,black olives,18,0.0251,0.0093,2.699
+Italian,717,anchovy,11,0.0153,0.0058,2.653
+Italian,717,rosemary,55,0.0767,0.0295,2.601
+Italian,717,balsamic vinegar,39,0.0544,0.0209,2.597
+Italian,717,green salad,12,0.0167,0.0065,2.594
+Italian,717,anchovy fillet,7,0.0098,0.0039,2.533
+Italian,717,coffee,8,0.0112,0.0044,2.512
+Italian,717,sage,34,0.0474,0.0195,2.429
+Italian,717,aubergine,32,0.0446,0.0186,2.399
+Italian,717,white bread flour,18,0.0251,0.0109,2.305
+Italian,717,asparagus,7,0.0098,0.0043,2.285
+Italian,717,pork sausage,11,0.0153,0.0068,2.26
+Italian,717,oregano,41,0.0572,0.0256,2.23
+Italian,717,yolk,5,0.007,0.0032,2.19
+Italian,717,extra virgin olive oil,76,0.106,0.0486,2.181
+Italian,717,butternut squash,23,0.0321,0.0148,2.163
+Italian,717,courgette,42,0.0586,0.0272,2.151
+Italian,717,capers,26,0.0363,0.0169,2.142
+Italian,717,cherry tomato,59,0.0823,0.0385,2.139
+Italian,717,white breadcrumb,5,0.007,0.0033,2.134
+Italian,717,tomato,138,0.1925,0.0934,2.06
+Italian,717,dried yeast,23,0.0321,0.0157,2.047
+Italian,717,minced beef,9,0.0126,0.0062,2.024
+Italian,717,olive oil,383,0.5342,0.2644,2.021
+Italian,717,polenta,10,0.0139,0.0073,1.913
+Italian,717,smoked streaky bacon,7,0.0098,0.0051,1.91
+Italian,717,vegetable stock,54,0.0753,0.0397,1.896
+Italian,717,sausage,9,0.0126,0.0066,1.896
+Italian,717,chestnut mushroom,15,0.0209,0.0111,1.891
+Italian,717,broad beans,8,0.0112,0.006,1.849
+Italian,717,peach,9,0.0126,0.0069,1.827
+Italian,717,mushroom,14,0.0195,0.0111,1.765
+Italian,717,red wine,23,0.0321,0.0183,1.756
+Italian,717,fig,6,0.0084,0.0049,1.722
+Italian,717,nutmeg,42,0.0586,0.0342,1.713
+Italian,717,cannellini bean,8,0.0112,0.0065,1.707
+Italian,717,spinach,46,0.0642,0.0377,1.701
+Italian,717,ham,12,0.0167,0.0099,1.693
+Italian,717,full-fat milk,11,0.0153,0.0091,1.68
+Italian,717,kale,9,0.0126,0.0075,1.664
+Italian,717,green bean,5,0.007,0.0042,1.664
+Italian,717,vanilla paste,5,0.007,0.0042,1.664
+Italian,717,celery,39,0.0544,0.0329,1.652
+Italian,717,bread,18,0.0251,0.0153,1.637
+Italian,717,goat' cheese,11,0.0153,0.0095,1.62
+Italian,717,beef,7,0.0098,0.0062,1.574
+Italian,717,flat-leaf parsley,17,0.0237,0.0152,1.563
+Italian,717,chestnut,7,0.0098,0.0063,1.553
+Italian,717,herb,10,0.0139,0.009,1.541
+Italian,717,white breadcrumbs,6,0.0084,0.0054,1.536
+Italian,717,chilli flake,34,0.0474,0.031,1.529
+Italian,717,fennel,13,0.0181,0.0119,1.524
+Italian,717,fast-action,8,0.0112,0.0075,1.496
+Italian,717,salad,13,0.0181,0.0122,1.482
+Italian,717,water,17,0.0237,0.016,1.481
+Italian,717,tomato purée,45,0.0628,0.0431,1.457
+Italian,717,garlic,302,0.4212,0.2898,1.453
+Italian,717,lemon zest,10,0.0139,0.0096,1.447
+Italian,717,broccoli,19,0.0265,0.0186,1.425
+Italian,717,fennel seed,16,0.0223,0.0158,1.417
+Italian,717,vanilla,6,0.0084,0.0059,1.407
+Italian,717,frac,20,0.0279,0.0201,1.387
+Italian,717,bacon,17,0.0237,0.0173,1.367
+Italian,717,feta cheese,9,0.0126,0.0093,1.35
+Italian,717,gelatine,6,0.0084,0.0062,1.35
+Italian,717,prawn,14,0.0195,0.0146,1.339
+Italian,717,peas,25,0.0349,0.0266,1.313
+Italian,717,crème fraîche,34,0.0474,0.0364,1.304
+Italian,717,olive,5,0.007,0.0054,1.3
+Italian,717,parsley,78,0.1088,0.0852,1.277
+Italian,717,onion,151,0.2106,0.1709,1.233
+Italian,717,cream cheese,6,0.0084,0.007,1.203
+Italian,717,hazelnut,13,0.0181,0.0155,1.17
+Italian,717,walnut,13,0.0181,0.0155,1.17
+Italian,717,red,9,0.0126,0.0108,1.161
+Italian,717,single cream,6,0.0084,0.0073,1.148
+Italian,717,breadcrumbs,13,0.0181,0.0158,1.145
+Italian,717,pepper,12,0.0167,0.0149,1.122
+Italian,717,cheddar,27,0.0377,0.0354,1.062
+Italian,717,new potato,15,0.0209,0.02,1.045
+Italian,717,cheese,13,0.0181,0.0176,1.03
+Italian,717,red pepper,33,0.046,0.045,1.023
+Italian,717,lemon,123,0.1715,0.1701,1.009
+Italian,717,chicken,16,0.0223,0.0223,1.001
+Italian,717,chif,17,0.0237,0.0246,0.966
+Italian,717,sugar,27,0.0377,0.0403,0.934
+Italian,717,red chilly,8,0.0112,0.0122,0.918
+Italian,717,egg yolk,24,0.0335,0.0371,0.902
+Italian,717,oil,17,0.0237,0.0263,0.901
+Italian,717,red chilli,33,0.046,0.0515,0.893
+Italian,717,shallot,23,0.0321,0.0361,0.888
+Italian,717,double cream,54,0.0753,0.0865,0.871
+Italian,717,wine vinegar,38,0.053,0.0609,0.87
+Italian,717,bay leaf,11,0.0153,0.0178,0.86
+Italian,717,black pepper,6,0.0084,0.0101,0.825
+Italian,717,flour,9,0.0126,0.0153,0.823
+Italian,717,tarragon,7,0.0098,0.0119,0.82
+Italian,717,salt,25,0.0349,0.0426,0.819
+Italian,717,red onion,45,0.0628,0.0805,0.779
+Italian,717,carrot,43,0.06,0.0787,0.762
+Italian,717,chicken breast,18,0.0251,0.0331,0.758
+Italian,717,chicken stock,24,0.0335,0.0442,0.757
+Italian,717,green beans,7,0.0098,0.0129,0.757
+Italian,717,cherry,5,0.007,0.0093,0.75
+Italian,717,golden caster sugar,46,0.0642,0.09,0.713
+Italian,717,almond,12,0.0167,0.0236,0.708
+Italian,717,thyme,36,0.0502,0.0728,0.69
+Italian,717,leek,13,0.0181,0.0269,0.674
+Italian,717,strawberry,7,0.0098,0.0146,0.67
+Italian,717,flaked almonds,8,0.0112,0.0168,0.666
+Italian,717,vegetable,7,0.0098,0.0148,0.658
+Italian,717,whole milk,11,0.0153,0.0235,0.654
+Italian,717,bay,16,0.0223,0.0342,0.653
+Italian,717,caster sugar,47,0.0656,0.1005,0.652
+Italian,717,milk,39,0.0544,0.0856,0.636
+Italian,717,lemon juice,19,0.0265,0.0421,0.63
+Italian,717,cocoa powder,10,0.0139,0.0228,0.612
+Italian,717,dark chocolate,15,0.0209,0.0354,0.592
+Italian,717,butter,122,0.1702,0.2883,0.59
+Italian,717,salmon fillet,6,0.0084,0.0145,0.577
+Italian,717,mint,24,0.0335,0.0584,0.573
+Italian,717,egg,94,0.1311,0.234,0.56
+Italian,717,watercress,6,0.0084,0.015,0.558
+Italian,717,plain flour,59,0.0823,0.151,0.545
+Italian,717,orange,18,0.0251,0.0463,0.542
+Italian,717,pistachio,5,0.007,0.0132,0.53
+Italian,717,cauliflower,5,0.007,0.0133,0.523
+Italian,717,puff pastry,5,0.007,0.0136,0.514
+Italian,717,dijon mustard,11,0.0153,0.0304,0.504
+Italian,717,wholegrain mustard,7,0.0098,0.02,0.487
+Italian,717,raisin,5,0.007,0.0143,0.487
+Italian,717,ground almonds,5,0.007,0.0147,0.476
+Italian,717,rapeseed oil,14,0.0195,0.045,0.434
+Italian,717,honey,16,0.0223,0.054,0.413
+Italian,717,cornflour,9,0.0126,0.0323,0.388
+Italian,717,light muscovado sugar,6,0.0084,0.0222,0.377
+Italian,717,potato,16,0.0223,0.0607,0.368
+Italian,717,icing sugar,19,0.0265,0.0792,0.335
+Italian,717,dill,6,0.0084,0.0253,0.331
+Italian,717,spring onion,17,0.0237,0.0778,0.305
+Italian,717,mayonnaise,5,0.007,0.0247,0.282
+Italian,717,vegetable oil,12,0.0167,0.0744,0.225
+Italian,717,baking powder,9,0.0126,0.0577,0.217
+Italian,717,self-raising flour,8,0.0112,0.0649,0.172
+Italian,717,vanilla extract,7,0.0098,0.0587,0.166
+Italian,717,sunflower oil,6,0.0084,0.055,0.152
+Italian,717,cinnamon,6,0.0084,0.0726,0.115
+Japanese,61,mirin,15,0.2459,0.0027,91.706
+Japanese,61,nori,5,0.082,0.001,81.516
+Japanese,61,sushi rice,6,0.0984,0.0013,78.256
+Japanese,61,miso paste,6,0.0984,0.0014,69.049
+Japanese,61,rice vinegar,9,0.1475,0.0082,17.967
+Japanese,61,soy sauce,26,0.4262,0.0345,12.346
+Japanese,61,sesame oil,12,0.1967,0.0208,9.466
+Japanese,61,sesame seeds,10,0.1639,0.0222,7.383
+Japanese,61,spring onion,24,0.3934,0.0778,5.06
+Japanese,61,cucumber,10,0.1639,0.0326,5.029
+Japanese,61,vegetable oil,16,0.2623,0.0744,3.525
+Japanese,61,ginger,15,0.2459,0.0777,3.166
+Japanese,61,cornflour,6,0.0984,0.0323,3.041
+Japanese,61,chicken breast,6,0.0984,0.0331,2.972
+Japanese,61,honey,7,0.1148,0.054,2.123
+Japanese,61,caster sugar,13,0.2131,0.1005,2.121
+Japanese,61,sugar,5,0.082,0.0403,2.034
+Japanese,61,chicken stock,5,0.082,0.0442,1.853
+Japanese,61,carrot,8,0.1311,0.0787,1.667
+Japanese,61,wine vinegar,6,0.0984,0.0609,1.615
+Japanese,61,egg,13,0.2131,0.234,0.911
+Japanese,61,garlic,16,0.2623,0.2898,0.905
+Japanese,61,plain flour,8,0.1311,0.151,0.869
+Japanese,61,coriander,5,0.082,0.1194,0.686
+Japanese,61,onion,7,0.1148,0.1709,0.672
+Mediterranean,212,feta cheese,21,0.0991,0.0093,10.65
+Mediterranean,212,halloumi cheese,5,0.0236,0.0023,10.425
+Mediterranean,212,black olives,19,0.0896,0.0093,9.636
+Mediterranean,212,yellow pepper,11,0.0519,0.0059,8.846
+Mediterranean,212,caper,6,0.0283,0.0037,7.676
+Mediterranean,212,harissa paste,5,0.0236,0.0033,7.217
+Mediterranean,212,quinoa,8,0.0377,0.0059,6.343
+Mediterranean,212,courgette,33,0.1557,0.0272,5.716
+Mediterranean,212,green bean,5,0.0236,0.0042,5.629
+Mediterranean,212,sherry vinegar,10,0.0472,0.0087,5.413
+Mediterranean,212,aubergine,18,0.0849,0.0186,4.564
+Mediterranean,212,red pepper,42,0.1981,0.045,4.403
+Mediterranean,212,fennel,11,0.0519,0.0119,4.361
+Mediterranean,212,pine nut,17,0.0802,0.0186,4.311
+Mediterranean,212,balsamic vinegar,18,0.0849,0.0209,4.053
+Mediterranean,212,rocket,16,0.0755,0.0204,3.691
+Mediterranean,212,pesto,6,0.0283,0.0078,3.632
+Mediterranean,212,basil,36,0.1698,0.0478,3.555
+Mediterranean,212,pepper,11,0.0519,0.0149,3.479
+Mediterranean,212,new potato,14,0.066,0.02,3.297
+Mediterranean,212,couscous,6,0.0283,0.0089,3.186
+Mediterranean,212,pancetta,5,0.0236,0.0076,3.093
+Mediterranean,212,red,7,0.033,0.0108,3.055
+Mediterranean,212,frac,13,0.0613,0.0201,3.049
+Mediterranean,212,goat' cheese,6,0.0283,0.0095,2.989
+Mediterranean,212,extra virgin olive oil,29,0.1368,0.0486,2.815
+Mediterranean,212,flat-leaf parsley,9,0.0425,0.0152,2.799
+Mediterranean,212,capers,10,0.0472,0.0169,2.787
+Mediterranean,212,chickpea,14,0.066,0.0237,2.785
+Mediterranean,212,ricotta,7,0.033,0.012,2.756
+Mediterranean,212,cherry tomato,22,0.1038,0.0385,2.698
+Mediterranean,212,plum tomato,5,0.0236,0.0089,2.655
+Mediterranean,212,red onion,41,0.1934,0.0805,2.402
+Mediterranean,212,tomato,46,0.217,0.0934,2.322
+Mediterranean,212,olive oil,130,0.6132,0.2644,2.319
+Mediterranean,212,butternut squash,7,0.033,0.0148,2.226
+Mediterranean,212,watercress,7,0.033,0.015,2.201
+Mediterranean,212,mint,25,0.1179,0.0584,2.019
+Mediterranean,212,spinach,16,0.0755,0.0377,2.002
+Mediterranean,212,tarragon,5,0.0236,0.0119,1.982
+Mediterranean,212,salmon fillet,6,0.0283,0.0145,1.952
+Mediterranean,212,bread,6,0.0283,0.0153,1.846
+Mediterranean,212,mozzarella,6,0.0283,0.0165,1.714
+Mediterranean,212,oregano,9,0.0425,0.0256,1.656
+Mediterranean,212,wine vinegar,21,0.0991,0.0609,1.626
+Mediterranean,212,lemon juice,14,0.066,0.0421,1.57
+Mediterranean,212,parsley,28,0.1321,0.0852,1.55
+Mediterranean,212,chif,8,0.0377,0.0246,1.537
+Mediterranean,212,hazelnut,5,0.0236,0.0155,1.521
+Mediterranean,212,beetroot,5,0.0236,0.0158,1.497
+Mediterranean,212,lemon,53,0.25,0.1701,1.47
+Mediterranean,212,red chilli,16,0.0755,0.0515,1.465
+Mediterranean,212,rosemary,9,0.0425,0.0295,1.439
+Mediterranean,212,parmesan,17,0.0802,0.0561,1.428
+Mediterranean,212,crème fraîche,11,0.0519,0.0364,1.427
+Mediterranean,212,wholegrain mustard,6,0.0283,0.02,1.413
+Mediterranean,212,flaked almonds,5,0.0236,0.0168,1.407
+Mediterranean,212,garlic,84,0.3962,0.2898,1.367
+Mediterranean,212,smoked paprika,9,0.0425,0.0321,1.323
+Mediterranean,212,white wine,7,0.033,0.0265,1.247
+Mediterranean,212,yogurt,5,0.0236,0.0189,1.245
+Mediterranean,212,honey,14,0.066,0.054,1.222
+Mediterranean,212,shallot,9,0.0425,0.0361,1.175
+Mediterranean,212,sugar,10,0.0472,0.0403,1.17
+Mediterranean,212,vegetable stock,9,0.0425,0.0397,1.069
+Mediterranean,212,chilli flake,7,0.033,0.031,1.065
+Mediterranean,212,orange,10,0.0472,0.0463,1.018
+Mediterranean,212,potato,13,0.0613,0.0607,1.011
+Mediterranean,212,dijon mustard,6,0.0283,0.0304,0.93
+Mediterranean,212,oil,5,0.0236,0.0263,0.896
+Mediterranean,212,salt,8,0.0377,0.0426,0.886
+Mediterranean,212,cucumber,6,0.0283,0.0326,0.868
+Mediterranean,212,celery,6,0.0283,0.0329,0.859
+Mediterranean,212,spring onion,14,0.066,0.0778,0.849
+Mediterranean,212,thyme,13,0.0613,0.0728,0.842
+Mediterranean,212,cumin seed,5,0.0236,0.0282,0.838
+Mediterranean,212,onion,30,0.1415,0.1709,0.828
+Mediterranean,212,chicken breast,5,0.0236,0.0331,0.713
+Mediterranean,212,cheddar,5,0.0236,0.0354,0.665
+Mediterranean,212,cumin,6,0.0283,0.0436,0.65
+Mediterranean,212,carrot,10,0.0472,0.0787,0.599
+Mediterranean,212,coriander,14,0.066,0.1194,0.553
+Mediterranean,212,tomato purée,5,0.0236,0.0431,0.548
+Mediterranean,212,chicken stock,5,0.0236,0.0442,0.533
+Mediterranean,212,egg,26,0.1226,0.234,0.524
+Mediterranean,212,sunflower oil,6,0.0283,0.055,0.515
+Mediterranean,212,lime,8,0.0377,0.0737,0.512
+Mediterranean,212,baking powder,5,0.0236,0.0577,0.409
+Mediterranean,212,milk,7,0.033,0.0856,0.386
+Mediterranean,212,caster sugar,8,0.0377,0.1005,0.376
+Mediterranean,212,plain flour,8,0.0377,0.151,0.25
+Mediterranean,212,butter,15,0.0708,0.2883,0.245
+Mexican,191,jalapeño pepper,8,0.0419,0.0009,45.441
+Mexican,191,corn tortilla,19,0.0995,0.0023,42.398
+Mexican,191,salsa,11,0.0576,0.0014,40.429
+Mexican,191,fajita seasoning,7,0.0366,0.0009,39.761
+Mexican,191,black bean,8,0.0419,0.0011,38.45
+Mexican,191,flour tortilla,25,0.1309,0.0042,31.241
+Mexican,191,kidney bean,8,0.0419,0.0014,29.403
+Mexican,191,guacamole,12,0.0628,0.0022,28.838
+Mexican,191,chipotle paste,29,0.1518,0.0059,25.521
+Mexican,191,tortilla,8,0.0419,0.0017,24.993
+Mexican,191,tortilla chips,11,0.0576,0.0024,23.7
+Mexican,191,kidney beans,19,0.0995,0.0052,19.148
+Mexican,191,bean,15,0.0785,0.0042,18.745
+Mexican,191,tortilla wrap,7,0.0366,0.0021,17.495
+Mexican,191,jalapeño,9,0.0471,0.0028,17.04
+Mexican,191,black beans,26,0.1361,0.0082,16.577
+Mexican,191,avocado,64,0.3351,0.0275,12.192
+Mexican,191,tabasco sauce,5,0.0262,0.0023,11.157
+Mexican,191,soured cream,39,0.2042,0.0215,9.519
+Mexican,191,iceberg lettuce,6,0.0314,0.0034,9.372
+Mexican,191,sweetcorn,16,0.0838,0.0099,8.472
+Mexican,191,hot sauce,6,0.0314,0.0038,8.331
+Mexican,191,cumin,58,0.3037,0.0436,6.969
+Mexican,191,beef,8,0.0419,0.0062,6.755
+Mexican,191,chilli powder,28,0.1466,0.0221,6.627
+Mexican,191,lime,89,0.466,0.0737,6.326
+Mexican,191,white onion,5,0.0262,0.0042,6.248
+Mexican,191,coriander,117,0.6126,0.1194,5.13
+Mexican,191,oregano,25,0.1309,0.0256,5.105
+Mexican,191,yellow pepper,5,0.0262,0.0059,4.463
+Mexican,191,cheddar,29,0.1518,0.0354,4.284
+Mexican,191,passata,9,0.0471,0.0115,4.105
+Mexican,191,lime juice,10,0.0524,0.0133,3.93
+Mexican,191,smoked paprika,24,0.1257,0.0321,3.915
+Mexican,191,cider vinegar,15,0.0785,0.0204,3.841
+Mexican,191,red onion,58,0.3037,0.0805,3.771
+Mexican,191,tomato,67,0.3508,0.0934,3.755
+Mexican,191,red pepper,30,0.1571,0.045,3.491
+Mexican,191,chilli sauce,7,0.0366,0.0111,3.313
+Mexican,191,frac,12,0.0628,0.0201,3.124
+Mexican,191,gem lettuce,7,0.0366,0.0123,2.975
+Mexican,191,brown sugar,9,0.0471,0.016,2.944
+Mexican,191,green chilli,6,0.0314,0.0111,2.819
+Mexican,191,feta cheese,5,0.0262,0.0093,2.814
+Mexican,191,cumin seed,14,0.0733,0.0282,2.603
+Mexican,191,chicken breast,16,0.0838,0.0331,2.531
+Mexican,191,pepper,7,0.0366,0.0149,2.457
+Mexican,191,paprika,7,0.0366,0.015,2.443
+Mexican,191,tomato purée,20,0.1047,0.0431,2.431
+Mexican,191,beef stock,5,0.0262,0.0121,2.17
+Mexican,191,red chilly,5,0.0262,0.0122,2.155
+Mexican,191,red chilli,20,0.1047,0.0515,2.032
+Mexican,191,feta,5,0.0262,0.0133,1.965
+Mexican,191,cherry tomato,14,0.0733,0.0385,1.906
+Mexican,191,prawn,5,0.0262,0.0146,1.795
+Mexican,191,onion,58,0.3037,0.1709,1.777
+Mexican,191,vegetable oil,24,0.1257,0.0744,1.689
+Mexican,191,chicken,7,0.0366,0.0223,1.644
+Mexican,191,sunflower oil,17,0.089,0.055,1.619
+Mexican,191,natural yogurt,6,0.0314,0.0201,1.562
+Mexican,191,spring onion,23,0.1204,0.0778,1.549
+Mexican,191,garlic,84,0.4398,0.2898,1.517
+Mexican,191,oil,7,0.0366,0.0263,1.393
+Mexican,191,olive oil,63,0.3298,0.2644,1.248
+Mexican,191,sugar,9,0.0471,0.0403,1.169
+Mexican,191,bay,7,0.0366,0.0342,1.072
+Mexican,191,honey,9,0.0471,0.054,0.872
+Mexican,191,salt,7,0.0366,0.0426,0.861
+Mexican,191,chicken stock,7,0.0366,0.0442,0.828
+Mexican,191,rapeseed oil,7,0.0366,0.045,0.814
+Mexican,191,vegetable stock,6,0.0314,0.0397,0.791
+Mexican,191,wine vinegar,9,0.0471,0.0609,0.774
+Mexican,191,dark chocolate,5,0.0262,0.0354,0.74
+Mexican,191,crème fraîche,5,0.0262,0.0364,0.72
+Mexican,191,cinnamon,9,0.0471,0.0726,0.649
+Mexican,191,potato,6,0.0314,0.0607,0.518
+Mexican,191,egg,15,0.0785,0.234,0.336
+Mexican,191,caster sugar,6,0.0314,0.1005,0.313
+Mexican,191,plain flour,9,0.0471,0.151,0.312
+Mexican,191,parsley,5,0.0262,0.0852,0.307
+Mexican,191,lemon,9,0.0471,0.1701,0.277
+Mexican,191,butter,12,0.0628,0.2883,0.218
+Middle Eastern,156,tahini paste,9,0.0577,0.0018,31.295
+Middle Eastern,156,bulgur wheat,14,0.0897,0.0034,26.122
+Middle Eastern,156,wholemeal pitta bread,5,0.0321,0.0013,23.906
+Middle Eastern,156,sumac,11,0.0705,0.0034,21.037
+Middle Eastern,156,pitta bread,9,0.0577,0.0032,18.118
+Middle Eastern,156,pomegranate molasses,11,0.0705,0.0048,14.763
+Middle Eastern,156,hummus,7,0.0449,0.0032,14.092
+Middle Eastern,156,couscous,19,0.1218,0.0089,13.712
+Middle Eastern,156,pomegranate seed,19,0.1218,0.0094,12.978
+Middle Eastern,156,lamb mince,7,0.0449,0.0044,10.104
+Middle Eastern,156,harissa,8,0.0513,0.0055,9.273
+Middle Eastern,156,feta cheese,13,0.0833,0.0093,8.959
+Middle Eastern,156,allspice,8,0.0513,0.0066,7.747
+Middle Eastern,156,flat-leaf parsley,16,0.1026,0.0152,6.762
+Middle Eastern,156,quinoa,6,0.0385,0.0059,6.465
+Middle Eastern,156,broad beans,6,0.0385,0.006,6.375
+Middle Eastern,156,lamb,5,0.0321,0.0052,6.169
+Middle Eastern,156,mint,56,0.359,0.0584,6.146
+Middle Eastern,156,tahini,8,0.0513,0.0085,6.059
+Middle Eastern,156,aubergine,17,0.109,0.0186,5.858
+Middle Eastern,156,pistachio,12,0.0769,0.0132,5.847
+Middle Eastern,156,chickpea,20,0.1282,0.0237,5.406
+Middle Eastern,156,greek yogurt,22,0.141,0.0267,5.276
+Middle Eastern,156,pine nut,15,0.0962,0.0186,5.169
+Middle Eastern,156,cumin,32,0.2051,0.0436,4.708
+Middle Eastern,156,apricot,9,0.0577,0.0132,4.358
+Middle Eastern,156,feta,9,0.0577,0.0133,4.33
+Middle Eastern,156,cumin seed,18,0.1154,0.0282,4.098
+Middle Eastern,156,seed,5,0.0321,0.008,3.984
+Middle Eastern,156,frac,12,0.0769,0.0201,3.825
+Middle Eastern,156,coriander seed,8,0.0513,0.0139,3.687
+Middle Eastern,156,dill,13,0.0833,0.0253,3.293
+Middle Eastern,156,cucumber,16,0.1026,0.0326,3.147
+Middle Eastern,156,yogurt,8,0.0513,0.0189,2.708
+Middle Eastern,156,lemon,70,0.4487,0.1701,2.638
+Middle Eastern,156,basmati rice,6,0.0385,0.0146,2.638
+Middle Eastern,156,parsley,35,0.2244,0.0852,2.633
+Middle Eastern,156,extra virgin olive oil,17,0.109,0.0486,2.242
+Middle Eastern,156,red onion,28,0.1795,0.0805,2.229
+Middle Eastern,156,olive oil,89,0.5705,0.2644,2.158
+Middle Eastern,156,walnut,5,0.0321,0.0155,2.068
+Middle Eastern,156,beetroot,5,0.0321,0.0158,2.035
+Middle Eastern,156,cherry tomato,12,0.0769,0.0385,2.0
+Middle Eastern,156,orange,14,0.0897,0.0463,1.937
+Middle Eastern,156,sugar,12,0.0769,0.0403,1.909
+Middle Eastern,156,courgette,8,0.0513,0.0272,1.883
+Middle Eastern,156,coriander,35,0.2244,0.1194,1.879
+Middle Eastern,156,red pepper,13,0.0833,0.045,1.852
+Middle Eastern,156,lemon juice,12,0.0769,0.0421,1.829
+Middle Eastern,156,honey,15,0.0962,0.054,1.779
+Middle Eastern,156,cinnamon,20,0.1282,0.0726,1.765
+Middle Eastern,156,sesame seeds,6,0.0385,0.0222,1.732
+Middle Eastern,156,red chilli,13,0.0833,0.0515,1.617
+Middle Eastern,156,natural yogurt,5,0.0321,0.0201,1.594
+Middle Eastern,156,garlic,69,0.4423,0.2898,1.526
+Middle Eastern,156,tomato,22,0.141,0.0934,1.509
+Middle Eastern,156,spring onion,18,0.1154,0.0778,1.484
+Middle Eastern,156,chilli powder,5,0.0321,0.0221,1.449
+Middle Eastern,156,turmeric,7,0.0449,0.0313,1.432
+Middle Eastern,156,vegetable stock,8,0.0513,0.0397,1.291
+Middle Eastern,156,wine vinegar,12,0.0769,0.0609,1.263
+Middle Eastern,156,chilli flake,6,0.0385,0.031,1.241
+Middle Eastern,156,carrot,15,0.0962,0.0787,1.222
+Middle Eastern,156,onion,32,0.2051,0.1709,1.201
+Middle Eastern,156,spinach,7,0.0449,0.0377,1.19
+Middle Eastern,156,chicken stock,7,0.0449,0.0442,1.014
+Middle Eastern,156,rapeseed oil,7,0.0449,0.045,0.997
+Middle Eastern,156,tomato purée,6,0.0385,0.0431,0.893
+Middle Eastern,156,vegetable oil,6,0.0385,0.0744,0.517
+Middle Eastern,156,ginger,6,0.0385,0.0777,0.495
+Middle Eastern,156,golden caster sugar,6,0.0385,0.09,0.427
+Middle Eastern,156,egg,13,0.0833,0.234,0.356
+Middle Eastern,156,plain flour,8,0.0513,0.151,0.34
+Middle Eastern,156,butter,14,0.0897,0.2883,0.311
+Moroccan,116,ras-el-hanout,5,0.0431,0.0008,57.155
+Moroccan,116,harissa paste,16,0.1379,0.0033,42.207
+Moroccan,116,couscous,35,0.3017,0.0089,33.97
+Moroccan,116,harissa,17,0.1466,0.0055,26.499
+Moroccan,116,lamb chop,5,0.0431,0.0019,22.365
+Moroccan,116,ras el hanout,5,0.0431,0.002,21.433
+Moroccan,116,chickpea,39,0.3362,0.0237,14.178
+Moroccan,116,apricot,21,0.181,0.0132,13.674
+Moroccan,116,saffron,7,0.0603,0.005,12.003
+Moroccan,116,lamb,6,0.0517,0.0052,9.956
+Moroccan,116,green olives,5,0.0431,0.0049,8.719
+Moroccan,116,butternut squash,12,0.1034,0.0148,6.975
+Moroccan,116,cumin,34,0.2931,0.0436,6.727
+Moroccan,116,paprika,11,0.0948,0.015,6.322
+Moroccan,116,parsnip,7,0.0603,0.0107,5.626
+Moroccan,116,pine nut,11,0.0948,0.0186,5.098
+Moroccan,116,coriander seed,8,0.069,0.0139,4.958
+Moroccan,116,vegetable stock,22,0.1897,0.0397,4.775
+Moroccan,116,root ginger,6,0.0517,0.011,4.712
+Moroccan,116,feta cheese,5,0.0431,0.0093,4.634
+Moroccan,116,pomegranate seed,5,0.0431,0.0094,4.593
+Moroccan,116,cumin seed,14,0.1207,0.0282,4.287
+Moroccan,116,mint,29,0.25,0.0584,4.28
+Moroccan,116,chicken thigh,9,0.0776,0.0192,4.043
+Moroccan,116,almond,11,0.0948,0.0236,4.013
+Moroccan,116,cinnamon,33,0.2845,0.0726,3.916
+Moroccan,116,chicken stock,20,0.1724,0.0442,3.897
+Moroccan,116,greek yogurt,12,0.1034,0.0267,3.87
+Moroccan,116,natural yogurt,9,0.0776,0.0201,3.858
+Moroccan,116,coriander,52,0.4483,0.1194,3.754
+Moroccan,116,honey,22,0.1897,0.054,3.509
+Moroccan,116,red onion,31,0.2672,0.0805,3.319
+Moroccan,116,flaked almonds,6,0.0517,0.0168,3.086
+Moroccan,116,vegetable,5,0.0431,0.0148,2.906
+Moroccan,116,red pepper,15,0.1293,0.045,2.874
+Moroccan,116,chicken breast,11,0.0948,0.0331,2.865
+Moroccan,116,fennel seed,5,0.0431,0.0158,2.736
+Moroccan,116,olive oil,78,0.6724,0.2644,2.543
+Moroccan,116,courgette,8,0.069,0.0272,2.532
+Moroccan,116,lemon,48,0.4138,0.1701,2.433
+Moroccan,116,aubergine,5,0.0431,0.0186,2.317
+Moroccan,116,lemon juice,11,0.0948,0.0421,2.254
+Moroccan,116,cherry tomato,10,0.0862,0.0385,2.241
+Moroccan,116,onion,43,0.3707,0.1709,2.17
+Moroccan,116,ginger,19,0.1638,0.0777,2.109
+Moroccan,116,carrot,19,0.1638,0.0787,2.082
+Moroccan,116,tomato,22,0.1897,0.0934,2.03
+Moroccan,116,turmeric,7,0.0603,0.0313,1.926
+Moroccan,116,spinach,8,0.069,0.0377,1.829
+Moroccan,116,parsley,16,0.1379,0.0852,1.619
+Moroccan,116,garlic,53,0.4569,0.2898,1.576
+Moroccan,116,shallot,6,0.0517,0.0361,1.432
+Moroccan,116,chilli flake,5,0.0431,0.031,1.39
+Moroccan,116,wine vinegar,7,0.0603,0.0609,0.991
+Moroccan,116,sunflower oil,6,0.0517,0.055,0.941
+Moroccan,116,orange,5,0.0431,0.0463,0.93
+Moroccan,116,extra virgin olive oil,5,0.0431,0.0486,0.887
+Moroccan,116,potato,6,0.0517,0.0607,0.853
+Moroccan,116,spring onion,5,0.0431,0.0778,0.554
+Moroccan,116,butter,12,0.1034,0.2883,0.359
+Scottish,30,swede,5,0.1667,0.0043,39.0
+Scottish,30,parsley,6,0.2,0.0852,2.347
+Scottish,30,plain flour,9,0.3,0.151,1.987
+Scottish,30,butter,17,0.5667,0.2883,1.966
+Scottish,30,milk,5,0.1667,0.0856,1.948
+Scottish,30,egg,7,0.2333,0.234,0.997
+Scottish,30,olive oil,6,0.2,0.2644,0.757
+Spanish,158,chorizo sausage,7,0.0443,0.0009,48.066
+Spanish,158,paella rice,9,0.057,0.0014,39.987
+Spanish,158,serrano ham,5,0.0316,0.0009,34.333
+Spanish,158,cooking chorizo,11,0.0696,0.0023,29.673
+Spanish,158,chorizo,23,0.1456,0.007,20.93
+Spanish,158,squid,6,0.038,0.0021,18.128
+Spanish,158,saffron,13,0.0823,0.005,16.365
+Spanish,158,mussel,6,0.038,0.0031,12.248
+Spanish,158,sweet paprika,6,0.038,0.0032,11.926
+Spanish,158,sherry,12,0.0759,0.0069,11.053
+Spanish,158,sherry vinegar,14,0.0886,0.0087,10.168
+Spanish,158,baguette,5,0.0316,0.0046,6.867
+Spanish,158,prawn,14,0.0886,0.0146,6.077
+Spanish,158,smoked paprika,30,0.1899,0.0321,5.916
+Spanish,158,pepper,12,0.0759,0.0149,5.092
+Spanish,158,flat-leaf parsley,12,0.0759,0.0152,5.008
+Spanish,158,pea,6,0.038,0.009,4.235
+Spanish,158,chicken thigh,12,0.0759,0.0192,3.958
+Spanish,158,red pepper,28,0.1772,0.045,3.938
+Spanish,158,black olives,5,0.0316,0.0093,3.402
+Spanish,158,paprika,8,0.0506,0.015,3.376
+Spanish,158,bread,8,0.0506,0.0153,3.302
+Spanish,158,parsley,42,0.2658,0.0852,3.119
+Spanish,158,chicken stock,21,0.1329,0.0442,3.004
+Spanish,158,new potato,8,0.0506,0.02,2.528
+Spanish,158,tomato,37,0.2342,0.0934,2.506
+Spanish,158,peas,10,0.0633,0.0266,2.383
+Spanish,158,extra virgin olive oil,18,0.1139,0.0486,2.344
+Spanish,158,onion,61,0.3861,0.1709,2.26
+Spanish,158,white wine,9,0.057,0.0265,2.151
+Spanish,158,potato,20,0.1266,0.0607,2.087
+Spanish,158,olive oil,87,0.5506,0.2644,2.083
+Spanish,158,breadcrumbs,5,0.0316,0.0158,1.998
+Spanish,158,almond,7,0.0443,0.0236,1.875
+Spanish,158,chickpea,7,0.0443,0.0237,1.868
+Spanish,158,chilli flake,9,0.057,0.031,1.837
+Spanish,158,garlic,84,0.5316,0.2898,1.834
+Spanish,158,red wine,5,0.0316,0.0183,1.732
+Spanish,158,chicken,6,0.038,0.0223,1.704
+Spanish,158,bay,9,0.057,0.0342,1.666
+Spanish,158,rocket,5,0.0316,0.0204,1.548
+Spanish,158,rosemary,7,0.0443,0.0295,1.502
+Spanish,158,cherry tomato,9,0.057,0.0385,1.481
+Spanish,158,oregano,6,0.038,0.0256,1.481
+Spanish,158,turmeric,7,0.0443,0.0313,1.414
+Spanish,158,leek,6,0.038,0.0269,1.412
+Spanish,158,courgette,6,0.038,0.0272,1.394
+Spanish,158,whole milk,5,0.0316,0.0235,1.349
+Spanish,158,spinach,8,0.0506,0.0377,1.343
+Spanish,158,thyme,15,0.0949,0.0728,1.304
+Spanish,158,mayonnaise,5,0.0316,0.0247,1.28
+Spanish,158,sugar,8,0.0506,0.0403,1.256
+Spanish,158,red chilli,10,0.0633,0.0515,1.228
+Spanish,158,tomato purée,8,0.0506,0.0431,1.176
+Spanish,158,egg,43,0.2722,0.234,1.163
+Spanish,158,lemon,31,0.1962,0.1701,1.153
+Spanish,158,chicken breast,6,0.038,0.0331,1.147
+Spanish,158,wine vinegar,11,0.0696,0.0609,1.143
+Spanish,158,red onion,14,0.0886,0.0805,1.1
+Spanish,158,basil,8,0.0506,0.0478,1.06
+Spanish,158,lemon juice,7,0.0443,0.0421,1.053
+Spanish,158,sunflower oil,9,0.057,0.055,1.036
+Spanish,158,orange,7,0.0443,0.0463,0.956
+Spanish,158,cheddar,5,0.0316,0.0354,0.893
+Spanish,158,cinnamon,9,0.057,0.0726,0.784
+Spanish,158,double cream,10,0.0633,0.0865,0.732
+Spanish,158,caster sugar,10,0.0633,0.1005,0.63
+Spanish,158,coriander,10,0.0633,0.1194,0.53
+Spanish,158,vegetable oil,6,0.038,0.0744,0.51
+Spanish,158,plain flour,12,0.0759,0.151,0.503
+Spanish,158,carrot,6,0.038,0.0787,0.483
+Spanish,158,butter,20,0.1266,0.2883,0.439
+Spanish,158,golden caster sugar,6,0.038,0.09,0.422
+Spanish,158,spring onion,5,0.0316,0.0778,0.407
+Thai,155,thai green curry paste,15,0.0968,0.0018,54.995
+Thai,155,red thai curry paste,9,0.0581,0.0011,53.303
+Thai,155,thai red curry paste,22,0.1419,0.0027,52.933
+Thai,155,thai basil,13,0.0839,0.002,41.705
+Thai,155,galangal,9,0.0581,0.0014,40.761
+Thai,155,jasmine rice,10,0.0645,0.0018,36.664
+Thai,155,white peppercorn,5,0.0323,0.0009,34.997
+Thai,155,shrimp paste,5,0.0323,0.0009,34.997
+Thai,155,fish sauce,78,0.5032,0.0147,34.317
+Thai,155,rice noodle,7,0.0452,0.0013,33.685
+Thai,155,lemongrass,34,0.2194,0.007,31.54
+Thai,155,palm sugar,10,0.0645,0.0024,26.549
+Thai,155,beansprout,24,0.1548,0.0077,20.085
+Thai,155,rice noodles,11,0.071,0.0037,19.248
+Thai,155,coconut milk,55,0.3548,0.0215,16.542
+Thai,155,peanut,24,0.1548,0.0096,16.209
+Thai,155,coconut cream,11,0.071,0.0045,15.684
+Thai,155,tamarind paste,8,0.0516,0.0034,15.399
+Thai,155,lime juice,27,0.1742,0.0133,13.074
+Thai,155,green bean,8,0.0516,0.0042,12.319
+Thai,155,red chilly,22,0.1419,0.0122,11.682
+Thai,155,chilli sauce,18,0.1161,0.0111,10.499
+Thai,155,root ginger,17,0.1097,0.011,9.992
+Thai,155,egg noodles,5,0.0323,0.0034,9.624
+Thai,155,oyster sauce,6,0.0387,0.0043,9.058
+Thai,155,chilli,6,0.0387,0.0045,8.555
+Thai,155,pork,5,0.0323,0.0039,8.191
+Thai,155,lime,93,0.6,0.0737,8.146
+Thai,155,king prawn,11,0.071,0.0087,8.144
+Thai,155,pak choi,5,0.0323,0.004,8.02
+Thai,155,brown rice,5,0.0323,0.0048,6.754
+Thai,155,green chilly,7,0.0452,0.0075,6.056
+Thai,155,prawn,13,0.0839,0.0146,5.752
+Thai,155,red chilli,41,0.2645,0.0515,5.133
+Thai,155,coriander,93,0.6,0.1194,5.025
+Thai,155,light soy sauce,6,0.0387,0.0079,4.914
+Thai,155,green beans,9,0.0581,0.0129,4.5
+Thai,155,brown sugar,11,0.071,0.016,4.434
+Thai,155,basmati rice,10,0.0645,0.0146,4.425
+Thai,155,peanut butter,6,0.0387,0.0088,4.4
+Thai,155,chicken breast,22,0.1419,0.0331,4.288
+Thai,155,shallot,23,0.1484,0.0361,4.109
+Thai,155,pineapple,6,0.0387,0.0095,4.088
+Thai,155,salmon fillet,9,0.0581,0.0145,4.005
+Thai,155,soy sauce,21,0.1355,0.0345,3.924
+Thai,155,spring onion,47,0.3032,0.0778,3.899
+Thai,155,mango,6,0.0387,0.01,3.882
+Thai,155,gem lettuce,7,0.0452,0.0123,3.666
+Thai,155,vegetable,8,0.0516,0.0148,3.48
+Thai,155,vegetable oil,39,0.2516,0.0744,3.381
+Thai,155,coriander seed,7,0.0452,0.0139,3.247
+Thai,155,sugar,20,0.129,0.0403,3.201
+Thai,155,light muscovado sugar,11,0.071,0.0222,3.196
+Thai,155,chicken thigh,9,0.0581,0.0192,3.026
+Thai,155,sunflower oil,25,0.1613,0.055,2.934
+Thai,155,frac,9,0.0581,0.0201,2.887
+Thai,155,rice,7,0.0452,0.0158,2.867
+Thai,155,ginger,34,0.2194,0.0777,2.824
+Thai,155,sesame oil,9,0.0581,0.0208,2.794
+Thai,155,basil,19,0.1226,0.0478,2.566
+Thai,155,cucumber,12,0.0774,0.0326,2.375
+Thai,155,mint,21,0.1355,0.0584,2.32
+Thai,155,butternut squash,5,0.0323,0.0148,2.175
+Thai,155,aubergine,6,0.0387,0.0186,2.081
+Thai,155,chicken,7,0.0452,0.0223,2.026
+Thai,155,chicken stock,13,0.0839,0.0442,1.896
+Thai,155,broccoli,5,0.0323,0.0186,1.734
+Thai,155,red pepper,12,0.0774,0.045,1.721
+Thai,155,peas,7,0.0452,0.0266,1.7
+Thai,155,vegetable stock,10,0.0645,0.0397,1.624
+Thai,155,chilli powder,5,0.0323,0.0221,1.458
+Thai,155,sesame seeds,5,0.0323,0.0222,1.453
+Thai,155,garlic,65,0.4194,0.2898,1.447
+Thai,155,oil,5,0.0323,0.0263,1.226
+Thai,155,cherry tomato,6,0.0387,0.0385,1.006
+Thai,155,carrot,12,0.0774,0.0787,0.984
+Thai,155,spinach,5,0.0323,0.0377,0.855
+Thai,155,red onion,10,0.0645,0.0805,0.801
+Thai,155,cumin,5,0.0323,0.0436,0.74
+Thai,155,rapeseed oil,5,0.0323,0.045,0.717
+Thai,155,onion,17,0.1097,0.1709,0.642
+Thai,155,egg,21,0.1355,0.234,0.579
+Thai,155,olive oil,16,0.1032,0.2644,0.39
+Thai,155,caster sugar,5,0.0323,0.1005,0.321

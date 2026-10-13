@@ -1,0 +1,15 @@
+{
+  "raw_records": 11983,
+  "schema_valid": 11958,
+  "rejection_reasons": {
+    "ok": 11958,
+    "fewer_than_2_ingredient_phrases": 23,
+    "no_instructions": 2
+  },
+  "removed_duplicate_canonical_url": 24,
+  "removed_duplicate_content_signature": 0,
+  "titles_shared_by_multiple_recipes_kept": 8,
+  "final_unique_valid_recipes": 11934,
+  "target": 10000,
+  "target_met": true
+}

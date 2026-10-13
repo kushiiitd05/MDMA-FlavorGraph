@@ -1,0 +1,23 @@
+{
+  "graph_sanity_checks": {
+    "shape_recipes_x_ingredients": [
+      11934,
+      6346
+    ],
+    "all_entries_binary": true,
+    "row_sum_equals_recipe_size": true,
+    "col_sum_equals_ingredient_frequency": true,
+    "density": 0.0015210905489172484,
+    "nnz_edges": 115197
+  },
+  "cuisine": {
+    "n_recipes": 11934,
+    "n_with_cuisine_label": 6977,
+    "cuisine_label_coverage": 0.5846,
+    "n_distinct_cuisine_labels": 72,
+    "min_N_for_reporting": 30,
+    "n_cuisines_meeting_min_N": 21,
+    "note": "cuisine_raw is preserved exactly as BBC Good Food supplies it; no cuisine label was inferred or fabricated. Recipes without a label are counted as 'unavailable' and excluded from cuisine statistics, never imputed.",
+    "WARNING": "The global corpus mean is computed from ALL recipes directly, NOT by averaging cuisine means."
+  }
+}

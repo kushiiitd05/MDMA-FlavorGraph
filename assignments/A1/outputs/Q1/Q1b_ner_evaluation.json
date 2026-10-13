@@ -1,0 +1,105 @@
+{
+  "n_gold_phrases": 206,
+  "results": {
+    "rule_dictionary_baseline": {
+      "surface": {
+        "precision": 0.6085271317829457,
+        "recall": 0.6826086956521739,
+        "f1": 0.6434426229508196,
+        "exact_set_accuracy": 0.6116504854368932,
+        "tp": 157,
+        "fp": 101,
+        "fn": 73
+      },
+      "canonical": {
+        "precision": 0.8,
+        "recall": 0.8695652173913043,
+        "f1": 0.8333333333333333,
+        "exact_set_accuracy": 0.8155339805825242,
+        "tp": 200,
+        "fp": 50,
+        "fn": 30
+      }
+    },
+    "spacy_ner_cnn_tasteset": {
+      "surface": {
+        "precision": 0.6457399103139013,
+        "recall": 0.6260869565217392,
+        "f1": 0.6357615894039735,
+        "exact_set_accuracy": 0.587378640776699,
+        "tp": 144,
+        "fp": 79,
+        "fn": 86
+      },
+      "canonical": {
+        "precision": 0.8727272727272727,
+        "recall": 0.8347826086956521,
+        "f1": 0.8533333333333333,
+        "exact_set_accuracy": 0.8203883495145631,
+        "tp": 192,
+        "fp": 28,
+        "fn": 38
+      }
+    },
+    "hybrid_ner_plus_rules": {
+      "surface": {
+        "precision": 0.6462882096069869,
+        "recall": 0.6434782608695652,
+        "f1": 0.6448801742919389,
+        "exact_set_accuracy": 0.6019417475728155,
+        "tp": 148,
+        "fp": 81,
+        "fn": 82
+      },
+      "canonical": {
+        "precision": 0.8761061946902655,
+        "recall": 0.8608695652173913,
+        "f1": 0.8684210526315789,
+        "exact_set_accuracy": 0.8446601941747572,
+        "tp": 198,
+        "fp": 28,
+        "fn": 32
+      }
+    },
+    "spacy_ner_transformer_tasteset": {
+      "surface": {
+        "precision": 0.7457627118644068,
+        "recall": 0.7652173913043478,
+        "f1": 0.7553648068669528,
+        "exact_set_accuracy": 0.7233009708737864,
+        "tp": 176,
+        "fp": 60,
+        "fn": 54
+      },
+      "canonical": {
+        "precision": 0.8846153846153846,
+        "recall": 0.9,
+        "f1": 0.8922413793103449,
+        "exact_set_accuracy": 0.8640776699029126,
+        "tp": 207,
+        "fp": 27,
+        "fn": 23
+      }
+    },
+    "hybrid_transformer_plus_rules": {
+      "surface": {
+        "precision": 0.7468354430379747,
+        "recall": 0.7695652173913043,
+        "f1": 0.7580299785867237,
+        "exact_set_accuracy": 0.7281553398058253,
+        "tp": 177,
+        "fp": 60,
+        "fn": 53
+      },
+      "canonical": {
+        "precision": 0.8851063829787233,
+        "recall": 0.9043478260869565,
+        "f1": 0.8946236559139783,
+        "exact_set_accuracy": 0.8689320388349514,
+        "tp": 208,
+        "fp": 27,
+        "fn": 22
+      }
+    }
+  }
+}

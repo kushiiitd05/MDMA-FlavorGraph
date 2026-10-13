@@ -1,0 +1,232 @@
+{
+  "summary": {
+    "PASS": 45
+  },
+  "checks": [
+    {
+      "status": "PASS",
+      "check": "C1  >= 10,000 unique valid recipes",
+      "detail": "11934 valid (target 10000)"
+    },
+    {
+      "status": "PASS",
+      "check": "C2  no RecipeDB data anywhere",
+      "detail": "checked 11983 raw records; source = bbcgoodfood"
+    },
+    {
+      "status": "PASS",
+      "check": "C3  every recipe has a Recipe ID",
+      "detail": "11934 unique IDs"
+    },
+    {
+      "status": "PASS",
+      "check": "C4  every recipe has a source URL",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C5  raw titles preserved",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C6  raw ingredient phrases preserved",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C7  instructions preserved for every corpus recipe",
+      "detail": "final corpus: 0 without steps; 2 raw pages had no method section and were rejected by the corpus freeze (see C9)"
+    },
+    {
+      "status": "PASS",
+      "check": "C8  raw JSON-LD preserved verbatim",
+      "detail": "11983/11983 records keep raw_jsonld"
+    },
+    {
+      "status": "PASS",
+      "check": "C9  duplicate audit completed",
+      "detail": "url dupes 24, content dupes 0"
+    },
+    {
+      "status": "PASS",
+      "check": "C10 scrape failures logged",
+      "detail": "17 failures recorded"
+    },
+    {
+      "status": "PASS",
+      "check": "C11 NER evaluated on a human-annotated gold set",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C12 chosen approach beats the rule-only baseline",
+      "detail": "hybrid_transformer_plus_rules canonical F1 = 0.895 vs rules 0.833 on 206 phrases"
+    },
+    {
+      "status": "PASS",
+      "check": "C13 canonicalisation audit exists",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C14 human review gallery exists",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C15 Q1(c) table header is (Recipe ID)-(Ingredient Name)",
+      "detail": "['Recipe ID', 'Ingredient Name']"
+    },
+    {
+      "status": "PASS",
+      "check": "C16 Q1(c) rows all reference a known Recipe ID",
+      "detail": "115197 rows"
+    },
+    {
+      "status": "PASS",
+      "check": "C17 Q1(c) has no empty ingredient names",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C18 Q1(c) (recipe, ingredient) pairs are unique",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C19 0 <= f_i <= N for every ingredient",
+      "detail": "max f_i = 3459, N = 11934"
+    },
+    {
+      "status": "PASS",
+      "check": "C20 unique-ingredient count reproducible from the Q1(c) table",
+      "detail": "6346 distinct in Q1c vs 6346 in Q2a"
+    },
+    {
+      "status": "PASS",
+      "check": "C21 frequencies reproducible from the Q1(c) table",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C22 mean recipe size reproducible",
+      "detail": "recomputed 9.652841 -> 9.6528 vs stored 9.6528"
+    },
+    {
+      "status": "PASS",
+      "check": "C23 sum of size-histogram counts == N",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C24 0 <= F(s) <= 1",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C25 CDF monotonically non-decreasing",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C26 CDF reaches 1",
+      "detail": "final F = 1.000000"
+    },
+    {
+      "status": "PASS",
+      "check": "C27 CCDF monotonically non-increasing",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C28 rank-ordered frequencies are non-increasing",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C29 competition ranking: equal frequencies share a rank",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C30 incidence matrix is binary",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C31 row sum == recipe size",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C32 column sum == ingredient frequency",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C33 ingredient names contain no stray unit tokens",
+      "detail": "0 offenders [] (protected compounds such as 'gram flour' are exempt)"
+    },
+    {
+      "status": "PASS",
+      "check": "C34 ingredient names contain no digits/quantities",
+      "detail": "0 offenders"
+    },
+    {
+      "status": "PASS",
+      "check": "C35 no ingredient name longer than 4 tokens (sentence fragments)",
+      "detail": "0 offenders"
+    },
+    {
+      "status": "PASS",
+      "check": "C39 state invariant recipe_count(i,s) <= recipe_freq(i)",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C40 cooking transformations retained in the state layer",
+      "detail": "COOKING observations = 3787"
+    },
+    {
+      "status": "PASS",
+      "check": "C41 every state observation carries a category",
+      "detail": ""
+    },
+    {
+      "status": "PASS",
+      "check": "C42 graph: every edge endpoint is a declared node",
+      "detail": "30,246 nodes / 200,996 edges"
+    },
+    {
+      "status": "PASS",
+      "check": "C43 graph: each state node hangs off exactly one parent ingredient",
+      "detail": "11,828 state nodes"
+    },
+    {
+      "status": "PASS",
+      "check": "C44 graph: CONTAINS edges == Q1(c) table rows",
+      "detail": "115,197 vs 115,197"
+    },
+    {
+      "status": "PASS",
+      "check": "C45 graph: no cuisine invented (HAS_CUISINE == recipes with a label)",
+      "detail": "6,977 vs 6,977"
+    },
+    {
+      "status": "PASS",
+      "check": "C36 all required submission files exist",
+      "detail": "missing: []"
+    },
+    {
+      "status": "PASS",
+      "check": "C37 backup exists",
+      "detail": "8 items in backup/"
+    },
+    {
+      "status": "PASS",
+      "check": "C38 cuisine totals agree with corpus totals",
+      "detail": ""
+    }
+  ]
+}

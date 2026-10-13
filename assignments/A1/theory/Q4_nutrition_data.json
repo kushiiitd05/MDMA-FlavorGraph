@@ -1,0 +1,140 @@
+{
+  "source": "USDA FoodData Central, SR Legacy (public API)",
+  "retrieved_via": "https://api.nal.usda.gov/fdc/v1/food/{fdcId}",
+  "foods": {
+    "boiled_egg": {
+      "fdc_id": 173424,
+      "description": "Egg, whole, cooked, hard-boiled",
+      "data_type": "SR Legacy"
+    },
+    "cooked_rice": {
+      "fdc_id": 168878,
+      "description": "Rice, white, long-grain, regular, enriched, cooked",
+      "data_type": "SR Legacy"
+    },
+    "cooked_daal": {
+      "fdc_id": 172437,
+      "description": "Pigeon peas (red gram), mature seeds, cooked, boiled, without salt",
+      "data_type": "SR Legacy"
+    }
+  },
+  "serving_assumption": {
+    "boiled_egg_meal": "2 large eggs = 100 g edible portion",
+    "rice_daal_meal": "150 g cooked white rice + 150 g cooked toor (arhar) daal",
+    "note": "Serving sizes are a stated assumption, not a measured quantity."
+  },
+  "table": [
+    {
+      "nutrient": "Energy (kcal)",
+      "egg_per_100g": 155,
+      "rice_per_100g": 130,
+      "daal_per_100g": 121,
+      "serving_2_boiled_eggs_100g": 155.0,
+      "serving_rice150g_plus_daal150g": 376.5
+    },
+    {
+      "nutrient": "Protein (g)",
+      "egg_per_100g": 12.6,
+      "rice_per_100g": 2.69,
+      "daal_per_100g": 6.76,
+      "serving_2_boiled_eggs_100g": 12.6,
+      "serving_rice150g_plus_daal150g": 14.18
+    },
+    {
+      "nutrient": "Fat (g)",
+      "egg_per_100g": 10.6,
+      "rice_per_100g": 0.28,
+      "daal_per_100g": 0.38,
+      "serving_2_boiled_eggs_100g": 10.6,
+      "serving_rice150g_plus_daal150g": 0.99
+    },
+    {
+      "nutrient": "Carbohydrate (g)",
+      "egg_per_100g": 1.12,
+      "rice_per_100g": 28.2,
+      "daal_per_100g": 23.2,
+      "serving_2_boiled_eggs_100g": 1.12,
+      "serving_rice150g_plus_daal150g": 77.1
+    },
+    {
+      "nutrient": "Dietary fibre (g)",
+      "egg_per_100g": 0.0,
+      "rice_per_100g": 0.4,
+      "daal_per_100g": 6.7,
+      "serving_2_boiled_eggs_100g": 0.0,
+      "serving_rice150g_plus_daal150g": 10.65
+    },
+    {
+      "nutrient": "Calcium (mg)",
+      "egg_per_100g": 50.0,
+      "rice_per_100g": 10.0,
+      "daal_per_100g": 43.0,
+      "serving_2_boiled_eggs_100g": 50.0,
+      "serving_rice150g_plus_daal150g": 79.5
+    },
+    {
+      "nutrient": "Iron (mg)",
+      "egg_per_100g": 1.19,
+      "rice_per_100g": 1.2,
+      "daal_per_100g": 1.11,
+      "serving_2_boiled_eggs_100g": 1.19,
+      "serving_rice150g_plus_daal150g": 3.47
+    },
+    {
+      "nutrient": "Potassium (mg)",
+      "egg_per_100g": 126,
+      "rice_per_100g": 35.0,
+      "daal_per_100g": 384,
+      "serving_2_boiled_eggs_100g": 126.0,
+      "serving_rice150g_plus_daal150g": 628.5
+    },
+    {
+      "nutrient": "Zinc (mg)",
+      "egg_per_100g": 1.05,
+      "rice_per_100g": 0.49,
+      "daal_per_100g": 0.9,
+      "serving_2_boiled_eggs_100g": 1.05,
+      "serving_rice150g_plus_daal150g": 2.08
+    },
+    {
+      "nutrient": "Selenium (ug)",
+      "egg_per_100g": 30.8,
+      "rice_per_100g": 7.5,
+      "daal_per_100g": 2.9,
+      "serving_2_boiled_eggs_100g": 30.8,
+      "serving_rice150g_plus_daal150g": 15.6
+    },
+    {
+      "nutrient": "Folate (ug)",
+      "egg_per_100g": 44.0,
+      "rice_per_100g": 58.0,
+      "daal_per_100g": 111,
+      "serving_2_boiled_eggs_100g": 44.0,
+      "serving_rice150g_plus_daal150g": 253.5
+    },
+    {
+      "nutrient": "Vitamin B12 (ug)",
+      "egg_per_100g": 1.11,
+      "rice_per_100g": 0.0,
+      "daal_per_100g": 0.0,
+      "serving_2_boiled_eggs_100g": 1.11,
+      "serving_rice150g_plus_daal150g": 0.0
+    },
+    {
+      "nutrient": "Vitamin D (ug)",
+      "egg_per_100g": 2.2,
+      "rice_per_100g": 0.0,
+      "daal_per_100g": 0.0,
+      "serving_2_boiled_eggs_100g": 2.2,
+      "serving_rice150g_plus_daal150g": 0.0
+    },
+    {
+      "nutrient": "Choline (mg)",
+      "egg_per_100g": 294,
+      "rice_per_100g": 2.1,
+      "daal_per_100g": null,
+      "serving_2_boiled_eggs_100g": 294.0,
+      "serving_rice150g_plus_daal150g": null
+    }
+  ]
+}

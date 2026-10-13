@@ -1,0 +1,2513 @@
+{
+  "rule_dictionary_baseline": [
+    {
+      "text": "2 thyme sprigs, leaves stripped",
+      "gold": [
+        "thyme"
+      ],
+      "pred": [
+        "leaf",
+        "thyme"
+      ],
+      "missed": [],
+      "spurious": [
+        "leaf"
+      ]
+    },
+    {
+      "text": "2 tbsp  light soy sauce",
+      "gold": [
+        "soy sauce"
+      ],
+      "pred": [
+        "light soy sauce"
+      ],
+      "missed": [
+        "soy sauce"
+      ],
+      "spurious": [
+        "light soy sauce"
+      ]
+    },
+    {
+      "text": "200g full-fat cream cheese",
+      "gold": [
+        "cream cheese"
+      ],
+      "pred": [
+        "full-fat cream cheese"
+      ],
+      "missed": [
+        "cream cheese"
+      ],
+      "spurious": [
+        "full-fat cream cheese"
+      ]
+    },
+    {
+      "text": "20 glacé cherries halved",
+      "gold": [
+        "glace cherry"
+      ],
+      "pred": [
+        "glacé cherry"
+      ],
+      "missed": [
+        "glace cherry"
+      ],
+      "spurious": [
+        "glacé cherry"
+      ]
+    },
+    {
+      "text": "1 tsp each mixed spice ground ginger and grated nutmeg",
+      "gold": [
+        "ginger",
+        "nutmeg",
+        "spice"
+      ],
+      "pred": [
+        "nutmeg",
+        "spice ground ginger"
+      ],
+      "missed": [
+        "ginger",
+        "spice"
+      ],
+      "spurious": [
+        "spice ground ginger"
+      ]
+    },
+    {
+      "text": "200g strong wholemeal bread flour",
+      "gold": [
+        "wholemeal bread flour"
+      ],
+      "pred": [
+        "strong wholemeal bread flour"
+      ],
+      "missed": [
+        "wholemeal bread flour"
+      ],
+      "spurious": [
+        "strong wholemeal bread flour"
+      ]
+    },
+    {
+      "text": "½ small pack  coriander stems chopped, leaves reserved",
+      "gold": [
+        "coriander"
+      ],
+      "pred": [
+        "coriander",
+        "leaf"
+      ],
+      "missed": [],
+      "spurious": [
+        "leaf"
+      ]
+    },
+    {
+      "text": "juice 1/2 small lemon",
+      "gold": [
+        "lemon"
+      ],
+      "pred": [
+        "juice small lemon"
+      ],
+      "missed": [
+        "lemon"
+      ],
+      "spurious": [
+        "juice small lemon"
+      ]
+    },
+    {
+      "text": "2 fat  garlic cloves chopped",
+      "gold": [
+        "garlic"
+      ],
+      "pred": [
+        "fat garlic"
+      ],
+      "missed": [
+        "garlic"
+      ],
+      "spurious": [
+        "fat garlic"
+      ]
+    },
+    {
+      "text": "2½ tsp fine  sea salt",
+      "gold": [
+        "salt"
+      ],
+      "pred": [
+        "fine sea salt"
+      ],
+      "missed": [
+        "salt"
+      ],
+      "spurious": [
+        "fine sea salt"
+      ]
+    },
+    {
+      "text": "1 small courgette diced or cut into long strips approx ½ cm wide",
+      "gold": [
+        "courgette"
+      ],
+      "pred": [
+        "courgette",
+        "long strip approx wide"
+      ],
+      "missed": [],
+      "spurious": [
+        "long strip approx wide"
+      ]
+    },
+    {
+      "text": "650g side of  salmon skinned and pin-boned, cut crossways into 3cm slices, then cut in half lengthways to get thick fingers",
+      "gold": [
+        "salmon"
+      ],
+      "pred": [
+        "pin-boned",
+        "salmon"
+      ],
+      "missed": [],
+      "spurious": [
+        "pin-boned"
+      ]
+    },
+    {
+      "text": "oil for deep frying, (ideally light olive oil)",
+      "gold": [
+        "oil",
+        "olive oil"
+      ],
+      "pred": [
+        "oil"
+      ],
+      "missed": [
+        "olive oil"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "240g pack of 2 skinless salmon fillet",
+      "gold": [
+        "salmon fillet"
+      ],
+      "pred": [
+        "skinless salmon fillet"
+      ],
+      "missed": [
+        "salmon fillet"
+      ],
+      "spurious": [
+        "skinless salmon fillet"
+      ]
+    },
+    {
+      "text": "5 cardamom pods crushed with a rolling pin",
+      "gold": [
+        "cardamom pod"
+      ],
+      "pred": [
+        "cardamom pod crushed with rolling pin"
+      ],
+      "missed": [
+        "cardamom pod"
+      ],
+      "spurious": [
+        "cardamom pod crushed with rolling pin"
+      ]
+    },
+    {
+      "text": "juice 1/2 lemon",
+      "gold": [
+        "lemon"
+      ],
+      "pred": [
+        "juice lemon"
+      ],
+      "missed": [
+        "lemon"
+      ],
+      "spurious": [
+        "juice lemon"
+      ]
+    },
+    {
+      "text": "&frac12; tsp fine sea salt",
+      "gold": [
+        "salt"
+      ],
+      "pred": [
+        "fine sea salt"
+      ],
+      "missed": [
+        "salt"
+      ],
+      "spurious": [
+        "fine sea salt"
+      ]
+    },
+    {
+      "text": "1medium cauliflower weighing about 500g/1lb 2oz, broken into florets",
+      "gold": [
+        "cauliflower"
+      ],
+      "pred": [
+        "broken",
+        "cauliflower"
+      ],
+      "missed": [],
+      "spurious": [
+        "broken"
+      ]
+    },
+    {
+      "text": "400g squid cleaned and cut into strips (see tips, below)",
+      "gold": [
+        "squid"
+      ],
+      "pred": [
+        "squid cleaned"
+      ],
+      "missed": [
+        "squid"
+      ],
+      "spurious": [
+        "squid cleaned"
+      ]
+    },
+    {
+      "text": "100g jaggery or light muscovado sugar",
+      "gold": [
+        "jaggery",
+        "muscovado sugar"
+      ],
+      "pred": [
+        "jaggery",
+        "light muscovado sugar"
+      ],
+      "missed": [
+        "muscovado sugar"
+      ],
+      "spurious": [
+        "light muscovado sugar"
+      ]
+    },
+    {
+      "text": "6 pork sausages meat squeezed from the skins",
+      "gold": [
+        "pork sausage"
+      ],
+      "pred": [
+        "pork sausage meat"
+      ],
+      "missed": [
+        "pork sausage"
+      ],
+      "spurious": [
+        "pork sausage meat"
+      ]
+    },
+    {
+      "text": "4 tbsp fresh white breadcrumbs (or put 1 slice crustless white bread through a food processor)",
+      "gold": [
+        "white bread",
+        "white breadcrumbs"
+      ],
+      "pred": [
+        "white breadcrumbs"
+      ],
+      "missed": [
+        "white bread"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "600g  berries (strawberries, raspberries, blueberries and blackberries all work well), defrosted if frozen",
+      "gold": [
+        "berries"
+      ],
+      "pred": [
+        "berries",
+        "defrosted"
+      ],
+      "missed": [],
+      "spurious": [
+        "defrosted"
+      ]
+    },
+    {
+      "text": "800g mixed boneless game such as rabbit, venison, wild boar, pheasant, partridge or pigeon, finely chopped",
+      "gold": [
+        "game"
+      ],
+      "pred": [
+        "game",
+        "partridge",
+        "pheasant",
+        "pigeon",
+        "venison",
+        "wild boar"
+      ],
+      "missed": [],
+      "spurious": [
+        "partridge",
+        "pheasant",
+        "pigeon",
+        "venison",
+        "wild boar"
+      ]
+    },
+    {
+      "text": "1 quantity vanilla shortbread dough (see below), with the finely grated zest of 1 lemon added to the flour",
+      "gold": [
+        "vanilla shortbread dough"
+      ],
+      "pred": [
+        "vanilla shortbread dough",
+        "zest of lemon added"
+      ],
+      "missed": [],
+      "spurious": [
+        "zest of lemon added"
+      ]
+    },
+    {
+      "text": "1 pre-baked 22cm gluten-free and vegan pastry case or a 400g pack gluten-free, vegan shortcrust pastry, rolled out and baked in a 22cm pie dish following pack instructions",
+      "gold": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "pred": [
+        "baked",
+        "gluten-free",
+        "rolled out",
+        "vegan pastry case",
+        "vegan shortcrust pastry"
+      ],
+      "missed": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "spurious": [
+        "baked",
+        "gluten-free",
+        "rolled out",
+        "vegan pastry case",
+        "vegan shortcrust pastry"
+      ]
+    },
+    {
+      "text": "1 garlic bulb, broken into cloves, unpeeled",
+      "gold": [
+        "garlic"
+      ],
+      "pred": [
+        "broken",
+        "garlic",
+        "unpeeled"
+      ],
+      "missed": [],
+      "spurious": [
+        "broken",
+        "unpeeled"
+      ]
+    },
+    {
+      "text": "3 meringues shells, either bought or homemade, broken into large pieces",
+      "gold": [
+        "meringue"
+      ],
+      "pred": [
+        "broken",
+        "meringue shell"
+      ],
+      "missed": [
+        "meringue"
+      ],
+      "spurious": [
+        "broken",
+        "meringue shell"
+      ]
+    },
+    {
+      "text": "4 large potatoes (around 500g), 3 peeled and cubed, 1 left whole with skin on",
+      "gold": [
+        "potato"
+      ],
+      "pred": [
+        "potato",
+        "skin"
+      ],
+      "missed": [],
+      "spurious": [
+        "skin"
+      ]
+    },
+    {
+      "text": "1-2 tbsp  rapeseed or sunflower oil",
+      "gold": [
+        "rapeseed oil",
+        "sunflower oil"
+      ],
+      "pred": [
+        "rapeseed",
+        "sunflower oil"
+      ],
+      "missed": [
+        "rapeseed oil"
+      ],
+      "spurious": [
+        "rapeseed"
+      ]
+    },
+    {
+      "text": "4-6  short  asparagus spears",
+      "gold": [
+        "asparagus"
+      ],
+      "pred": [
+        "short asparagus spear"
+      ],
+      "missed": [
+        "asparagus"
+      ],
+      "spurious": [
+        "short asparagus spear"
+      ]
+    },
+    {
+      "text": "few drops peppermint essence or extract",
+      "gold": [
+        "peppermint essence"
+      ],
+      "pred": [
+        "drop peppermint essence",
+        "extract"
+      ],
+      "missed": [
+        "peppermint essence"
+      ],
+      "spurious": [
+        "drop peppermint essence",
+        "extract"
+      ]
+    },
+    {
+      "text": "thumb-sized piece of ginger crushed or 1 tbsp ginger purée",
+      "gold": [
+        "ginger",
+        "ginger puree"
+      ],
+      "pred": [
+        "ginger purée",
+        "thumb-sized of ginger"
+      ],
+      "missed": [
+        "ginger",
+        "ginger puree"
+      ],
+      "spurious": [
+        "ginger purée",
+        "thumb-sized of ginger"
+      ]
+    },
+    {
+      "text": "zest and juice 1  lime",
+      "gold": [
+        "lime"
+      ],
+      "pred": [
+        "juice lime",
+        "zest"
+      ],
+      "missed": [
+        "lime"
+      ],
+      "spurious": [
+        "juice lime",
+        "zest"
+      ]
+    },
+    {
+      "text": "1 red or white onion or 4 spring onions, chopped",
+      "gold": [
+        "red onion",
+        "spring onion",
+        "white onion"
+      ],
+      "pred": [
+        "red",
+        "spring onion",
+        "white onion"
+      ],
+      "missed": [
+        "red onion"
+      ],
+      "spurious": [
+        "red"
+      ]
+    },
+    {
+      "text": "400g fusilli lunghi or other pasta spirals",
+      "gold": [
+        "fusilli lunghi"
+      ],
+      "pred": [
+        "fusilli lunghi",
+        "pasta spiral"
+      ],
+      "missed": [],
+      "spurious": [
+        "pasta spiral"
+      ]
+    },
+    {
+      "text": "red icing or edible red glitter, to decorate (optional)",
+      "gold": [
+        "red glitter",
+        "red icing"
+      ],
+      "pred": [
+        "edible red glitter",
+        "red icing"
+      ],
+      "missed": [
+        "red glitter"
+      ],
+      "spurious": [
+        "edible red glitter"
+      ]
+    },
+    {
+      "text": "1kg bone-in Welsh lamb neck or shoulder",
+      "gold": [
+        "lamb"
+      ],
+      "pred": [
+        "shoulder",
+        "welsh lamb neck"
+      ],
+      "missed": [
+        "lamb"
+      ],
+      "spurious": [
+        "shoulder",
+        "welsh lamb neck"
+      ]
+    }
+  ],
+  "spacy_ner_cnn_tasteset": [
+    {
+      "text": "20 glacé cherries halved",
+      "gold": [
+        "glace cherry"
+      ],
+      "pred": [
+        "glacé cherry"
+      ],
+      "missed": [
+        "glace cherry"
+      ],
+      "spurious": [
+        "glacé cherry"
+      ]
+    },
+    {
+      "text": "1 tsp each mixed spice ground ginger and grated nutmeg",
+      "gold": [
+        "ginger",
+        "nutmeg",
+        "spice"
+      ],
+      "pred": [
+        "nutmeg"
+      ],
+      "missed": [
+        "ginger",
+        "spice"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "2 free range organic  egg yolks",
+      "gold": [
+        "egg yolk"
+      ],
+      "pred": [],
+      "missed": [
+        "egg yolk"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "225g unsalted butter plus extra",
+      "gold": [
+        "butter"
+      ],
+      "pred": [],
+      "missed": [
+        "butter"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "½ small pack  coriander stems chopped, leaves reserved",
+      "gold": [
+        "coriander"
+      ],
+      "pred": [
+        "coriander stem"
+      ],
+      "missed": [
+        "coriander"
+      ],
+      "spurious": [
+        "coriander stem"
+      ]
+    },
+    {
+      "text": "½ tsp chilli flakes or crumble one dried chilli into pieces",
+      "gold": [
+        "chilli",
+        "chilli flake"
+      ],
+      "pred": [
+        "chilli flake"
+      ],
+      "missed": [
+        "chilli"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "5 cardamom pods shelled and crushed",
+      "gold": [
+        "cardamom pod"
+      ],
+      "pred": [
+        "cardamom"
+      ],
+      "missed": [
+        "cardamom pod"
+      ],
+      "spurious": [
+        "cardamom"
+      ]
+    },
+    {
+      "text": "oil for deep frying, (ideally light olive oil)",
+      "gold": [
+        "oil",
+        "olive oil"
+      ],
+      "pred": [
+        "oil"
+      ],
+      "missed": [
+        "olive oil"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "240g pack of 2 skinless salmon fillet",
+      "gold": [
+        "salmon fillet"
+      ],
+      "pred": [
+        "salmon"
+      ],
+      "missed": [
+        "salmon fillet"
+      ],
+      "spurious": [
+        "salmon"
+      ]
+    },
+    {
+      "text": "5 cardamom pods crushed with a rolling pin",
+      "gold": [
+        "cardamom pod"
+      ],
+      "pred": [
+        "cardamom",
+        "rolling pin"
+      ],
+      "missed": [
+        "cardamom pod"
+      ],
+      "spurious": [
+        "cardamom",
+        "rolling pin"
+      ]
+    },
+    {
+      "text": "crusty bread or mashed potato, to serve (optional)",
+      "gold": [
+        "crusty bread",
+        "potato"
+      ],
+      "pred": [
+        "bread",
+        "potato"
+      ],
+      "missed": [
+        "crusty bread"
+      ],
+      "spurious": [
+        "bread"
+      ]
+    },
+    {
+      "text": "handful each of Thai basil and coriander",
+      "gold": [
+        "coriander",
+        "thai basil"
+      ],
+      "pred": [],
+      "missed": [
+        "coriander",
+        "thai basil"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "slice of  orange and a cherry on a stick",
+      "gold": [
+        "cherry",
+        "orange"
+      ],
+      "pred": [
+        "cherry"
+      ],
+      "missed": [
+        "orange"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "350g ready-roll icing",
+      "gold": [
+        "ready-roll icing"
+      ],
+      "pred": [],
+      "missed": [
+        "ready-roll icing"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "200g light brown soft sugar",
+      "gold": [
+        "light brown soft sugar"
+      ],
+      "pred": [],
+      "missed": [
+        "light brown soft sugar"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "1 ½ tbsp extra-virgin olive oil",
+      "gold": [
+        "extra virgin olive oil"
+      ],
+      "pred": [
+        "olive oil"
+      ],
+      "missed": [
+        "extra virgin olive oil"
+      ],
+      "spurious": [
+        "olive oil"
+      ]
+    },
+    {
+      "text": "100g jaggery or light muscovado sugar",
+      "gold": [
+        "jaggery",
+        "muscovado sugar"
+      ],
+      "pred": [
+        "jaggery",
+        "light muscovado sugar"
+      ],
+      "missed": [
+        "muscovado sugar"
+      ],
+      "spurious": [
+        "light muscovado sugar"
+      ]
+    },
+    {
+      "text": "6 pork sausages meat squeezed from the skins",
+      "gold": [
+        "pork sausage"
+      ],
+      "pred": [
+        "pork sausage meat"
+      ],
+      "missed": [
+        "pork sausage"
+      ],
+      "spurious": [
+        "pork sausage meat"
+      ]
+    },
+    {
+      "text": "4 tbsp fresh white breadcrumbs (or put 1 slice crustless white bread through a food processor)",
+      "gold": [
+        "white bread",
+        "white breadcrumbs"
+      ],
+      "pred": [
+        "white breadcrumbs"
+      ],
+      "missed": [
+        "white bread"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "250g assorted sliced cured meats (we used a mixture of salami, garlic sausage and Bayonne ham, but sliced gammon or Parma ham also works well)",
+      "gold": [
+        "cured meat"
+      ],
+      "pred": [
+        "meat"
+      ],
+      "missed": [
+        "cured meat"
+      ],
+      "spurious": [
+        "meat"
+      ]
+    },
+    {
+      "text": "800g mixed boneless game such as rabbit, venison, wild boar, pheasant, partridge or pigeon, finely chopped",
+      "gold": [
+        "game"
+      ],
+      "pred": [
+        "pigeon"
+      ],
+      "missed": [
+        "game"
+      ],
+      "spurious": [
+        "pigeon"
+      ]
+    },
+    {
+      "text": "1 pre-baked 22cm gluten-free and vegan pastry case or a 400g pack gluten-free, vegan shortcrust pastry, rolled out and baked in a 22cm pie dish following pack instructions",
+      "gold": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "pred": [
+        "gluten-free and vegan pastry case"
+      ],
+      "missed": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "spurious": [
+        "gluten-free and vegan pastry case"
+      ]
+    },
+    {
+      "text": "slice wholegrain seeded bread or rye, or wholegrain pitta, to serve",
+      "gold": [
+        "rye",
+        "wholegrain pitta",
+        "wholegrain seeded bread"
+      ],
+      "pred": [
+        "bread",
+        "rye",
+        "wholegrain",
+        "wholegrain pitta"
+      ],
+      "missed": [
+        "wholegrain seeded bread"
+      ],
+      "spurious": [
+        "bread",
+        "wholegrain"
+      ]
+    },
+    {
+      "text": "500g/1lb 2oz pumpkin or squash, peeled, deseeded and cut into large chunks",
+      "gold": [
+        "pumpkin",
+        "squash"
+      ],
+      "pred": [
+        "pumpkin"
+      ],
+      "missed": [
+        "squash"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "3 meringues shells, either bought or homemade, broken into large pieces",
+      "gold": [
+        "meringue"
+      ],
+      "pred": [
+        "meringue shell"
+      ],
+      "missed": [
+        "meringue"
+      ],
+      "spurious": [
+        "meringue shell"
+      ]
+    },
+    {
+      "text": "1-2 tbsp  rapeseed or sunflower oil",
+      "gold": [
+        "rapeseed oil",
+        "sunflower oil"
+      ],
+      "pred": [
+        "rapeseed",
+        "sunflower oil"
+      ],
+      "missed": [
+        "rapeseed oil"
+      ],
+      "spurious": [
+        "rapeseed"
+      ]
+    },
+    {
+      "text": "2-3 tbsp vegetable oil plus 1 tsp for the marinade",
+      "gold": [
+        "vegetable oil"
+      ],
+      "pred": [
+        "marinade",
+        "vegetable oil"
+      ],
+      "missed": [],
+      "spurious": [
+        "marinade"
+      ]
+    },
+    {
+      "text": "4-6  short  asparagus spears",
+      "gold": [
+        "asparagus"
+      ],
+      "pred": [
+        "asparagus spear"
+      ],
+      "missed": [
+        "asparagus"
+      ],
+      "spurious": [
+        "asparagus spear"
+      ]
+    },
+    {
+      "text": "few drops peppermint essence or extract",
+      "gold": [
+        "peppermint essence"
+      ],
+      "pred": [
+        "extract",
+        "peppermint essence"
+      ],
+      "missed": [],
+      "spurious": [
+        "extract"
+      ]
+    },
+    {
+      "text": "thumb-sized piece of ginger crushed or 1 tbsp ginger purée",
+      "gold": [
+        "ginger",
+        "ginger puree"
+      ],
+      "pred": [
+        "ginger purée"
+      ],
+      "missed": [
+        "ginger",
+        "ginger puree"
+      ],
+      "spurious": [
+        "ginger purée"
+      ]
+    },
+    {
+      "text": "zest and juice 1  lime",
+      "gold": [
+        "lime"
+      ],
+      "pred": [
+        "lime",
+        "zest and juice"
+      ],
+      "missed": [],
+      "spurious": [
+        "zest and juice"
+      ]
+    },
+    {
+      "text": "1 red or white onion or 4 spring onions, chopped",
+      "gold": [
+        "red onion",
+        "spring onion",
+        "white onion"
+      ],
+      "pred": [
+        "red",
+        "spring onion",
+        "white onion"
+      ],
+      "missed": [
+        "red onion"
+      ],
+      "spurious": [
+        "red"
+      ]
+    },
+    {
+      "text": "400g fusilli lunghi or other pasta spirals",
+      "gold": [
+        "fusilli lunghi"
+      ],
+      "pred": [
+        "fusilli",
+        "pasta spiral"
+      ],
+      "missed": [
+        "fusilli lunghi"
+      ],
+      "spurious": [
+        "fusilli",
+        "pasta spiral"
+      ]
+    },
+    {
+      "text": "red icing or edible red glitter, to decorate (optional)",
+      "gold": [
+        "red glitter",
+        "red icing"
+      ],
+      "pred": [
+        "edible red glitter",
+        "red icing"
+      ],
+      "missed": [
+        "red glitter"
+      ],
+      "spurious": [
+        "edible red glitter"
+      ]
+    },
+    {
+      "text": "1kg bone-in Welsh lamb neck or shoulder",
+      "gold": [
+        "lamb"
+      ],
+      "pred": [
+        "welsh lamb neck or shoulder"
+      ],
+      "missed": [
+        "lamb"
+      ],
+      "spurious": [
+        "welsh lamb neck or shoulder"
+      ]
+    },
+    {
+      "text": "coconut ice cream or double cream",
+      "gold": [
+        "double cream",
+        "ice cream"
+      ],
+      "pred": [
+        "ice cream"
+      ],
+      "missed": [
+        "double cream"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "2 tbsp extra-thick  double cream",
+      "gold": [
+        "double cream"
+      ],
+      "pred": [
+        "cream"
+      ],
+      "missed": [
+        "double cream"
+      ],
+      "spurious": [
+        "cream"
+      ]
+    }
+  ],
+  "hybrid_ner_plus_rules": [
+    {
+      "text": "20 glacé cherries halved",
+      "gold": [
+        "glace cherry"
+      ],
+      "pred": [
+        "glacé cherry"
+      ],
+      "missed": [
+        "glace cherry"
+      ],
+      "spurious": [
+        "glacé cherry"
+      ]
+    },
+    {
+      "text": "1 tsp each mixed spice ground ginger and grated nutmeg",
+      "gold": [
+        "ginger",
+        "nutmeg",
+        "spice"
+      ],
+      "pred": [
+        "nutmeg"
+      ],
+      "missed": [
+        "ginger",
+        "spice"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "½ small pack  coriander stems chopped, leaves reserved",
+      "gold": [
+        "coriander"
+      ],
+      "pred": [
+        "coriander stem"
+      ],
+      "missed": [
+        "coriander"
+      ],
+      "spurious": [
+        "coriander stem"
+      ]
+    },
+    {
+      "text": "½ tsp chilli flakes or crumble one dried chilli into pieces",
+      "gold": [
+        "chilli",
+        "chilli flake"
+      ],
+      "pred": [
+        "chilli flake"
+      ],
+      "missed": [
+        "chilli"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "5 cardamom pods shelled and crushed",
+      "gold": [
+        "cardamom pod"
+      ],
+      "pred": [
+        "cardamom"
+      ],
+      "missed": [
+        "cardamom pod"
+      ],
+      "spurious": [
+        "cardamom"
+      ]
+    },
+    {
+      "text": "oil for deep frying, (ideally light olive oil)",
+      "gold": [
+        "oil",
+        "olive oil"
+      ],
+      "pred": [
+        "oil"
+      ],
+      "missed": [
+        "olive oil"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "240g pack of 2 skinless salmon fillet",
+      "gold": [
+        "salmon fillet"
+      ],
+      "pred": [
+        "salmon"
+      ],
+      "missed": [
+        "salmon fillet"
+      ],
+      "spurious": [
+        "salmon"
+      ]
+    },
+    {
+      "text": "5 cardamom pods crushed with a rolling pin",
+      "gold": [
+        "cardamom pod"
+      ],
+      "pred": [
+        "cardamom",
+        "rolling pin"
+      ],
+      "missed": [
+        "cardamom pod"
+      ],
+      "spurious": [
+        "cardamom",
+        "rolling pin"
+      ]
+    },
+    {
+      "text": "crusty bread or mashed potato, to serve (optional)",
+      "gold": [
+        "crusty bread",
+        "potato"
+      ],
+      "pred": [
+        "bread",
+        "potato"
+      ],
+      "missed": [
+        "crusty bread"
+      ],
+      "spurious": [
+        "bread"
+      ]
+    },
+    {
+      "text": "slice of  orange and a cherry on a stick",
+      "gold": [
+        "cherry",
+        "orange"
+      ],
+      "pred": [
+        "cherry"
+      ],
+      "missed": [
+        "orange"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "1 ½ tbsp extra-virgin olive oil",
+      "gold": [
+        "extra virgin olive oil"
+      ],
+      "pred": [
+        "olive oil"
+      ],
+      "missed": [
+        "extra virgin olive oil"
+      ],
+      "spurious": [
+        "olive oil"
+      ]
+    },
+    {
+      "text": "100g jaggery or light muscovado sugar",
+      "gold": [
+        "jaggery",
+        "muscovado sugar"
+      ],
+      "pred": [
+        "jaggery",
+        "light muscovado sugar"
+      ],
+      "missed": [
+        "muscovado sugar"
+      ],
+      "spurious": [
+        "light muscovado sugar"
+      ]
+    },
+    {
+      "text": "6 pork sausages meat squeezed from the skins",
+      "gold": [
+        "pork sausage"
+      ],
+      "pred": [
+        "pork sausage meat"
+      ],
+      "missed": [
+        "pork sausage"
+      ],
+      "spurious": [
+        "pork sausage meat"
+      ]
+    },
+    {
+      "text": "4 tbsp fresh white breadcrumbs (or put 1 slice crustless white bread through a food processor)",
+      "gold": [
+        "white bread",
+        "white breadcrumbs"
+      ],
+      "pred": [
+        "white breadcrumbs"
+      ],
+      "missed": [
+        "white bread"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "250g assorted sliced cured meats (we used a mixture of salami, garlic sausage and Bayonne ham, but sliced gammon or Parma ham also works well)",
+      "gold": [
+        "cured meat"
+      ],
+      "pred": [
+        "meat"
+      ],
+      "missed": [
+        "cured meat"
+      ],
+      "spurious": [
+        "meat"
+      ]
+    },
+    {
+      "text": "800g mixed boneless game such as rabbit, venison, wild boar, pheasant, partridge or pigeon, finely chopped",
+      "gold": [
+        "game"
+      ],
+      "pred": [
+        "pigeon"
+      ],
+      "missed": [
+        "game"
+      ],
+      "spurious": [
+        "pigeon"
+      ]
+    },
+    {
+      "text": "1 pre-baked 22cm gluten-free and vegan pastry case or a 400g pack gluten-free, vegan shortcrust pastry, rolled out and baked in a 22cm pie dish following pack instructions",
+      "gold": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "pred": [
+        "gluten-free and vegan pastry case"
+      ],
+      "missed": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "spurious": [
+        "gluten-free and vegan pastry case"
+      ]
+    },
+    {
+      "text": "slice wholegrain seeded bread or rye, or wholegrain pitta, to serve",
+      "gold": [
+        "rye",
+        "wholegrain pitta",
+        "wholegrain seeded bread"
+      ],
+      "pred": [
+        "bread",
+        "rye",
+        "wholegrain",
+        "wholegrain pitta"
+      ],
+      "missed": [
+        "wholegrain seeded bread"
+      ],
+      "spurious": [
+        "bread",
+        "wholegrain"
+      ]
+    },
+    {
+      "text": "500g/1lb 2oz pumpkin or squash, peeled, deseeded and cut into large chunks",
+      "gold": [
+        "pumpkin",
+        "squash"
+      ],
+      "pred": [
+        "pumpkin"
+      ],
+      "missed": [
+        "squash"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "3 meringues shells, either bought or homemade, broken into large pieces",
+      "gold": [
+        "meringue"
+      ],
+      "pred": [
+        "meringue shell"
+      ],
+      "missed": [
+        "meringue"
+      ],
+      "spurious": [
+        "meringue shell"
+      ]
+    },
+    {
+      "text": "1-2 tbsp  rapeseed or sunflower oil",
+      "gold": [
+        "rapeseed oil",
+        "sunflower oil"
+      ],
+      "pred": [
+        "rapeseed",
+        "sunflower oil"
+      ],
+      "missed": [
+        "rapeseed oil"
+      ],
+      "spurious": [
+        "rapeseed"
+      ]
+    },
+    {
+      "text": "2-3 tbsp vegetable oil plus 1 tsp for the marinade",
+      "gold": [
+        "vegetable oil"
+      ],
+      "pred": [
+        "marinade",
+        "vegetable oil"
+      ],
+      "missed": [],
+      "spurious": [
+        "marinade"
+      ]
+    },
+    {
+      "text": "4-6  short  asparagus spears",
+      "gold": [
+        "asparagus"
+      ],
+      "pred": [
+        "asparagus spear"
+      ],
+      "missed": [
+        "asparagus"
+      ],
+      "spurious": [
+        "asparagus spear"
+      ]
+    },
+    {
+      "text": "few drops peppermint essence or extract",
+      "gold": [
+        "peppermint essence"
+      ],
+      "pred": [
+        "extract",
+        "peppermint essence"
+      ],
+      "missed": [],
+      "spurious": [
+        "extract"
+      ]
+    },
+    {
+      "text": "thumb-sized piece of ginger crushed or 1 tbsp ginger purée",
+      "gold": [
+        "ginger",
+        "ginger puree"
+      ],
+      "pred": [
+        "ginger purée"
+      ],
+      "missed": [
+        "ginger",
+        "ginger puree"
+      ],
+      "spurious": [
+        "ginger purée"
+      ]
+    },
+    {
+      "text": "zest and juice 1  lime",
+      "gold": [
+        "lime"
+      ],
+      "pred": [
+        "lime",
+        "zest and juice"
+      ],
+      "missed": [],
+      "spurious": [
+        "zest and juice"
+      ]
+    },
+    {
+      "text": "1 red or white onion or 4 spring onions, chopped",
+      "gold": [
+        "red onion",
+        "spring onion",
+        "white onion"
+      ],
+      "pred": [
+        "red",
+        "spring onion",
+        "white onion"
+      ],
+      "missed": [
+        "red onion"
+      ],
+      "spurious": [
+        "red"
+      ]
+    },
+    {
+      "text": "400g fusilli lunghi or other pasta spirals",
+      "gold": [
+        "fusilli lunghi"
+      ],
+      "pred": [
+        "fusilli",
+        "pasta spiral"
+      ],
+      "missed": [
+        "fusilli lunghi"
+      ],
+      "spurious": [
+        "fusilli",
+        "pasta spiral"
+      ]
+    },
+    {
+      "text": "red icing or edible red glitter, to decorate (optional)",
+      "gold": [
+        "red glitter",
+        "red icing"
+      ],
+      "pred": [
+        "edible red glitter",
+        "red icing"
+      ],
+      "missed": [
+        "red glitter"
+      ],
+      "spurious": [
+        "edible red glitter"
+      ]
+    },
+    {
+      "text": "1kg bone-in Welsh lamb neck or shoulder",
+      "gold": [
+        "lamb"
+      ],
+      "pred": [
+        "welsh lamb neck or shoulder"
+      ],
+      "missed": [
+        "lamb"
+      ],
+      "spurious": [
+        "welsh lamb neck or shoulder"
+      ]
+    },
+    {
+      "text": "coconut ice cream or double cream",
+      "gold": [
+        "double cream",
+        "ice cream"
+      ],
+      "pred": [
+        "ice cream"
+      ],
+      "missed": [
+        "double cream"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "2 tbsp extra-thick  double cream",
+      "gold": [
+        "double cream"
+      ],
+      "pred": [
+        "cream"
+      ],
+      "missed": [
+        "double cream"
+      ],
+      "spurious": [
+        "cream"
+      ]
+    }
+  ],
+  "spacy_ner_transformer_tasteset": [
+    {
+      "text": "20 glacé cherries halved",
+      "gold": [
+        "glace cherry"
+      ],
+      "pred": [
+        "cherry"
+      ],
+      "missed": [
+        "glace cherry"
+      ],
+      "spurious": [
+        "cherry"
+      ]
+    },
+    {
+      "text": "1 tsp each mixed spice ground ginger and grated nutmeg",
+      "gold": [
+        "ginger",
+        "nutmeg",
+        "spice"
+      ],
+      "pred": [
+        "nutmeg",
+        "spice ground ginger"
+      ],
+      "missed": [
+        "ginger",
+        "spice"
+      ],
+      "spurious": [
+        "spice ground ginger"
+      ]
+    },
+    {
+      "text": "cooked couscous or basmati rice, to serve",
+      "gold": [
+        "basmati rice",
+        "couscous"
+      ],
+      "pred": [
+        "couscous or basmati rice"
+      ],
+      "missed": [
+        "basmati rice",
+        "couscous"
+      ],
+      "spurious": [
+        "couscous or basmati rice"
+      ]
+    },
+    {
+      "text": "juice 1/2 small lemon",
+      "gold": [
+        "lemon"
+      ],
+      "pred": [
+        "juice",
+        "lemon"
+      ],
+      "missed": [],
+      "spurious": [
+        "juice"
+      ]
+    },
+    {
+      "text": "oil for deep frying, (ideally light olive oil)",
+      "gold": [
+        "oil",
+        "olive oil"
+      ],
+      "pred": [
+        "oil"
+      ],
+      "missed": [
+        "olive oil"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "2 leeks thinly sliced",
+      "gold": [
+        "leek"
+      ],
+      "pred": [],
+      "missed": [
+        "leek"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "crusty bread or mashed potato, to serve (optional)",
+      "gold": [
+        "crusty bread",
+        "potato"
+      ],
+      "pred": [
+        "bread",
+        "potato"
+      ],
+      "missed": [
+        "crusty bread"
+      ],
+      "spurious": [
+        "bread"
+      ]
+    },
+    {
+      "text": "1 large or 2 medium tart eating  apples",
+      "gold": [
+        "eating apple"
+      ],
+      "pred": [
+        "apple"
+      ],
+      "missed": [
+        "eating apple"
+      ],
+      "spurious": [
+        "apple"
+      ]
+    },
+    {
+      "text": "juice 1/2 lemon",
+      "gold": [
+        "lemon"
+      ],
+      "pred": [
+        "juice",
+        "lemon"
+      ],
+      "missed": [],
+      "spurious": [
+        "juice"
+      ]
+    },
+    {
+      "text": "&frac12; tsp fine sea salt",
+      "gold": [
+        "salt"
+      ],
+      "pred": [
+        "frac",
+        "salt"
+      ],
+      "missed": [],
+      "spurious": [
+        "frac"
+      ]
+    },
+    {
+      "text": "slice of  orange and a cherry on a stick",
+      "gold": [
+        "cherry",
+        "orange"
+      ],
+      "pred": [
+        "orange"
+      ],
+      "missed": [
+        "cherry"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "350g ready-roll icing",
+      "gold": [
+        "ready-roll icing"
+      ],
+      "pred": [
+        "icing",
+        "ready-roll"
+      ],
+      "missed": [
+        "ready-roll icing"
+      ],
+      "spurious": [
+        "icing",
+        "ready-roll"
+      ]
+    },
+    {
+      "text": "200g light brown soft sugar",
+      "gold": [
+        "light brown soft sugar"
+      ],
+      "pred": [
+        "brown soft sugar"
+      ],
+      "missed": [
+        "light brown soft sugar"
+      ],
+      "spurious": [
+        "brown soft sugar"
+      ]
+    },
+    {
+      "text": "1 ½ tbsp extra-virgin olive oil",
+      "gold": [
+        "extra virgin olive oil"
+      ],
+      "pred": [
+        "olive oil"
+      ],
+      "missed": [
+        "extra virgin olive oil"
+      ],
+      "spurious": [
+        "olive oil"
+      ]
+    },
+    {
+      "text": "6 pork sausages meat squeezed from the skins",
+      "gold": [
+        "pork sausage"
+      ],
+      "pred": [
+        "pork sausage meat"
+      ],
+      "missed": [
+        "pork sausage"
+      ],
+      "spurious": [
+        "pork sausage meat"
+      ]
+    },
+    {
+      "text": "4 tbsp fresh white breadcrumbs (or put 1 slice crustless white bread through a food processor)",
+      "gold": [
+        "white bread",
+        "white breadcrumbs"
+      ],
+      "pred": [
+        "white breadcrumbs"
+      ],
+      "missed": [
+        "white bread"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "250g assorted sliced cured meats (we used a mixture of salami, garlic sausage and Bayonne ham, but sliced gammon or Parma ham also works well)",
+      "gold": [
+        "cured meat"
+      ],
+      "pred": [
+        "meat"
+      ],
+      "missed": [
+        "cured meat"
+      ],
+      "spurious": [
+        "meat"
+      ]
+    },
+    {
+      "text": "800g mixed boneless game such as rabbit, venison, wild boar, pheasant, partridge or pigeon, finely chopped",
+      "gold": [
+        "game"
+      ],
+      "pred": [
+        "game",
+        "pigeon",
+        "rabbit",
+        "venison",
+        "wild boar"
+      ],
+      "missed": [],
+      "spurious": [
+        "pigeon",
+        "rabbit",
+        "venison",
+        "wild boar"
+      ]
+    },
+    {
+      "text": "1 pre-baked 22cm gluten-free and vegan pastry case or a 400g pack gluten-free, vegan shortcrust pastry, rolled out and baked in a 22cm pie dish following pack instructions",
+      "gold": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "pred": [
+        "pastry case"
+      ],
+      "missed": [
+        "shortcrust pastry"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "3 meringues shells, either bought or homemade, broken into large pieces",
+      "gold": [
+        "meringue"
+      ],
+      "pred": [
+        "meringue shell"
+      ],
+      "missed": [
+        "meringue"
+      ],
+      "spurious": [
+        "meringue shell"
+      ]
+    },
+    {
+      "text": "1-2 tbsp  rapeseed or sunflower oil",
+      "gold": [
+        "rapeseed oil",
+        "sunflower oil"
+      ],
+      "pred": [
+        "rapeseed",
+        "sunflower oil"
+      ],
+      "missed": [
+        "rapeseed oil"
+      ],
+      "spurious": [
+        "rapeseed"
+      ]
+    },
+    {
+      "text": "4-6  short  asparagus spears",
+      "gold": [
+        "asparagus"
+      ],
+      "pred": [
+        "asparagus spear"
+      ],
+      "missed": [
+        "asparagus"
+      ],
+      "spurious": [
+        "asparagus spear"
+      ]
+    },
+    {
+      "text": "few drops peppermint essence or extract",
+      "gold": [
+        "peppermint essence"
+      ],
+      "pred": [
+        "extract",
+        "peppermint essence"
+      ],
+      "missed": [],
+      "spurious": [
+        "extract"
+      ]
+    },
+    {
+      "text": "thumb-sized piece of ginger crushed or 1 tbsp ginger purée",
+      "gold": [
+        "ginger",
+        "ginger puree"
+      ],
+      "pred": [
+        "ginger",
+        "ginger purée"
+      ],
+      "missed": [
+        "ginger puree"
+      ],
+      "spurious": [
+        "ginger purée"
+      ]
+    },
+    {
+      "text": "zest and juice 1  lime",
+      "gold": [
+        "lime"
+      ],
+      "pred": [
+        "lime",
+        "zest"
+      ],
+      "missed": [],
+      "spurious": [
+        "zest"
+      ]
+    },
+    {
+      "text": "1 red or white onion or 4 spring onions, chopped",
+      "gold": [
+        "red onion",
+        "spring onion",
+        "white onion"
+      ],
+      "pred": [
+        "spring onion",
+        "white onion"
+      ],
+      "missed": [
+        "red onion"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "400g fusilli lunghi or other pasta spirals",
+      "gold": [
+        "fusilli lunghi"
+      ],
+      "pred": [
+        "fusilli lunghi",
+        "pasta spiral"
+      ],
+      "missed": [],
+      "spurious": [
+        "pasta spiral"
+      ]
+    },
+    {
+      "text": "1kg bone-in Welsh lamb neck or shoulder",
+      "gold": [
+        "lamb"
+      ],
+      "pred": [
+        "shoulder",
+        "welsh lamb neck"
+      ],
+      "missed": [
+        "lamb"
+      ],
+      "spurious": [
+        "shoulder",
+        "welsh lamb neck"
+      ]
+    }
+  ],
+  "hybrid_transformer_plus_rules": [
+    {
+      "text": "20 glacé cherries halved",
+      "gold": [
+        "glace cherry"
+      ],
+      "pred": [
+        "cherry"
+      ],
+      "missed": [
+        "glace cherry"
+      ],
+      "spurious": [
+        "cherry"
+      ]
+    },
+    {
+      "text": "1 tsp each mixed spice ground ginger and grated nutmeg",
+      "gold": [
+        "ginger",
+        "nutmeg",
+        "spice"
+      ],
+      "pred": [
+        "nutmeg",
+        "spice ground ginger"
+      ],
+      "missed": [
+        "ginger",
+        "spice"
+      ],
+      "spurious": [
+        "spice ground ginger"
+      ]
+    },
+    {
+      "text": "cooked couscous or basmati rice, to serve",
+      "gold": [
+        "basmati rice",
+        "couscous"
+      ],
+      "pred": [
+        "couscous or basmati rice"
+      ],
+      "missed": [
+        "basmati rice",
+        "couscous"
+      ],
+      "spurious": [
+        "couscous or basmati rice"
+      ]
+    },
+    {
+      "text": "juice 1/2 small lemon",
+      "gold": [
+        "lemon"
+      ],
+      "pred": [
+        "juice",
+        "lemon"
+      ],
+      "missed": [],
+      "spurious": [
+        "juice"
+      ]
+    },
+    {
+      "text": "oil for deep frying, (ideally light olive oil)",
+      "gold": [
+        "oil",
+        "olive oil"
+      ],
+      "pred": [
+        "oil"
+      ],
+      "missed": [
+        "olive oil"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "crusty bread or mashed potato, to serve (optional)",
+      "gold": [
+        "crusty bread",
+        "potato"
+      ],
+      "pred": [
+        "bread",
+        "potato"
+      ],
+      "missed": [
+        "crusty bread"
+      ],
+      "spurious": [
+        "bread"
+      ]
+    },
+    {
+      "text": "1 large or 2 medium tart eating  apples",
+      "gold": [
+        "eating apple"
+      ],
+      "pred": [
+        "apple"
+      ],
+      "missed": [
+        "eating apple"
+      ],
+      "spurious": [
+        "apple"
+      ]
+    },
+    {
+      "text": "juice 1/2 lemon",
+      "gold": [
+        "lemon"
+      ],
+      "pred": [
+        "juice",
+        "lemon"
+      ],
+      "missed": [],
+      "spurious": [
+        "juice"
+      ]
+    },
+    {
+      "text": "&frac12; tsp fine sea salt",
+      "gold": [
+        "salt"
+      ],
+      "pred": [
+        "frac",
+        "salt"
+      ],
+      "missed": [],
+      "spurious": [
+        "frac"
+      ]
+    },
+    {
+      "text": "slice of  orange and a cherry on a stick",
+      "gold": [
+        "cherry",
+        "orange"
+      ],
+      "pred": [
+        "orange"
+      ],
+      "missed": [
+        "cherry"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "350g ready-roll icing",
+      "gold": [
+        "ready-roll icing"
+      ],
+      "pred": [
+        "icing",
+        "ready-roll"
+      ],
+      "missed": [
+        "ready-roll icing"
+      ],
+      "spurious": [
+        "icing",
+        "ready-roll"
+      ]
+    },
+    {
+      "text": "200g light brown soft sugar",
+      "gold": [
+        "light brown soft sugar"
+      ],
+      "pred": [
+        "brown soft sugar"
+      ],
+      "missed": [
+        "light brown soft sugar"
+      ],
+      "spurious": [
+        "brown soft sugar"
+      ]
+    },
+    {
+      "text": "1 ½ tbsp extra-virgin olive oil",
+      "gold": [
+        "extra virgin olive oil"
+      ],
+      "pred": [
+        "olive oil"
+      ],
+      "missed": [
+        "extra virgin olive oil"
+      ],
+      "spurious": [
+        "olive oil"
+      ]
+    },
+    {
+      "text": "6 pork sausages meat squeezed from the skins",
+      "gold": [
+        "pork sausage"
+      ],
+      "pred": [
+        "pork sausage meat"
+      ],
+      "missed": [
+        "pork sausage"
+      ],
+      "spurious": [
+        "pork sausage meat"
+      ]
+    },
+    {
+      "text": "4 tbsp fresh white breadcrumbs (or put 1 slice crustless white bread through a food processor)",
+      "gold": [
+        "white bread",
+        "white breadcrumbs"
+      ],
+      "pred": [
+        "white breadcrumbs"
+      ],
+      "missed": [
+        "white bread"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "250g assorted sliced cured meats (we used a mixture of salami, garlic sausage and Bayonne ham, but sliced gammon or Parma ham also works well)",
+      "gold": [
+        "cured meat"
+      ],
+      "pred": [
+        "meat"
+      ],
+      "missed": [
+        "cured meat"
+      ],
+      "spurious": [
+        "meat"
+      ]
+    },
+    {
+      "text": "800g mixed boneless game such as rabbit, venison, wild boar, pheasant, partridge or pigeon, finely chopped",
+      "gold": [
+        "game"
+      ],
+      "pred": [
+        "game",
+        "pigeon",
+        "rabbit",
+        "venison",
+        "wild boar"
+      ],
+      "missed": [],
+      "spurious": [
+        "pigeon",
+        "rabbit",
+        "venison",
+        "wild boar"
+      ]
+    },
+    {
+      "text": "1 pre-baked 22cm gluten-free and vegan pastry case or a 400g pack gluten-free, vegan shortcrust pastry, rolled out and baked in a 22cm pie dish following pack instructions",
+      "gold": [
+        "pastry case",
+        "shortcrust pastry"
+      ],
+      "pred": [
+        "pastry case"
+      ],
+      "missed": [
+        "shortcrust pastry"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "3 meringues shells, either bought or homemade, broken into large pieces",
+      "gold": [
+        "meringue"
+      ],
+      "pred": [
+        "meringue shell"
+      ],
+      "missed": [
+        "meringue"
+      ],
+      "spurious": [
+        "meringue shell"
+      ]
+    },
+    {
+      "text": "1-2 tbsp  rapeseed or sunflower oil",
+      "gold": [
+        "rapeseed oil",
+        "sunflower oil"
+      ],
+      "pred": [
+        "rapeseed",
+        "sunflower oil"
+      ],
+      "missed": [
+        "rapeseed oil"
+      ],
+      "spurious": [
+        "rapeseed"
+      ]
+    },
+    {
+      "text": "4-6  short  asparagus spears",
+      "gold": [
+        "asparagus"
+      ],
+      "pred": [
+        "asparagus spear"
+      ],
+      "missed": [
+        "asparagus"
+      ],
+      "spurious": [
+        "asparagus spear"
+      ]
+    },
+    {
+      "text": "few drops peppermint essence or extract",
+      "gold": [
+        "peppermint essence"
+      ],
+      "pred": [
+        "extract",
+        "peppermint essence"
+      ],
+      "missed": [],
+      "spurious": [
+        "extract"
+      ]
+    },
+    {
+      "text": "thumb-sized piece of ginger crushed or 1 tbsp ginger purée",
+      "gold": [
+        "ginger",
+        "ginger puree"
+      ],
+      "pred": [
+        "ginger",
+        "ginger purée"
+      ],
+      "missed": [
+        "ginger puree"
+      ],
+      "spurious": [
+        "ginger purée"
+      ]
+    },
+    {
+      "text": "zest and juice 1  lime",
+      "gold": [
+        "lime"
+      ],
+      "pred": [
+        "lime",
+        "zest"
+      ],
+      "missed": [],
+      "spurious": [
+        "zest"
+      ]
+    },
+    {
+      "text": "1 red or white onion or 4 spring onions, chopped",
+      "gold": [
+        "red onion",
+        "spring onion",
+        "white onion"
+      ],
+      "pred": [
+        "spring onion",
+        "white onion"
+      ],
+      "missed": [
+        "red onion"
+      ],
+      "spurious": []
+    },
+    {
+      "text": "400g fusilli lunghi or other pasta spirals",
+      "gold": [
+        "fusilli lunghi"
+      ],
+      "pred": [
+        "fusilli lunghi",
+        "pasta spiral"
+      ],
+      "missed": [],
+      "spurious": [
+        "pasta spiral"
+      ]
+    },
+    {
+      "text": "1kg bone-in Welsh lamb neck or shoulder",
+      "gold": [
+        "lamb"
+      ],
+      "pred": [
+        "shoulder",
+        "welsh lamb neck"
+      ],
+      "missed": [
+        "lamb"
+      ],
+      "spurious": [
+        "shoulder",
+        "welsh lamb neck"
+      ]
+    }
+  ]
+}

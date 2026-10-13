@@ -1,0 +1,23 @@
+{
+  "python_version": "3.12.4",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "packages": {
+    "spacy": "3.8.16",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1",
+    "requests": "2.34.2",
+    "beautifulsoup4": "4.15.0"
+  },
+  "spacy_models": [
+    "en_core_web_sm",
+    "en_core_web_lg"
+  ],
+  "global_seed": 20260908,
+  "ner_training_data": "TASTEset (github.com/taisti/TASTEset, MIT licence)",
+  "ner_base_config": "spacy init config --lang en --pipeline ner --optimize accuracy (tok2vec + en_core_web_lg vectors)",
+  "scrape_source": "bbcgoodfood.com (schema.org Recipe JSON-LD)",
+  "scrape_date": "2026-09-08"
+}

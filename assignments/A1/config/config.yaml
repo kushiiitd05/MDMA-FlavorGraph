@@ -1,0 +1,50 @@
+# Computational Gastronomy BIO544 - Assignment 1
+# Central configuration. All pipeline stages read from here.
+
+project:
+  name: "CGAS-BIO544-A1"
+  seed: 20260908          # global RNG seed (reproducibility)
+
+source:
+  site_name: "BBC Good Food"
+  site_id: "bbcgoodfood"
+  base_url: "https://www.bbcgoodfood.com"
+  sitemap_index: "https://www.bbcgoodfood.com/sitemap.xml"
+  recipe_sitemap_pattern: "recipe\\.xml$"
+  # NOTE: RecipeDB is explicitly forbidden by the assignment and is NOT used anywhere.
+  forbidden_sources: ["recipedb", "cosylab.iiitd.edu.in"]
+
+scrape:
+  target_valid_recipes: 10000
+  sample_size: 12000        # URLs sampled from universe (headroom for failures/dupes)
+  max_workers: 4            # modest concurrency - polite
+  per_worker_delay_s: 0.6   # politeness delay between requests per worker
+  timeout_s: 30
+  max_retries: 3
+  backoff_base_s: 2.0       # exponential backoff: base * 2**attempt
+  checkpoint_every: 250
+  user_agent: "CGAS-BIO544-AcademicResearchBot/1.0 (IIIT-Delhi coursework; contact via course staff) requests/2"
+  respect_robots: true
+
+paths:
+  url_universe:    "data/raw/url_universe.txt"
+  url_sample:      "data/raw/url_sample.txt"
+  raw_jsonl:       "data/raw/recipes_raw.jsonl"
+  failures:        "logs/scrape_failures.jsonl"
+  visited:         "data/raw/visited_urls.txt"
+
+schema:
+  scrape_version: "1.0.0"
+
+ner:
+  tasteset_csv: "data/external/TASTEset.csv"
+  # Tag set follows Diwan/Batra/Bagler-style recipe NER conventions, mapped from TASTEset
+  model_dir: "data/interim/ner_model"
+  gold_eval: "data/interim/gold_eval.jsonl"
+
+analysis:
+  # FROZEN DEFINITIONS (see docs/DECISION_LOG.md)
+  ingredient_frequency: "recipe_frequency"   # f_i = #{recipes containing i}
+  recipe_size: "unique_canonical_ingredients"
+  rank_convention: "competition"             # ties share the minimum rank ("1224")
+  cdf_convention: "F(s) = P(S <= s)"         # CCDF supplied as supplementary

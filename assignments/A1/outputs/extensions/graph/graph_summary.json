@@ -1,0 +1,23 @@
+{
+  "node_counts": {
+    "recipe": 11934,
+    "ingredient": 6412,
+    "cuisine": 72,
+    "state": 11828
+  },
+  "edge_counts": {
+    "CONTAINS": 115197,
+    "USES_STATE": 66994,
+    "HAS_STATE": 11828,
+    "HAS_CUISINE": 6977
+  },
+  "n_nodes": 30246,
+  "n_edges": 200996,
+  "edge_semantics": {
+    "HAS_CUISINE": "recipe -> cuisine, only where the source states one",
+    "CONTAINS": "recipe -> canonical ingredient (primary alternatives only)",
+    "HAS_STATE": "ingredient -> its processed form; the state is a SUB-PART of the ingredient, never a competing top-level node",
+    "USES_STATE": "recipe -> the processed form it used"
+  },
+  "note": "Extension only. Q1(c)/Q2/Q3 do not depend on this graph."
+}

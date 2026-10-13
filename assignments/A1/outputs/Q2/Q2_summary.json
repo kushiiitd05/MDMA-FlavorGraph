@@ -1,0 +1,144 @@
+{
+  "n_recipes": 11934,
+  "n_unique_canonical_ingredients": 6346,
+  "n_total_mentions": 123598,
+  "frequency_definition": "f_i = number of distinct recipes containing ingredient i",
+  "top_20": [
+    {
+      "rank": 1,
+      "ingredient": "garlic",
+      "recipe_frequency": 3459,
+      "fraction_of_recipes": 0.2898
+    },
+    {
+      "rank": 2,
+      "ingredient": "butter",
+      "recipe_frequency": 3440,
+      "fraction_of_recipes": 0.2883
+    },
+    {
+      "rank": 3,
+      "ingredient": "olive oil",
+      "recipe_frequency": 3155,
+      "fraction_of_recipes": 0.2644
+    },
+    {
+      "rank": 4,
+      "ingredient": "egg",
+      "recipe_frequency": 2793,
+      "fraction_of_recipes": 0.234
+    },
+    {
+      "rank": 5,
+      "ingredient": "onion",
+      "recipe_frequency": 2039,
+      "fraction_of_recipes": 0.1709
+    },
+    {
+      "rank": 6,
+      "ingredient": "lemon",
+      "recipe_frequency": 2030,
+      "fraction_of_recipes": 0.1701
+    },
+    {
+      "rank": 7,
+      "ingredient": "plain flour",
+      "recipe_frequency": 1802,
+      "fraction_of_recipes": 0.151
+    },
+    {
+      "rank": 8,
+      "ingredient": "coriander",
+      "recipe_frequency": 1425,
+      "fraction_of_recipes": 0.1194
+    },
+    {
+      "rank": 9,
+      "ingredient": "caster sugar",
+      "recipe_frequency": 1199,
+      "fraction_of_recipes": 0.1005
+    },
+    {
+      "rank": 10,
+      "ingredient": "tomato",
+      "recipe_frequency": 1115,
+      "fraction_of_recipes": 0.0934
+    },
+    {
+      "rank": 11,
+      "ingredient": "golden caster sugar",
+      "recipe_frequency": 1074,
+      "fraction_of_recipes": 0.09
+    },
+    {
+      "rank": 12,
+      "ingredient": "double cream",
+      "recipe_frequency": 1032,
+      "fraction_of_recipes": 0.0865
+    },
+    {
+      "rank": 13,
+      "ingredient": "milk",
+      "recipe_frequency": 1021,
+      "fraction_of_recipes": 0.0856
+    },
+    {
+      "rank": 14,
+      "ingredient": "parsley",
+      "recipe_frequency": 1017,
+      "fraction_of_recipes": 0.0852
+    },
+    {
+      "rank": 15,
+      "ingredient": "red onion",
+      "recipe_frequency": 961,
+      "fraction_of_recipes": 0.0805
+    },
+    {
+      "rank": 16,
+      "ingredient": "icing sugar",
+      "recipe_frequency": 945,
+      "fraction_of_recipes": 0.0792
+    },
+    {
+      "rank": 17,
+      "ingredient": "carrot",
+      "recipe_frequency": 939,
+      "fraction_of_recipes": 0.0787
+    },
+    {
+      "rank": 18,
+      "ingredient": "spring onion",
+      "recipe_frequency": 928,
+      "fraction_of_recipes": 0.0778
+    },
+    {
+      "rank": 19,
+      "ingredient": "ginger",
+      "recipe_frequency": 927,
+      "fraction_of_recipes": 0.0777
+    },
+    {
+      "rank": 20,
+      "ingredient": "vegetable oil",
+      "recipe_frequency": 888,
+      "fraction_of_recipes": 0.0744
+    }
+  ],
+  "recipe_size": {
+    "n_recipes": 11934,
+    "definition_recipe_size": "number of unique canonical ingredients in the recipe",
+    "mean_recipe_size": 9.6528,
+    "std_dev": 3.9512,
+    "median": 9.0,
+    "min": 1,
+    "max": 38,
+    "q1": 7.0,
+    "q3": 12.0,
+    "p05": 4.0,
+    "p95": 17.0,
+    "skewness": 0.7607,
+    "excess_kurtosis": 1.1858,
+    "note": "Distribution is right-skewed, NOT assumed Gaussian; skewness/kurtosis reported so the reader can judge."
+  }
+}
